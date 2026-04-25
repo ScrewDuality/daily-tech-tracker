@@ -1,41 +1,41 @@
 {
-  "timestamp": "2026-04-25T17:16:08.052810+08:00",
+  "timestamp": "2026-04-25T17:24:23.132337+08:00",
   "date": "2026-04-25",
   "articles": [
     {
-      "title": "搭載戰斧飛彈與垂發系統，洛馬和 Saildrone 合作推出 52 公尺「幽靈」無人艦",
-      "url": "https://technews.tw/2026/04/25/saildrone-and-lockheed-martin-colleb-on-new-spectre-musv-with-vls/",
-      "core_insight": "大型無人平台導向模組化硬體與分散式控制。",
-      "rd_relevance": "High",
-      "action_suggestion": "研發團隊應針對軍規級分散式邊緣運算模組進行佈局。"
-    },
-    {
-      "title": "裁員潮與 AI 衝擊雙管齊下，全球逾四成遊戲開發者萌生退意",
-      "url": "https://technews.tw/2026/04/25/ai-in-game-development-what-it-means-for-developers-in-2026/",
-      "core_insight": "AI 替代重複性軟體工作，人才轉向垂直應用。",
-      "rd_relevance": "Low",
-      "action_suggestion": "可趁勢招募具備 3D 建模與軟硬整合經驗之離職員工。"
-    },
-    {
       "title": "蘋果地圖全新升級！F1 邁阿密站上線沉浸式體驗，讓你觀賽更便利",
       "url": "https://technews.tw/2026/04/25/apple-maps-adds-in-depth-f1-experience-for-miami-grand-prix/",
-      "core_insight": "即時 3D 渲染與 AR 應用帶動終端顯示效能需求。",
+      "core_insight": "Apple強化3D地圖體驗，推動裝置圖形處理與AR應用。",
       "rd_relevance": "Medium",
-      "action_suggestion": "優化行動終端顯示驅動與低功耗 3D 渲染技術。"
+      "action_suggestion": "關注Apple SoC在圖形處理及AR/VR沉浸式體驗的技術演進與感測器整合，思考終端體驗對硬體算力及感測器融合的需求。"
     },
     {
       "title": "為何長壽基因輸給繁殖力？鵪鶉實驗解答演化的殘酷優先順序",
       "url": "https://technews.tw/2026/04/25/birds-that-invest-more-energy-into-parenthood-age-faster-and-die-younger/",
-      "core_insight": "能量分配權衡模型可供系統動態功耗調配參考。",
+      "core_insight": "生物演化權衡：高繁殖投入加速衰老。",
       "rd_relevance": "Low",
-      "action_suggestion": "分析生物資源分配邏輯並應用於嵌入式電源管理算法。"
+      "action_suggestion": "無直接關聯，無需採取行動。"
     },
     {
       "title": "2027 MBP 將改名 MacBook Ultra？將帶來六大新功能",
       "url": "https://technews.tw/2026/04/25/macbook-ultra-2/",
-      "core_insight": "旗艦級 SoC 規格競速推升封裝與散熱挑戰。",
+      "core_insight": "蘋果計畫推出MacBook Ultra，鎖定更高階效能市場。",
       "rd_relevance": "High",
-      "action_suggestion": "追蹤 2nm 製程進度並預先評估新一代高熱密度散熱材料。"
+      "action_suggestion": "密切關注蘋果MacBook Ultra潛在的新功能與M系列晶片架構升級，評估對高階運算平台設計的啟示，特別是功耗、散熱與性能平衡的創新。"
+    },
+    {
+      "title": "別再迷戀「職涯階梯」！AI 時代新邏輯：像「攀岩」一樣靈活發展你的職涯",
+      "url": "https://technews.tw/2026/04/25/linkedin-executive-says-traditional-career-paths-no-longer-work/",
+      "core_insight": "AI重塑職場，職涯發展需具備跨領域技能與靈活性。",
+      "rd_relevance": "Low",
+      "action_suggestion": "鼓勵團隊成員進行跨職能訓練，並關注AI對研發流程自動化的潛在影響，以優化工作模式及團隊技能組合。"
+    },
+    {
+      "title": "廣達 38 週年廠慶，林百里、梁次震齊喊再拚成長",
+      "url": "https://finance.technews.tw/2026/04/25/quanta-38th-anniversary/",
+      "core_insight": "廣達AI伺服器業務強勁成長，確立AI為核心動能。",
+      "rd_relevance": "High",
+      "action_suggestion": "持續關注AI伺服器市場需求及廣達等供應商的技術發展方向，特別是高效能運算、先進散熱與電源管理的解決方案，評估對我們晶片設計及系統整合的影響。"
     }
   ]
 }
