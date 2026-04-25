@@ -1,9 +1,9 @@
 name: 📡 Daily Tech News Scraper
 
 on:
-  # 每天早上 8 點 UTC (台灣時間下午 4 點) 執行
+  # 每天台灣時間早上 8 點執行
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 0 * * *'
   
   # 允許手動觸發
   workflow_dispatch:
