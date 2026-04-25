@@ -20,8 +20,14 @@ pip install requests google-generativeai
 
 在終端機執行爬蟲前，設定環境變數：
 
+**Mac/Linux (Bash/Zsh):**
 ```bash
 export GEMINI_API_KEY="your-api-key-here"
+```
+
+**Windows (PowerShell):**
+```powershell
+$env:GEMINI_API_KEY="your-api-key-here"
 ```
 
 或在 `.env` 檔案中設定（建議加入 `.gitignore`）：
@@ -39,15 +45,28 @@ python daily_scraper.py
 
 開發時不想消耗 API 額度，可以設定環境變數跳過 AI 分析：
 
+**Mac/Linux (Bash/Zsh):**
 ```bash
 export SKIP_AI=true
 python daily_scraper.py
+# 或單行執行：SKIP_AI=true python daily_scraper.py
 ```
 
-或直接執行：
-```bash
-SKIP_AI=true python daily_scraper.py
+**Windows (PowerShell):**
+```powershell
+$env:SKIP_AI="true"
+python daily_scraper.py
 ```
+
+#### 🤖 使用 Antigravity 進行自動測試
+
+如果你正在使用 Antigravity AI 助理，你可以直接用自然語言請它幫你測試。Antigravity 會自動處理 Windows PowerShell 等不同環境的指令語法差異（像是處理麻煩的 `$env:VAR`）：
+
+- **一般執行：** 請輸入「幫我執行測試腳本」或「跑 daily_scraper.py」。
+- **無 AI 模式：** 請輸入「幫我用 SKIP_AI 模式執行爬蟲」。
+- **帶入密鑰測試：** 請輸入「先幫我設定好 GEMINI_API_KEY 再跑測試」。
+
+Antigravity 會自動在背景打好正確的指令並執行。
 
 ✅ SKIP_AI 模式會：
 - 跳過 Gemini AI 調用
@@ -62,8 +81,14 @@ SKIP_AI=true python daily_scraper.py
 
 ### 4️⃣ 本地查看 GitHub Pages
 
+**Mac/Linux (Bash/Zsh):**
 ```bash
 cd docs && python -m http.server 8080
+```
+
+**Windows (PowerShell):**
+```powershell
+cd docs; python -m http.server 8080
 ```
 
 然後訪問 `http://localhost:8080` 查看頁面

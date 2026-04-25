@@ -17,7 +17,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-SCRAPE_MINUTES_THRESHOLD = int(os.getenv("SCRAPE_MINUTES_THRESHOLD", "60"))
+SCRAPE_MINUTES_THRESHOLD = int(os.getenv("SCRAPE_MINUTES_THRESHOLD", "0"))
 OUTPUT_DIR = Path("docs")
 OUTPUT_FILE = OUTPUT_DIR / "daily_news.json"
 
