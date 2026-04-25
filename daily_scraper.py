@@ -1,5 +1,10 @@
 import os
+import sys
 import re
+
+# Fix for Windows terminal Unicode output issues
+if sys.stdout.encoding.lower() != 'utf-8':
+    sys.stdout.reconfigure(encoding='utf-8')
 import requests
 from bs4 import BeautifulSoup
 from bs4 import XMLParsedAsHTMLWarning, FeatureNotFound
