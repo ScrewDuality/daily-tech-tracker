@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📡 每日科技情報 | Daily Tech Tracker</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft JhengHei', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            animation: slideDown 0.6s ease-out;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .timestamp {
+            color: rgba(255,255,255,0.8);
+            font-size: 0.9em;
+            margin-top: 10px;
+        }
+
+        .news-grid {
+            display: grid;
+            gap: 20px;
+            animation: fadeIn 0.8s ease-out;
+        }
+
+        .news-card {
+            background: white;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .news-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+        }
+
+        .news-card h3 {
+            font-size: 1.3em;
+            margin-bottom: 12px;
+            color: #667eea;
+            line-height: 1.5;
+        }
+
+        .card-meta {
+            display: flex;
+            gap: 12px;
+            margin-top: 12px;
+            flex-wrap: wrap;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+
+        .category {
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        .interest-high {
+            background: #c8e6c9;
+            color: #388e3c;
+        }
+
+        .interest-medium {
+            background: #fff3e0;
+            color: #f57c00;
+        }
+
+        .interest-low {
+            background: #f5f5f5;
+            color: #616161;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            padding: 40px;
+            font-size: 1.2em;
+        }
+
+        .error {
+            background: #ffcdd2;
+            color: #c62828;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 1.1em;
+        }
+
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        .footer {
+            text-align: center;
+            color: rgba(255,255,255,0.7);
+            margin-top: 40px;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 1.8em;
+            }
+
+            .news-card {
+                padding: 16px;
+            }
+
+            .news-card h3 {
+                font-size: 1.1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📡 每日科技情報</h1>
+            <p>Daily Tech Tracker - 由 AI 助理自動聚合</p>
+            <div class="timestamp" id="timestamp">Loading...</div>
+        </header>
+
+        <div id="content">
+            <div class="loading">⏳ 正在載入最新資訊...</div>
+        </div>
+
+        <div class="footer">
+            <p>🔄 每日自動更新 | Powered by Gemini AI + Hacker News</p>
+        </div>
+    </div>
+
+    <script>
+        async function loadNews() {
+            try {
+                const response = await fetch('./daily_news.json');
+                
+                if (!response.ok) {
+                    throw new Error('無法載入資料');
+                }
+
+                const data = await response.json();
+                const content = document.getElementById('content');
+                
+                // 更新時間戳
+                const timestamp = document.getElementById('timestamp');
+                const date = new Date(data.timestamp);
+                const formattedDate = date.toLocaleString('zh-TW');
+                timestamp.textContent = `📅 最後更新: ${formattedDate}`;
+
+                // 生成新聞卡片
+                if (data.articles && Array.isArray(data.articles)) {
+                    content.innerHTML = `<div class="news-grid">${
+                        data.articles.map(article => `
+                            <div class="news-card">
+                                <h3>${article.title}</h3>
+                                <div class="card-meta">
+                                    <span class="badge category">📂 ${article.category}</span>
+                                    <span class="badge interest-${article.interest_level.toLowerCase()}">
+                                        ⭐ ${article.interest_level}
+                                    </span>
+                                </div>
+                            </div>
+                        `).join('')
+                    }</div>`;
+                } else {
+                    throw new Error('資料格式不正確');
+                }
+            } catch (error) {
+                document.getElementById('content').innerHTML = `
+                    <div class="error">
+                        ❌ 無法載入資料: ${error.message}<br>
+                        <small>請確保已執行 daily_scraper.py</small>
+                    </div>
+                `;
+            }
+        }
+
+        // 頁面載入時執行
+        document.addEventListener('DOMContentLoaded', loadNews);
+    </script>
+</body>
+</html>
