@@ -96,6 +96,29 @@
             color: #555;
         }
 
+        .meta-line {
+            margin: 6px 0 14px;
+            color: #6b6b6b;
+            font-size: 0.92em;
+        }
+
+        .keyword-list {
+            margin-top: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .keyword-chip {
+            display: inline-flex;
+            align-items: center;
+            padding: 6px 10px;
+            border-radius: 999px;
+            background: #eef2ff;
+            color: #2b3a8a;
+            font-size: 0.82em;
+        }
+
         .core-insight {
             padding: 8px;
             background: #f0f4ff;
@@ -128,6 +151,21 @@
         .category {
             background: #e3f2fd;
             color: #1976d2;
+        }
+
+        .impact-high {
+            background: #c8e6c9;
+            color: #2e7d32;
+        }
+
+        .impact-medium {
+            background: #fff3e0;
+            color: #ef6c00;
+        }
+
+        .impact-low {
+            background: #f5f5f5;
+            color: #424242;
         }
 
         .relevance-high {
@@ -181,6 +219,52 @@
             }
         }
 
+        .sort-bar {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 12px;
+            margin: 20px auto 30px;
+            max-width: 900px;
+        }
+
+        .sort-bar button {
+            border: 1px solid rgba(255,255,255,0.3);
+            padding: 10px 16px;
+            border-radius: 999px;
+            background: rgba(255,255,255,0.2);
+            color: white;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-size: 0.95em;
+            backdrop-filter: blur(4px);
+        }
+
+        .sort-bar select {
+            border: 1px solid rgba(255,255,255,0.3);
+            padding: 10px 14px;
+            border-radius: 999px;
+            background: rgba(255,255,255,0.2);
+            color: white;
+            cursor: pointer;
+            font-size: 0.95em;
+            outline: none;
+            backdrop-filter: blur(4px);
+        }
+
+        .sort-bar select option {
+            background: #ffffff;
+            color: #333333;
+        }
+
+        .sort-bar button:hover,
+        .sort-bar button.active {
+            background: #ffffff;
+            color: #667eea;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
         .footer {
             text-align: center;
             color: rgba(255,255,255,0.7);
@@ -211,6 +295,15 @@
             <div class="timestamp" id="timestamp">Loading...</div>
         </header>
 
+        <div class="sort-bar" id="sortBar" style="display:none;">
+            <button id="sortHigh" type="button">排序：研發關聯度高到低</button>
+            <button id="sortLow" type="button">排序：研發關聯度低到高</button>
+            <button id="sortDefault" type="button" class="active">原始順序</button>
+            <select id="categoryFilter" aria-label="分類篩選">
+                <option value="All">全部分類</option>
+            </select>
+        </div>
+
         <div id="content">
             <div class="loading">⏳ 正在載入最新資訊...</div>
         </div>
@@ -221,6 +314,94 @@
     </div>
 
     <script>
+        let articlesData = [];
+        let defaultOrder = [];
+        let currentCategory = 'All';
+        let currentSort = 'default';
+
+        function renderArticles(articles) {
+            const content = document.getElementById('content');
+            if (!articles || !Array.isArray(articles)) {
+                throw new Error('資料格式不正確');
+            }
+
+            content.innerHTML = `<div class="news-grid">${
+                articles.map(article => {
+                    const publishedAt = article.published_at ? new Date(article.published_at) : null;
+                    const publishedLabel = publishedAt && !isNaN(publishedAt)
+                        ? new Intl.DateTimeFormat('zh-TW', {
+                            timeZone: 'Asia/Taipei',
+                            year: 'numeric',
+                            month: '2-digit',
+                            day: '2-digit',
+                            hour: '2-digit',
+                            minute: '2-digit'
+                        }).format(publishedAt)
+                        : '時間未提供';
+                    const keywords = Array.isArray(article.keywords) ? article.keywords : (article.keywords ? article.keywords.split(',').map(k => k.trim()) : []);
+                    return `
+                    <div class="news-card">
+                        <h3>
+                            <a href="${article.url}" target="_blank" rel="noopener noreferrer">
+                                ${article.title}
+                            </a>
+                        </h3>
+                        <p class="meta-line">📍 ${article.source} • 🕒 ${publishedLabel}</p>
+                        <div class="card-content">
+                            <p class="core-insight">
+                                <strong>💡 核心情報：</strong> ${article.core_insight || article.summary || '無摘要'}
+                            </p>
+                            <p class="action">
+                                <strong>🎯 行動建議：</strong> ${article.action_suggestion || '無'}
+                            </p>
+                            ${keywords.length ? `<div class="keyword-list">${keywords.map(k => `<span class="keyword-chip">${k}</span>`).join('')}</div>` : ''}
+                        </div>
+                        <div class="card-meta">
+                            <span class="badge category">📂 ${article.category || 'Other'}</span>
+                            <span class="badge impact-${(article.impact || 'Low').toLowerCase()}">⚡ ${article.impact || 'Low'}</span>
+                            <span class="badge relevance-${(article.rd_relevance || 'Low').toLowerCase()}">📊 ${article.rd_relevance || 'Low'}</span>
+                        </div>
+                    </div>
+                `;
+                }).join('')
+            }</div>`;
+        }
+
+        function getUniqueCategories() {
+            const categories = new Set(articlesData.map(article => (article.category || 'Other')));
+            return ['All', ...[...categories].sort()];
+        }
+
+        function applyFiltersAndSort() {
+            let filtered = currentCategory === 'All'
+                ? [...defaultOrder]
+                : defaultOrder.filter(article => (article.category || 'Other') === currentCategory);
+
+            const orderValue = { High: 3, Medium: 2, Low: 1 };
+            if (currentSort === 'high') {
+                filtered.sort((a, b) => orderValue[b.rd_relevance] - orderValue[a.rd_relevance]);
+            } else if (currentSort === 'low') {
+                filtered.sort((a, b) => orderValue[a.rd_relevance] - orderValue[b.rd_relevance]);
+            }
+
+            renderArticles(filtered);
+        }
+
+        function sortByRelevance(order = 'default') {
+            currentSort = order;
+            applyFiltersAndSort();
+        }
+
+        function filterByCategory(category) {
+            currentCategory = category;
+            applyFiltersAndSort();
+        }
+
+        function setActiveButton(activeId) {
+            const buttons = document.querySelectorAll('.sort-bar button');
+            buttons.forEach(btn => btn.classList.toggle('active', btn.id === activeId));
+        }
+
         async function loadNews() {
             try {
                 const response = await fetch('./daily_news.json');
@@ -230,9 +411,6 @@
                 }
 
                 const data = await response.json();
-                const content = document.getElementById('content');
-                
-                // 更新時間戳
                 const timestamp = document.getElementById('timestamp');
                 const date = new Date(data.timestamp);
                 const formattedDate = new Intl.DateTimeFormat('zh-TW', {
@@ -246,32 +424,18 @@
                 }).format(date);
                 timestamp.textContent = `📅 最後更新: ${formattedDate} (台北時間)`;
 
-                // 生成新聞卡片
                 if (data.articles && Array.isArray(data.articles)) {
-                    content.innerHTML = `<div class="news-grid">${
-                        data.articles.map(article => `
-                            <div class="news-card">
-                                <h3>
-                                    <a href="${article.url}" target="_blank" rel="noopener noreferrer">
-                                        ${article.title}
-                                    </a>
-                                </h3>
-                                <div class="card-content">
-                                    <p class="core-insight">
-                                        <strong>💡 核心情報：</strong> ${article.core_insight}
-                                    </p>
-                                    <p class="action">
-                                        <strong>🎯 行動建議：</strong> ${article.action_suggestion}
-                                    </p>
-                                </div>
-                                <div class="card-meta">
-                                    <span class="badge relevance-${article.rd_relevance.toLowerCase()}">
-                                        📊 ${article.rd_relevance}
-                                    </span>
-                                </div>
-                            </div>
-                        `).join('')
-                    }</div>`;
+                    articlesData = data.articles;
+                    defaultOrder = [...articlesData];
+
+                    const categoryFilter = document.getElementById('categoryFilter');
+                    categoryFilter.innerHTML = getUniqueCategories()
+                        .map(category => `<option value="${category}">${category === 'All' ? '全部分類' : category}</option>`)
+                        .join('');
+                    categoryFilter.value = 'All';
+
+                    document.getElementById('sortBar').style.display = 'flex';
+                    applyFiltersAndSort();
                 } else {
                     throw new Error('資料格式不正確');
                 }
@@ -285,8 +449,26 @@
             }
         }
 
-        // 頁面載入時執行
-        document.addEventListener('DOMContentLoaded', loadNews);
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('sortHigh').addEventListener('click', () => {
+                sortByRelevance('high');
+                setActiveButton('sortHigh');
+            });
+            document.getElementById('sortLow').addEventListener('click', () => {
+                sortByRelevance('low');
+                setActiveButton('sortLow');
+            });
+            document.getElementById('sortDefault').addEventListener('click', () => {
+                sortByRelevance('default');
+                setActiveButton('sortDefault');
+            });
+
+            document.getElementById('categoryFilter').addEventListener('change', (event) => {
+                filterByCategory(event.target.value);
+            });
+
+            loadNews();
+        });
     </script>
 </body>
 </html>

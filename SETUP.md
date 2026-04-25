@@ -35,17 +35,38 @@ GEMINI_API_KEY=your-api-key-here
 python daily_scraper.py
 ```
 
-✅ 成功後會看到：
+#### 🔧 本地測試模式 (跳過 AI 調用)
+
+開發時不想消耗 API 額度，可以設定環境變數跳過 AI 分析：
+
+```bash
+export SKIP_AI=true
+python daily_scraper.py
+```
+
+或直接執行：
+```bash
+SKIP_AI=true python daily_scraper.py
+```
+
+✅ SKIP_AI 模式會：
+- 跳過 Gemini AI 調用
+- 直接輸出基本新聞資訊（標題、URL、來源、摘要）
+- 其他欄位（關鍵詞、類別、影響度等）設為預設值
+- **仍然保存 JSON 文件**供 HTML 頁面測試使用
+- 適合快速測試爬蟲功能和網頁顯示
+
+✅ 正常模式成功後會看到：
 - 終端機輸出 JSON 格式結果
 - `docs/daily_news.json` 被生成
 
 ### 4️⃣ 本地查看 GitHub Pages
 
 ```bash
-cd docs && python -m http.server 8000
+cd docs && python -m http.server 8080
 ```
 
-然後訪問 `http://localhost:8000` 查看頁面
+然後訪問 `http://localhost:8080` 查看頁面
 
 ---
 
