@@ -11,7 +11,7 @@ from zoneinfo import ZoneInfo
 # 1. 喚醒大腦
 api_key = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-flash-latest')
+model = genai.GenerativeModel('gemini-2.5-flash')
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
