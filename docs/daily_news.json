@@ -1,634 +1,646 @@
 {
-  "timestamp": "2026-05-04T11:27:58.139693+08:00",
-  "date": "2026-05-04",
+  "timestamp": "2026-05-05T10:55:30.737516+08:00",
+  "date": "2026-05-05",
   "articles": [
     {
-      "title": "小確幸變賭上人生，美研究：房子買不起會改變行為",
-      "url": "https://technews.tw/?p=1549458",
+      "title": "南極豪華郵輪上的鼠疫，氣候變遷的冰山一角",
+      "url": "https://technews.tw/?p=1550304",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "一項美國研究指出，當前年輕人的畢業優先事項不再是找工作或升學，而是選擇繼續打工或考慮海外發展，顯示房價壓力正改變其人生規劃。",
+      "published_at": "",
+      "summary": "全球對漢他病毒關注度升高，近期南極郵輪爆發鼠疫疫情，突顯氣候變遷帶來的環境與健康挑戰。",
       "keywords": [
-        "房價",
-        "年輕人",
-        "社會經濟",
-        "行為改變"
+        "鼠疫",
+        "漢他病毒",
+        "氣候變遷",
+        "公共衛生"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "這則新聞主要關注社會經濟趨勢，與硬體、晶片、供應鏈或AI技術研發無直接關聯。",
-      "action_suggestion": "無需特別關注。"
+      "why_it_matters": "此新聞與我們的硬體與嵌入式系統研發方向無直接關聯。",
+      "action_suggestion": "無"
     },
     {
-      "title": "川普宣布荷莫茲海峽商船脫困機制，業界懷疑效果",
-      "url": "https://technews.tw/?p=1549488",
+      "title": "OpenAI 考慮分拆機器人與硬體部門，為 IPO 鋪路",
+      "url": "https://technews.tw/?p=1550289",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "美國總統川普宣布「自由計畫」以協助荷莫茲海峽商船脫困，但業界對其在不涉及軍事護航下的實施效果持懷疑態度。",
+      "published_at": "",
+      "summary": "OpenAI 執行長 Sam Altman 透露公司曾考慮在 2025 年底分拆其機器人與硬體部門，此舉旨在為未來的 IPO 做準備。",
       "keywords": [
-        "荷莫茲海峽",
-        "商船",
-        "地緣政治",
-        "供應鏈"
+        "OpenAI",
+        "機器人",
+        "AI硬體",
+        "IPO",
+        "Sam Altman"
+      ],
+      "category": "AI/Hardware",
+      "rd_relevance": "High",
+      "impact": "Medium",
+      "why_it_matters": "OpenAI考慮分拆機器人與硬體部門，顯示AI公司正積極佈局實體硬體與機器人應用，這驗證了我們在AI終端應用和硬體研發上的策略方向。",
+      "action_suggestion": "需追蹤OpenAI硬體/機器人部門的發展方向及技術細節，評估未來合作或市場競爭的潛力。"
+    },
+    {
+      "title": "Brookfield 聯手 The Nuclear Company，採西屋技術搶進核電市場",
+      "url": "https://technews.tw/?p=1550272",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "投資機構布魯克菲爾德資產管理公司與 The Nuclear Company 合作，將採用西屋的核電技術進軍市場。",
+      "keywords": [
+        "核電",
+        "能源",
+        "Brookfield",
+        "西屋"
       ],
       "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞主要聚焦於能源市場與投資，與我們的硬體與嵌入式系統研發無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "小龍蝦幫你花錢需要 AI 代理錢包！奧丁丁將穩定幣帶進 AI 代理世界",
+      "url": "https://technews.tw/?p=1550309",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "奧丁丁發布 OwlPay Agent Wallet，將穩定幣技術導入AI代理錢包，實現AI代理自動支付功能。",
+      "keywords": [
+        "AI代理",
+        "錢包",
+        "穩定幣",
+        "區塊鏈",
+        "奧丁丁"
+      ],
+      "category": "AI/Software",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "AI代理應用與區塊鏈金融整合的趨勢，可能對終端AI系統的安全性、運算需求及支付介面設計產生影響。",
+      "action_suggestion": "關注AI代理錢包的安全性需求及相關AI模型在終端設備上的佈署潛力。"
+    },
+    {
+      "title": "馬斯克買 Twitter 涉違規，4,800 萬罰款創 SEC 同類案新高",
+      "url": "https://technews.tw/?p=1550286",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "科技大亨馬斯克同意支付 150 萬美元罰款，以了結美國證券管理委員會對其收購 Twitter 違規行為的訴訟。",
+      "keywords": [
+        "馬斯克",
+        "Twitter",
+        "SEC",
+        "罰款",
+        "收購"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞主要涉及企業法規與罰款，與我們的硬體與嵌入式系統研發無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "火箭製造商 Firefly 營收優、劍指月球背面  盤後嗨",
+      "url": "https://technews.tw/?p=1550258",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "火箭製造商 Firefly Aerospace 第一季營收表現優於預期，股價盤後飆漲，並宣示將進軍月球背面探索。",
+      "keywords": [
+        "Firefly Aerospace",
+        "火箭",
+        "太空探索",
+        "營收"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞聚焦於太空產業，與我們的硬體與嵌入式系統研發無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "從求援到軍武輸出國，烏克蘭靠「實戰測試」讓反無人機技術進軍全球",
+      "url": "https://technews.tw/?p=1550269",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "烏克蘭在俄烏戰爭中，透過實戰快速發展並驗證反無人機技術，使其從受援國轉變為軍武輸出國。",
+      "keywords": [
+        "烏克蘭",
+        "反無人機",
+        "軍武",
+        "實戰測試",
+        "嵌入式系統"
+      ],
+      "category": "Edge/Hardware",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "雖然是地緣政治新聞，但荷莫茲海峽是全球重要的航運要道。任何對其穩定性的影響都可能波及全球供應鏈，包括我們所需的原物料、晶片和成品運輸，導致成本上升或延遲。",
-      "action_suggestion": "持續追蹤地緣政治發展對全球物流和供應鏈的潛在影響，特別是中東地區的穩定性。"
+      "why_it_matters": "實戰驗證的反無人機技術突顯了惡劣環境下嵌入式系統的穩定性、即時AI處理能力和RF通訊的重要性，這對我們的邊緣AI和硬體可靠性設計有啟發。",
+      "action_suggestion": "關注軍用級/惡劣環境下嵌入式AI系統的技術要求，評估其對商用或工業級應用的潛在轉化價值。"
     },
     {
-      "title": "乳癌下探至 30 歲！醫揭三大女性健康隱憂：抹片異常、斷食傷甲狀腺",
-      "url": "https://technews.tw/?p=1549481",
+      "title": "穎崴第一季財報佳，大摩、高盛力挺 12,000 到 15,000 元目標價",
+      "url": "https://technews.tw/?p=1550256",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "聯安健檢數據顯示乳癌患者年齡層下探至30歲以下，醫界提醒女性應重視自我察覺與健康檢查。",
+      "published_at": "",
+      "summary": "半導體測試介面大廠穎崴科技受惠於AI與智慧型手機市場強勁需求，公布優於預期的第一季財報，獲投資機構看好。",
       "keywords": [
-        "乳癌",
-        "女性健康",
-        "健康檢查",
-        "醫療"
+        "穎崴",
+        "半導體",
+        "測試介面",
+        "AI晶片",
+        "財報"
       ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞主要關於健康議題，與硬體、晶片、供應鏈或AI技術研發無直接關聯。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "光寶 ESG 評比創高，入列全球前 1% 永續企業",
-      "url": "https://technews.tw/?p=1549457",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "光寶科技在 S&P Global 2025 年企業永續評比中表現優異，成功躋身全球前 1% 永續企業。",
-      "keywords": [
-        "光寶",
-        "ESG",
-        "永續企業",
-        "企業社會責任"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "雖然不是直接的技術新聞，但供應商的 ESG 表現日益成為企業合作的考量因素。若光寶是我們的供應商或合作夥伴，其優異的 ESG 評級有助於我們自身的永續發展目標。",
-      "action_suggestion": "了解主要供應商的ESG表現，並將其納入供應鏈風險與合作夥伴選擇的考量。"
-    },
-    {
-      "title": "EMIB 良率衝至 90%！郭明錤點英特爾後續挑戰，成與台積電 CoWoS 競逐關鍵",
-      "url": "https://technews.tw/?p=1549440",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "英特爾的 EMIB 先進封裝良率已提升至 90%，分析師郭明錤指出這將是英特爾與台積電 CoWoS 技術競爭的關鍵。",
-      "keywords": [
-        "EMIB",
-        "先進封裝",
-        "英特爾",
-        "台積電",
-        "CoWoS",
-        "良率"
-      ],
-      "category": "Chip",
+      "category": "Chip/Hardware",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "先進封裝技術如 EMIB 和 CoWoS 是未來高效能運算、AI 晶片和多晶片模組發展的核心。英特爾在 EMIB 良率上的進展，顯示了晶片整合技術的成熟與競爭態勢，這將直接影響我們未來晶片設計和製造代工的選擇與成本。",
-      "action_suggestion": "密切追蹤英特爾與台積電在先進封裝技術上的發展與成本效益，評估其對我們未來晶片架構設計和供應鏈策略的影響。"
+      "why_it_matters": "穎崴作為半導體測試介面大廠的強勁業績，印證了AI和智慧型手機晶片市場需求旺盛，這對我們的晶片設計和硬體研發是利好信號，意味著未來產品有廣闊市場。",
+      "action_suggestion": "需持續關注AI與智慧型手機晶片市場的技術發展趨勢，確保我們的產品能符合最新的測試需求。"
     },
     {
-      "title": "xAI 坐擁 55 萬顆 NVIDIA GPU，使用率傳僅 11% 落後 Meta、Google",
-      "url": "https://technews.tw/?p=1549439",
+      "title": "Palantir 受益國防需求  Q1 營收年增 85% 淨利飆三倍",
+      "url": "https://technews.tw/?p=1550259",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "儘管擁有大量 NVIDIA GPU，xAI 的使用率卻僅有 11%，遠低於 Meta 和 Google，顯示在大型 AI 基礎設施部署中存在效率挑戰。",
+      "published_at": "",
+      "summary": "大數據服務公司 Palantir 第一季財報超出預期，主要受惠於地緣政治緊張情勢下的國防需求增加。",
       "keywords": [
-        "xAI",
-        "NVIDIA GPU",
-        "AI 訓練",
-        "利用率",
-        "數據中心"
+        "Palantir",
+        "大數據",
+        "AI",
+        "國防",
+        "營收"
       ],
-      "category": "AI",
+      "category": "AI/Software",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "這揭示了大型AI系統在硬體資源利用上的挑戰，不僅僅是堆疊硬體，更需要高效的軟體、網路和排程優化。這對我們設計AI加速硬體時，需考量軟硬體協同優化和實際場景的利用效率，而非僅追求峰值性能，尤其是考量邊緣AI裝置的功耗和效率。",
-      "action_suggestion": "研究大型AI模型部署的軟硬體瓶頸，將資源利用率和軟體最佳化納入我們的AI晶片與系統設計考量。"
+      "why_it_matters": "Palantir在國防領域AI大數據分析的強勁成長，顯示高階AI運算需求持續擴大，這將間接推動對高性能晶片和硬體基礎設施的長期需求。",
+      "action_suggestion": "關注國防/政府領域AI應用對資料處理、安全性及運算效能的特殊需求，評估其對未來晶片和邊緣AI硬體設計的影響。"
     },
     {
-      "title": "GameStop 豪賭轉型  擬以 560 億美元敵意併購 eBay",
-      "url": "https://technews.tw/?p=1549415",
+      "title": "AMD 供應烏雲罩頂、財報前遭降評  木頭姐續出脫",
+      "url": "https://technews.tw/?p=1550232",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "遊戲零售商 GameStop 執行長瑞安·柯恩有意對電商平台 eBay 發動敵意併購，尋求企業轉型。",
+      "published_at": "",
+      "summary": "超微（AMD）在財報公布前夕遭匯豐銀行降評，並面臨供應鏈疑慮，投資者持續出脫持股。",
       "keywords": [
-        "GameStop",
-        "eBay",
-        "併購",
-        "企業轉型",
-        "零售"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞主要關於企業商業策略，與硬體、晶片、供應鏈或AI技術研發無直接關聯。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "AI ASIC 展望樂觀，聯發科漲停衝 2,870 元創新天價",
-      "url": "https://technews.tw/?p=1549428",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "聯發科因人工智慧特殊應用晶片（AI ASIC）業務展望樂觀，股價飆漲至 2,870 元，創下歷史新高。",
-      "keywords": [
-        "聯發科",
-        "AI ASIC",
-        "晶片設計",
-        "AI 晶片",
-        "市場趨勢"
-      ],
-      "category": "Chip",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "聯發科在 AI ASIC 市場的亮眼表現，強烈預示著客製化 AI 晶片需求持續旺盛，尤其是針對特定應用場景的邊緣 AI 處理器。這驗證了我們深耕 AI 晶片設計的策略方向，並顯示市場對高效能、低功耗 AI 解決方案的高度認可。",
-      "action_suggestion": "持續投入 AI ASIC 的研發，密切關注聯發科等主要競爭者的技術路線與市場策略，以確保我們產品的競爭力。"
-    },
-    {
-      "title": "AI 聊天機器人的先祖，Ask.com 關閉畫下網路時代句點",
-      "url": "https://technews.tw/?p=1549395",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "曾經以管家吉夫斯為標誌的搜尋引擎 Ask.com 已於今年 5 月 1 日正式關閉，結束其網路歷史。",
-      "keywords": [
-        "Ask.com",
-        "搜尋引擎",
-        "網路歷史",
-        "AI 聊天機器人"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞是關於一個老牌搜尋引擎的退場，其歷史意義大於對我們當前研發的直接影響。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "CFS 申請核融合電廠併網，目標 2030 年供電，技術與成本仍待突破",
-      "url": "https://technews.tw/?p=1549353",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "核融合新創 Commonwealth Fusion Systems（CFS）已申請核融合電廠併網，目標 2030 年供電，但技術與成本仍面臨挑戰。",
-      "keywords": [
-        "核融合",
-        "新能源",
-        "CFS",
-        "能源技術",
-        "發電"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "雖然核融合技術可能帶來能源革命，但其商業化應用仍處於早期階段，對我們短期內的硬體或嵌入式系統研發沒有直接影響。",
-      "action_suggestion": "作為長期能源趨勢觀察，但短期內無需行動。"
-    },
-    {
-      "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
-      "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
-      "source": "The Verge",
-      "published_at": "2026-05-03T11:24:00+08:00",
-      "summary": "前任任天堂美國總裁 Reggie Fils-Aimé 透露，Amazon 曾要求任天堂提供可能違法的特殊待遇，導致任天堂停止向其供貨。",
-      "keywords": [
-        "任天堂",
-        "Amazon",
-        "商業道德",
-        "供應關係"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞主要關於商業道德和公司關係，與我們硬體、晶片或AI技術研發無直接關聯。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
-      "url": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-05-01T20:09:00+08:00",
-      "summary": "Shokz 為母親節推出促銷活動，其骨傳導耳機 OpenRun Pro 2 享 40 美元折扣。",
-      "keywords": [
-        "Shokz",
-        "骨傳導耳機",
-        "消費電子",
-        "促銷"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞主要關於消費產品促銷，與我們的硬體、晶片或AI技術研發無直接關聯。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
-      "url": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
-      "source": "The Verge",
-      "published_at": "2026-05-03T17:02:00+08:00",
-      "summary": "Vidabay Snap 推出可重複使用的數位拍立得冰箱貼，結合 NFC 和電子墨水技術，提供方便展示照片的方式。",
-      "keywords": [
-        "電子墨水",
-        "NFC",
-        "邊緣裝置",
-        "消費電子",
-        "互動顯示"
-      ],
-      "category": "Edge",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "這顯示了在消費性產品中結合低功耗顯示技術（電子墨水）和無線通訊（NFC）的創新應用。它為我們的邊緣裝置研發提供了新思路，特別是在低功耗人機介面和創新產品形態方面。",
-      "action_suggestion": "研究電子墨水顯示器與 NFC 技術的最新進展，評估其在我們未來邊緣裝置產品中的潛在應用。"
-    },
-    {
-      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
-      "source": "The Verge",
-      "published_at": "2026-05-01T05:47:00+08:00",
-      "summary": "DualShot Recorder 相機應用程式在推出 12 小時內即登上 App Store 付費榜榜首，其成功故事令人驚訝。",
-      "keywords": [
-        "相機應用",
-        "App Store",
-        "軟體開發",
-        "行動應用"
-      ],
-      "category": "Software",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞主要關於行動應用程式的市場成功，屬於軟體層面，與我們硬體和嵌入式系統的研發無直接關聯。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
-      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
-      "source": "The Verge",
-      "published_at": "2026-05-02T14:24:00+08:00",
-      "summary": "Meta 在一場兒童安全訴訟中敗訴，被判賠 3.75 億美元，且未來可能面臨更嚴重的後果。",
-      "keywords": [
-        "Meta",
-        "訴訟",
-        "兒童安全",
-        "政策法規"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞主要關於法律訴訟和政策法規，與我們硬體、晶片或AI技術研發無直接關聯。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "Aura’s delightful Aspen photo frame is on sale for $30 off this weekend",
-      "url": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-05-01T19:33:00+08:00",
-      "summary": "Aura 的數位相框 Aspen 在母親節前推出 30 美元折扣，其被譽為可不斷更新的「活的相簿」。",
-      "keywords": [
-        "數位相框",
-        "消費電子",
-        "硬體促銷"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一個消費性硬體產品的行銷新聞，雖然是嵌入式裝置的應用案例，但未展現核心技術創新，對我們研發的直接參考價值較低。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "The things we’re building",
-      "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
-      "source": "The Verge",
-      "published_at": "2026-05-01T16:34:00+08:00",
-      "summary": "這篇 Installer 的特輯主要回顧了 Verge 團隊正在進行的一些專案和新發佈的內容。",
-      "keywords": [
-        "內容回顧",
-        "專案",
-        "部落格"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一篇媒體平台內部發布的推廣內容，與硬體、晶片、供應鏈或AI技術研發無關。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "Microsoft tests redesigned Windows 11 Run menu with dark mode and more",
-      "url": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
-      "source": "The Verge",
-      "published_at": "2026-05-01T18:09:00+08:00",
-      "summary": "微軟正在 Windows 11 中測試重新設計的「執行」菜單，提供現代化介面並支援深色模式。",
-      "keywords": [
-        "Windows 11",
-        "微軟",
-        "使用者介面",
-        "作業系統"
-      ],
-      "category": "Software",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞主要關於作業系統的使用者介面更新，屬於軟體層面，對我們硬體研發的直接影響微乎其微。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "Apple raises the Mac Mini&#8217;s starting price",
-      "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
-      "source": "The Verge",
-      "published_at": "2026-05-01T17:52:00+08:00",
-      "summary": "蘋果 Mac Mini 起始價格上漲至 799 美元，因其停產 256GB 儲存容量的 599 美元型號，此舉可能與晶片短缺有關。",
-      "keywords": [
-        "Apple",
-        "Mac Mini",
-        "晶片短缺",
+        "AMD",
+        "半導體",
+        "晶片",
         "供應鏈",
-        "產品定價"
+        "降評"
       ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "Apple Mac Mini 的價格上漲並停產低端型號，暗示了全球晶片供應鏈可能仍面臨挑戰，特別是對於中低階產品的生產。這提醒我們應持續關注關鍵零組件的供應穩定性與成本變化，並提前進行供應鏈風險評估。",
-      "action_suggestion": "評估當前晶片供應狀況與潛在風險，考慮多重供應商策略，並更新成本模型以應對可能的價格上漲。"
+      "category": "Chip/Supply Chain",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "AMD作為AI晶片供應商面臨降評和供應鏈疑慮，可能影響其晶片未來供貨穩定性及市場佔有率，對我們的晶片選用和供應鏈管理構成潛在風險。",
+      "action_suggestion": "密切關注AMD的財報及供應鏈最新動態，評估對我們產品所需晶片的供貨影響，並考慮替代方案或多元供應商策略。"
     },
     {
-      "title": "All the evidence revealed so far in Musk v. Altman",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "title": "The 40 best Mother’s Day gift ideas for 2026",
+      "url": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
       "source": "The Verge",
-      "published_at": "2026-05-01T17:22:00+08:00",
-      "summary": "馬斯克與奧特曼的訴訟正在進行中，目前已公開了關於 OpenAI 早期創建的文件和電子郵件等證據。",
+      "published_at": "2026-05-04T21:09:00+08:00",
+      "summary": "The Verge 整理了 2026 年母親節的 40 個最佳禮物點子，涵蓋實用小工具和輕奢產品，旨在減輕媽媽們的日常負擔。",
       "keywords": [
+        "母親節",
+        "禮物",
+        "科技產品",
+        "消費性電子"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞為消費性產品推薦，與我們的硬體與嵌入式系統研發無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "source": "The Verge",
+      "published_at": "2026-05-04T20:12:00+08:00",
+      "summary": "在Elon Musk對OpenAI的訴訟中，OpenAI總裁Greg Brockman的證詞備受關注，他被指迴避問題。",
+      "keywords": [
+        "OpenAI",
         "Elon Musk",
         "Sam Altman",
+        "訴訟",
+        "AI治理"
+      ],
+      "category": "AI/Other",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "OpenAI內部高層的法律糾紛和運作狀態，可能影響其未來AI技術發展和戰略走向，間接影響我們與其生態系統的互動。",
+      "action_suggestion": "持續關注OpenAI的公司治理與領導層穩定性，評估其對AI產業格局及技術合作的長期影響。"
+    },
+    {
+      "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
+      "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+      "source": "The Verge",
+      "published_at": "2026-05-04T18:13:00+08:00",
+      "summary": "Elon Musk 同意支付 150 萬美元以了結美國證券交易委員會對其 Twitter 收購方式的訴訟。",
+      "keywords": [
+        "Elon Musk",
+        "Twitter",
+        "SEC",
+        "訴訟",
+        "罰款"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞主要涉及企業法規與罰款，與我們的硬體與嵌入式系統研發無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
+      "url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
+      "source": "The Verge",
+      "published_at": "2026-05-04T20:41:00+08:00",
+      "summary": "Skylight 的 15 吋智慧日曆目前正以史上最低價格販售，旨在幫助用戶同步管理多個日曆。",
+      "keywords": [
+        "智慧日曆",
+        "Skylight",
+        "智慧家居",
+        "促銷"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞為消費性智慧裝置的促銷訊息，與我們的核心研發無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "SwitchBot’s rechargeable button pusher is on sale for over 20 percent off",
+      "url": "https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal",
+      "source": "The Verge",
+      "published_at": "2026-05-04T14:47:00+08:00",
+      "summary": "SwitchBot 的可充電按鈕推動器正在促銷中，提供超過八折的優惠，是母親節的實用禮物選擇。",
+      "keywords": [
+        "SwitchBot",
+        "智慧家居",
+        "物聯網",
+        "促銷"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞為消費性智慧家居小工具的促銷訊息，與我們的核心研發無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "The creator of Roomba is back with a furry robot companion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+      "source": "The Verge",
+      "published_at": "2026-05-04T16:01:00+08:00",
+      "summary": "Roomba 創辦人 Colin Angle 帶著其新公司 Familiar Machines & Magic 推出一款狗大小的伴侶型機器人。",
+      "keywords": [
+        "機器人",
+        "伴侶機器人",
+        "Roomba",
+        "AI終端",
+        "新創"
+      ],
+      "category": "AI/Edge/Hardware",
+      "rd_relevance": "High",
+      "impact": "Medium",
+      "why_it_matters": "Roomba創辦人重返機器人領域，推出伴侶型機器人，預示著家用/伴侶機器人市場的發展潛力，對終端AI、感知硬體和人機互動介面設計有借鑒意義。",
+      "action_suggestion": "研究伴侶機器人的核心AI技術、感測器整合和低功耗硬體需求，評估其對我們未來產品線的啟發。"
+    },
+    {
+      "title": "The Pixel 11 could be the next victim of the RAM shortage",
+      "url": "https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram",
+      "source": "The Verge",
+      "published_at": "2026-05-04T13:47:00+08:00",
+      "summary": "由於持續的 RAM 短缺，Google Pixel 11 系列手機可能在規格上有所降級，傳言最低配置僅有 8GB RAM。",
+      "keywords": [
+        "Pixel 11",
+        "RAM短缺",
+        "供應鏈",
+        "智慧型手機",
+        "晶片"
+      ],
+      "category": "Chip/Supply Chain/Hardware",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "Pixel 11可能因RAM短缺而降低規格，直接警示我們RAM供應鏈的緊張狀況，可能影響我們的晶片設計策略、物料成本及產品發布計畫。",
+      "action_suggestion": "立即評估當前專案的RAM供應風險，與供應商確認長期供貨能力，並探索替代或規格調整方案。"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "published_at": "2026-05-04T19:35:00+08:00",
+      "summary": "Elon Musk 與 Sam Altman 針對 OpenAI 未來走向的訴訟案正在進行中，此案可能改變 OpenAI 及其產品 ChatGPT 的發展。",
+      "keywords": [
         "OpenAI",
-        "AI 歷史",
-        "訴訟"
+        "Elon Musk",
+        "Sam Altman",
+        "訴訟",
+        "AI未來"
       ],
-      "category": "AI",
-      "rd_relevance": "Low",
+      "category": "AI/Other",
+      "rd_relevance": "Medium",
       "impact": "Low",
-      "why_it_matters": "這則新聞主要圍繞 AI 產業主要人物的法律糾紛，對我們的技術研發沒有直接影響，但可作為了解產業發展歷史的背景資料。",
-      "action_suggestion": "無需特別關注。"
+      "why_it_matters": "OpenAI內部高層的法律糾紛和運作狀態，可能影響其未來AI技術發展和戰略走向，間接影響我們與其生態系統的互動。",
+      "action_suggestion": "持續關注OpenAI的公司治理與領導層穩定性，評估其對AI產業格局及技術合作的長期影響。"
     },
     {
-      "title": "ReactOS Gets Unified Installer Image and a New Storage Stack",
-      "url": "https://hackaday.com/?p=1083193",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "ReactOS 專案近期推出了統一的安裝映像檔和全新的儲存堆疊，進一步改善其開源作業系統。",
+      "title": "Amazon&#8217;s trying to turn its massive shipping operation into another AWS",
+      "url": "https://www.theverge.com/tech/923013/amazon-supply-chain-services",
+      "source": "The Verge",
+      "published_at": "2026-05-04T12:28:00+08:00",
+      "summary": "Amazon 正將其龐大的物流運輸網路開放給其他公司，推出 Amazon Supply Chain Services，與 DHL、UPS 和 FedEx 等巨頭競爭。",
       "keywords": [
-        "ReactOS",
-        "作業系統",
-        "開源軟體",
-        "儲存堆疊"
-      ],
-      "category": "Software",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "ReactOS 是開源作業系統，雖然與 Windows 相容，但其應用範圍仍相對小眾。對我們而言，除非有特定嵌入式專案需要此類 OS，否則直接影響不大。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "Hackaday Links: May 3, 2026",
-      "url": "https://hackaday.com/?p=1083201&preview=true&preview_id=1083201",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "這篇文章提供了多個科技新聞和專案的連結，內容涵蓋了從 AI 軟體到老牌網路服務關閉等話題。",
-      "keywords": [
-        "科技新聞",
-        "軟體",
-        "網路服務"
+        "Amazon",
+        "物流",
+        "供應鏈",
+        "AWS",
+        "電商"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "這是一個新聞連結的彙整，沒有單一明確的研發價值，需點擊內部連結才能了解具體內容，但其中提到的「half-assed answers」可能與AI生成內容相關，但訊息量不足以評估。",
-      "action_suggestion": "無需特別關注。"
+      "why_it_matters": "此新聞主要聚焦於物流與雲端服務，與我們的硬體與嵌入式系統研發無直接關聯。",
+      "action_suggestion": "無"
     },
     {
-      "title": "iPod Nano Gets Three Monitors",
-      "url": "https://hackaday.com/?p=1082769",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "一個有趣的專案展示了如何將三個螢幕連接到一台 iPod Nano 上，實現多螢幕工作站的趣味概念。",
+      "title": "Tesla hits Musk’s threshold for ‘safe unsupervised’ driving",
+      "url": "https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk",
+      "source": "The Verge",
+      "published_at": "2026-05-04T10:28:00+08:00",
+      "summary": "Tesla 的全自動駕駛系統（FSD）已累計行駛超過 100 億英里，達到 Elon Musk 設定的「安全無人監督駕駛」門檻。",
       "keywords": [
-        "iPod Nano",
-        "多螢幕",
-        "硬體改裝",
-        "嵌入式專案"
+        "Tesla",
+        "自動駕駛",
+        "FSD",
+        "AI終端",
+        "Elon Musk"
       ],
-      "category": "Hardware",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一個創客專案，展示了對嵌入式硬體和顯示介面的創意應用。雖然對商業產品研發的直接參考價值不高，但可作為工程師社群技術探索的啟發。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "Three-Axis Camera Slider From 3D Printer Parts",
-      "url": "https://hackaday.com/?p=1073671",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "一個專案使用 3D 印表機的零件和通用組件，構建了一個三軸攝影機滑軌。",
-      "keywords": [
-        "3D 列印",
-        "攝影機滑軌",
-        "機械設計",
-        "開源硬體"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這篇文章展示了利用現成零件進行機械設計和組裝的實踐，對我們的硬體設計可能提供一些機構或零件選用的啟發，但非核心技術創新。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "Photographing The ISS With A Thrift Store Lens Is Challenging",
-      "url": "https://hackaday.com/?p=1082770",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "文章分享了使用舊鏡頭從地面拍攝國際太空站的挑戰與經驗。",
-      "keywords": [
-        "國際太空站",
-        "攝影",
-        "光學",
-        "DIY"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一個個人攝影愛好者的經驗分享，與我們硬體、晶片或AI技術研發無直接關聯。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "Squeezing Fluids With the Right Peristaltic Pump for the Task",
-      "url": "https://hackaday.com/?p=1082394",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "文章介紹了蠕動泵（Peristaltic Pump）的工作原理和選擇，這是一種不讓流體接觸泵機制的有效輸液裝置。",
-      "keywords": [
-        "蠕動泵",
-        "流體控制",
-        "機械裝置",
-        "硬體元件"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "蠕動泵是一種特定的機電元件，除非我們的嵌入式系統涉足流體控制相關應用，否則對我們的核心研發影響不大。",
-      "action_suggestion": "如果未來研發計畫涉及流體控制，可參考此類泵浦技術。"
-    },
-    {
-      "title": "A Tool For Testing CANopen Networks",
-      "url": "https://hackaday.com/?p=1082403",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "一個開源工具被開發出來，用於監控和測試 CANopen CC 網路，方便從事相關領域的工程師使用。",
-      "keywords": [
-        "CANopen",
-        "網路測試",
-        "嵌入式系統",
-        "工業通訊",
-        "開源工具"
-      ],
-      "category": "Embedded",
+      "category": "AI/Edge/Software",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "CANopen 是工業和汽車嵌入式系統中常見的通訊協定。開發這類網路測試工具對於我們的嵌入式硬體和軟體開發團隊在調試、驗證產品方面具有實際價值，有助於提高開發效率和產品品質。",
-      "action_suggestion": "評估該開源工具的功能和成熟度，考慮在我們的嵌入式開發和測試流程中導入，以提升 CANopen 相關專案的效率。"
+      "why_it_matters": "Tesla在自動駕駛里程上的突破，顯示AI在真實世界自主決策應用的進展，這對我們的邊緣AI運算平台和即時感測器融合技術提出了更高的性能和可靠性要求。",
+      "action_suggestion": "追蹤自動駕駛領域AI模型的演進，特別是在邊緣設備上的效能最佳化和可靠性需求。"
+    },
+    {
+      "title": "The Math You Need to Start Understanding LLMs",
+      "url": "https://hackaday.com/?p=813890",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "這篇文章旨在揭開大型語言模型（LLM）的神秘面紗，強調理解其背後數學原理的重要性，以便更好應用於統計模型。",
+      "keywords": [
+        "LLM",
+        "大語言模型",
+        "數學",
+        "AI原理",
+        "統計模型"
+      ],
+      "category": "AI/Software",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "理解LLM背後的數學原理有助於我們在資源受限的嵌入式系統上進行模型最佳化和硬體加速設計。",
+      "action_suggestion": "鼓勵團隊成員深入學習LLM的數學基礎，以更好地設計和實作邊緣AI推理引擎。"
+    },
+    {
+      "title": "Teardown of a Shahed-136 Gimbaled Camera",
+      "url": "https://hackaday.com/?p=1082948",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "本文對伊朗 Shahed-136 無人機的雲台相機進行拆解分析，揭示其設計與技術細節。",
+      "keywords": [
+        "無人機",
+        "拆解",
+        "雲台相機",
+        "嵌入式系統",
+        "軍事科技"
+      ],
+      "category": "Hardware/Edge",
+      "rd_relevance": "High",
+      "impact": "Medium",
+      "why_it_matters": "對無人機雲台相機的拆解分析，能讓我們學習到實際應用中嵌入式系統的整合、感測器技術和小型化設計，特別是在惡劣環境下的可靠性。",
+      "action_suggestion": "分析其硬體設計、選用元件和組裝工藝，吸取經驗教訓，作為我們未來產品設計的參考。"
+    },
+    {
+      "title": "Sunlight Powered, Sunlight Readable: Solar Case for Nook Simple Touch",
+      "url": "https://hackaday.com/?p=1083005",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "這篇文章介紹了如何利用舊 Nook Simple Touch 設備製作太陽能供電且陽光下可讀的電子書保護殼。",
+      "keywords": [
+        "太陽能",
+        "電子紙",
+        "低功耗",
+        "嵌入式",
+        "能源採集"
+      ],
+      "category": "Hardware/Edge",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "太陽能供電和電子紙顯示的應用，提供了低功耗嵌入式系統設計的靈感，尤其是在戶外或資源有限場景下的電源管理方案。",
+      "action_suggestion": "研究太陽能充電模組和超低功耗顯示技術，評估其在我們某些特定邊緣裝置上的應用潛力。"
+    },
+    {
+      "title": "A Shortwave Sensor to Monitor the Ionosphere",
+      "url": "https://hackaday.com/?p=1082956",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "該文章探討了短波感測器在監測電離層方面的重要性及其對短波無線電傳輸的影響。",
+      "keywords": [
+        "短波",
+        "感測器",
+        "電離層",
+        "無線電",
+        "嵌入式"
+      ],
+      "category": "Hardware/Edge",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "短波電離層監測感測器展現了特定物理現象監測的嵌入式硬體設計，涉及RF前端、資料採集與分析，對我們的感測器整合和訊號處理有參考價值。",
+      "action_suggestion": "了解此類感測器的RF設計及嵌入式處理器的要求，拓寬我們的感測器應用視野。"
+    },
+    {
+      "title": "Strange Ways to Make Cold",
+      "url": "https://hackaday.com/?p=997982",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "該文章介紹了數千年來人類創造和維持低溫的各種奇特方法。",
+      "keywords": [
+        "製冷",
+        "熱管理",
+        "歷史",
+        "工程"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞主要涉及製冷技術的歷史與方法，與我們核心研發的直接關聯性不高。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "ESP32 Hosts SolarPunk Message Board",
+      "url": "https://hackaday.com/?p=1082995",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "一個基於 ESP32 的 SolarPunk 風格留言板專案展示了社區導向的技術應用，強調永續與去中心化。",
+      "keywords": [
+        "ESP32",
+        "SolarPunk",
+        "開源硬體",
+        "嵌入式",
+        "物聯網"
+      ],
+      "category": "Hardware/Edge",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "基於ESP32的社群專案展示了低成本、開源硬體在邊緣應用中的潛力，特別是結合永續理念的設計。",
+      "action_suggestion": "關注開源硬體平台如ESP32在邊緣AI和物聯網應用中的最新進展，評估其對快速原型開發和成本優化的啟示。"
+    },
+    {
+      "title": "Why Leaded Fuel Is Still A Thing",
+      "url": "https://hackaday.com/?p=1082905",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "該文章探討了含鉛汽油雖然被認為是環境災難，但在某些領域仍持續使用的原因。",
+      "keywords": [
+        "含鉛汽油",
+        "環境污染",
+        "內燃機",
+        "歷史",
+        "法規"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞主要涉及化學與環境議題，與我們的硬體與嵌入式系統研發無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
+      "url": "3eunSLSMjwtLM9HC0Fk2N8",
+      "source": "VentureBeat",
+      "published_at": "",
+      "summary": "美國運通（AMEX）正建構 AI 代理交易系統，透過意圖合約和單次使用代幣確保 AI 代理能夠安全地替用戶進行消費與支付。",
+      "keywords": [
+        "AI代理",
+        "金融科技",
+        "區塊鏈",
+        "安全交易",
+        "AMEX"
+      ],
+      "category": "AI/Software",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "AMEX發展AI代理交易系統，突顯了AI代理在金融領域對信任、安全和可審計性的需求，這可能推動邊緣AI設備對硬體安全模組(HSM)或可信執行環境(TEE)的需求。",
+      "action_suggestion": "關注AI代理在敏感應用中對硬體安全的要求，評估相關安全晶片或IP的整合。"
+    },
+    {
+      "title": "Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat",
+      "url": "1kkqIbKoom5MjrgXha3yYN",
+      "source": "VentureBeat",
+      "published_at": "",
+      "summary": "微軟將其 AI 代理管理平台 Agent 365 正式推出，以應對企業中日益增長的「影子 AI」威脅和自主 AI 治理挑戰。",
+      "keywords": [
+        "Microsoft",
+        "Agent 365",
+        "AI代理",
+        "企業AI",
+        "影子AI",
+        "治理"
+      ],
+      "category": "AI/Software",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "微軟推出Agent 365並強調影子AI威脅，顯示企業AI代理部署已成為實際挑戰，這將促使我們思考如何為企業級邊緣AI應用提供更安全、可管理的硬體解決方案。",
+      "action_suggestion": "探討硬體層面的安全與管理機制，以支援企業AI代理在邊緣設備上的安全部署與運行。"
+    },
+    {
+      "title": "The RAG era is ending for agentic AI — a new compilation-stage knowledge layer is what comes next",
+      "url": "1VCx3hCo1cdQPeZTe31NIP",
+      "source": "VentureBeat",
+      "published_at": "",
+      "summary": "AI 代理技術的發展正超越傳統的 RAG（檢索增強生成）模式，轉向新的編譯階段知識層，強調上下文整合以滿足代理 AI 的需求。",
+      "keywords": [
+        "AI代理",
+        "RAG",
+        "向量資料庫",
+        "知識層",
+        "AI架構"
+      ],
+      "category": "AI/Software",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "RAG技術在AI代理中的演進與新知識層的出現，意味著AI代理的記憶體、運算和資料處理模式將發生變化，這直接影響我們終端AI晶片與硬體平台的設計。",
+      "action_suggestion": "深入研究新的AI代理知識層架構對晶片記憶體頻寬、儲存系統和運算單元的影響，調整未來晶片設計方向。"
     },
     {
       "title": "Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI",
       "url": "6YeC4lDpQXfmvh6I7tQzAM",
       "source": "VentureBeat",
-      "published_at": null,
-      "summary": "Salesforce 推出 Agentforce Operations，旨在透過「工作流執行控制平面」解決企業 AI 工作流中斷的問題。",
+      "published_at": "",
+      "summary": "Salesforce 推出 Agentforce Operations，旨在解決企業 AI 團隊在部署 AI 代理時面臨的工作流程中斷問題，提供更具確定性的結構化控制。",
       "keywords": [
         "Salesforce",
         "企業AI",
-        "AI工作流",
-        "軟體架構",
-        "AI代理"
+        "AI代理",
+        "工作流程",
+        "自動化"
       ],
-      "category": "AI",
+      "category": "AI/Software",
       "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "這揭示了企業級 AI 部署在軟體層面的挑戰和解決方案。雖然直接是軟體，但理解這些痛點能幫助我們在設計 AI 邊緣硬體時，更好地與未來的企業 AI 軟體生態系統整合，提供更高效和可靠的硬體平台。",
-      "action_suggestion": "關注企業 AI 軟體架構和部署的趨勢，確保我們的 AI 終端產品能無縫支援主流 AI 工作流和代理模型。"
+      "impact": "Low",
+      "why_it_matters": "Salesforce推出Agentforce Operations，顯示企業AI代理部署中工作流程管理的痛點，這將對邊緣AI硬體在複雜任務協調和穩定性方面提出要求。",
+      "action_suggestion": "關注企業級AI代理應用的工作流程要求，評估邊緣AI硬體如何支援更複雜、具確定性的自動化任務。"
     },
     {
       "title": "200,000 MCP servers expose a command execution flaw that Anthropic calls a feature",
       "url": "3E86laGp0iPhy36D7TdKo8",
       "source": "VentureBeat",
-      "published_at": null,
-      "summary": "Anthropic 的 Model Context Protocol (MCP) 協議存在命令執行漏洞，影響多達 20 萬台伺服器，但 Anthropic 將其視為特性而非缺陷。",
+      "published_at": "",
+      "summary": "AI 代理與工具通訊的開放標準 MCP 存在一個命令執行漏洞，影響全球 20 萬台伺服器，Anthropic 卻稱其為「特性」。",
       "keywords": [
-        "AI安全",
+        "AI代理",
         "MCP",
+        "安全漏洞",
         "Anthropic",
-        "OpenAI",
-        "漏洞",
-        "AI代理"
+        "命令執行"
       ],
-      "category": "AI",
+      "category": "AI/Software/Security",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "Model Context Protocol 是 AI 代理間通訊的重要標準，其安全漏洞對部署 AI 系統構成重大風險。特別是對於我們的邊緣 AI 裝置，如果這些裝置與基於 MCP 的 AI 代理互動，安全漏洞將直接影響產品可靠性和用戶數據安全。Anthropic 將其視為「特性」的態度更需警惕。",
-      "action_suggestion": "立即研究 MCP 協議及其安全風險，評估我們現有或未來產品是否受到影響。如果需要，應開發相應的緩解措施，並對 AI 相關軟體元件進行嚴格的安全審查。"
+      "why_it_matters": "AI代理通訊協議MCP的嚴重漏洞，突顯了AI系統安全性的重要性，特別是對邊緣AI裝置，硬體級別的安全防護將更顯關鍵。",
+      "action_suggestion": "立即評估我們產品中AI代理通訊協議的安全設計，加強硬體層面的安全機制，如信任根、加密加速器等，以防範類似漏洞。"
     },
     {
       "title": "The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives.",
       "url": "1f6j7zMDbdqY69JO8NyZg5",
       "source": "VentureBeat",
-      "published_at": null,
-      "summary": "LlamaIndex 執行長 Jerry Liu 指出，隨著大型語言模型 (LLM) 應用程式開發的成熟，過去所需的複雜「腳手架」層正在簡化。",
+      "published_at": "",
+      "summary": "LlamaIndex 執行長表示，過去用於部署 LLM 應用程式的「骨架層」正在瓦解，未來將朝向更直接、精簡的開發模式發展。",
       "keywords": [
         "LLM",
-        "AI開發",
+        "AI應用",
+        "開發框架",
         "LlamaIndex",
-        "軟體框架",
-        "AI部署"
+        "AI架構"
       ],
-      "category": "AI",
-      "rd_relevance": "Medium",
+      "category": "AI/Software",
+      "rd_relevance": "High",
       "impact": "Medium",
-      "why_it_matters": "AI 應用開發環境的簡化，意味著開發人員將能更快速、更直接地部署 LLM。這對邊緣 AI 裝置是利好消息，因為簡化的軟體堆疊有助於降低開發門檻，加速 AI 應用在我們硬體上的落地，提升產品的市場吸引力。",
-      "action_suggestion": "追蹤主流 AI 開發框架的演進，確保我們的硬體平台能最佳化支援簡化的 AI 部署流程，並考慮提供更完善的開發工具包 (SDK)。"
+      "why_it_matters": "AI應用開發骨架層的簡化，暗示LLM應用將更直接、更高效，這可能影響我們在邊緣設備上部署AI模型的複雜度和資源需求。",
+      "action_suggestion": "研究LLM應用開發簡化趨勢，確保我們的硬體平台能適應更精簡、高效的模型部署模式。"
     },
     {
       "title": "xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite",
       "url": "mKkkuk33W7XJ6EYwsVxIR",
       "source": "VentureBeat",
-      "published_at": null,
-      "summary": "xAI 發布了其新的大型語言模型 Grok 4.3，並推出了一個快速而強大的語音克隆套件，且定價極具競爭力。",
+      "published_at": "",
+      "summary": "xAI 在 Elon Musk 與 Sam Altman 的法律糾紛期間，推出新版大型語言模型 Grok 4.3 及高速語音複製套件，並採具競爭力的低價策略。",
       "keywords": [
         "xAI",
         "Grok 4.3",
-        "大型語言模型",
-        "語音克隆",
-        "AI應用",
-        "Edge AI"
+        "LLM",
+        "語音複製",
+        "AI競爭"
       ],
-      "category": "AI",
+      "category": "AI/Software",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "新的 LLM 和語音克隆技術的推出，代表了 AI 應用能力的進一步提升和普及，尤其在邊緣設備上對這些功能的需求會越來越高。xAI 的競爭性定價可能加速這些技術的市場滲透，直接推動對能高效運行這些 AI 模型的邊緣 AI 晶片和硬體的需求。",
-      "action_suggestion": "評估 Grok 4.3 等新 LLM 和語音克隆技術對我們邊緣 AI 晶片運算能力、記憶體和功耗的要求，並探索其在我們產品中的潛在應用場景。"
-    },
-    {
-      "title": "Hidden IT problems are quietly creating risk, shadow IT, and lost productivity",
-      "url": "4P4nzlZd3oWkp4Rc6fzWGs",
-      "source": "VentureBeat",
-      "published_at": null,
-      "summary": "TeamViewer 研究顯示，企業中大部分的數位功能障礙未被報告，導致隱藏的風險、影子 IT 和生產力損失。",
-      "keywords": [
-        "IT管理",
-        "數位轉型",
-        "生產力",
-        "企業軟體"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞主要關於企業 IT 管理和軟體使用問題，與我們硬體、晶片或AI技術研發無直接關聯。",
-      "action_suggestion": "無需特別關注。"
-    },
-    {
-      "title": "Alibaba's Metis agent cuts redundant AI tool calls from 98% to 2% — and gets more accurate doing it",
-      "url": "578O7IXrcxoBTEvWWPuepu",
-      "source": "VentureBeat",
-      "published_at": null,
-      "summary": "阿里巴巴的 Metis AI 代理大幅減少了冗餘工具調用，從 98% 降至 2%，同時提高了準確性，有效解決了 LLM 盲目調用工具的問題。",
-      "keywords": [
-        "阿里巴巴",
-        "Metis",
-        "AI代理",
-        "LLM",
-        "效率優化",
-        "工具調用"
-      ],
-      "category": "AI",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "AI 代理軟體層的效率提升，直接影響到 AI 任務的延遲、API 成本和整體推理性能。如果 AI 代理能更精確地調用工具，我們的邊緣 AI 硬體將能更高效地處理複雜任務，降低功耗，並提升 AI 終端應用的整體用戶體驗。",
-      "action_suggestion": "追蹤 AI 代理軟體框架的最新進展，研究其對硬體資源需求模型的影響，以優化我們的 AI 晶片架構和軟體工具鏈。"
-    },
-    {
-      "title": "One tool call to rule them all? New open source Python tool Runpod Flash eliminates containers for faster AI dev",
-      "url": "2QDcDx0oeDpGEUWci5HZUp",
-      "source": "VentureBeat",
-      "published_at": null,
-      "summary": "Runpod 推出開源 Python 工具 Runpod Flash，旨在消除容器化，加速 AI 系統的開發、迭代和部署，尤其是在高性能雲計算和 GPU 平台上。",
-      "keywords": [
-        "Runpod Flash",
-        "AI開發",
-        "容器化",
-        "Python工具",
-        "GPU平台"
-      ],
-      "category": "AI",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "此工具旨在簡化 AI 模型的開發和部署流程，透過消除容器化來提高效率。這可能加速 AI 應用的開發週期，並降低在各類硬體上部署 AI 的複雜性，對於我們將 AI 硬體推向市場並加速客戶應用開發是正向的影響。",
-      "action_suggestion": "研究 Runpod Flash 等工具對 AI 軟體堆疊的影響，確保我們的硬體開發環境能與這些趨勢同步，考慮在我們的參考設計中提供相關整合方案。"
+      "why_it_matters": "xAI推出Grok 4.3及強大語音複製技術，且價格具競爭力，這加劇了AI市場的競爭，並推動語音AI終端應用對高效能、低成本晶片的需求。",
+      "action_suggestion": "需追蹤Grok 4.3及語音複製技術的硬體運算需求，研究如何在我們的晶片和硬體平台上實現高效的語音AI處理，以保持競爭力。"
     }
   ]
 }
