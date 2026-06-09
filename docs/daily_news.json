@@ -1,613 +1,448 @@
 {
-  "timestamp": "2026-06-08T12:13:41.693525+08:00",
-  "date": "2026-06-08",
+  "timestamp": "2026-06-09T11:41:27.690975+08:00",
+  "date": "2026-06-09",
   "articles": [
     {
-      "title": "停火後首見 伊朗四波飛彈狂轟以色列、油價跳高",
-      "url": "https://technews.tw/?p=1568634",
+      "title": "受惠被動元件拉貨狂飆！精湛科技子公司爆單迎下半年大旺季",
+      "url": "https://technews.tw/?p=1569540",
       "source": "TechNews",
       "published_at": "",
-      "summary": "中東局勢動盪，伊朗向以色列發動四波飛彈襲擊，導致國際油價跳高。",
-      "keywords": [
-        "地緣政治",
-        "供應鏈",
-        "原油價格",
-        "中東衝突"
-      ],
-      "category": "Other",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "地緣政治緊張可能導致國際油價上漲，進而推高運輸和製造業成本，對我們的產品BOM成本和供應鏈穩定性帶來壓力。",
-      "action_suggestion": "持續追蹤國際局勢變化，評估潛在的供應鏈中斷風險與物料採購成本波動，並與供應商建立風險應對機制。"
-    },
-    {
-      "title": "非農太強引發升息恐慌 太陽能、科技股賣壓現",
-      "url": "https://technews.tw/?p=1568482",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "美國非農就業報告超乎預期，市場預期升息可能性大增，導致對利率敏感的科技股承壓。",
-      "keywords": [
-        "經濟",
-        "升息",
-        "科技股",
-        "市場影響"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Medium",
-      "why_it_matters": "利率上升可能增加公司融資成本，並影響市場對科技產品的消費需求，進而可能影響研發預算與產品策略。",
-      "action_suggestion": "關注宏觀經濟數據與聯準會利率政策，評估對公司財務狀況、市場銷售及長期研發投資的潛在影響。"
-    },
-    {
-      "title": "Google 創辦人布林重申工作就像圍棋比賽，AI 不會取代人類反而幫助升級",
-      "url": "https://technews.tw/?p=1568608",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "Google 共同創辦人謝爾蓋·布林強調 AI 將是人類的助力而非取代者，有助於人類工作能力的升級。",
-      "keywords": [
-        "AI",
-        "人工智慧",
-        "人類協作",
-        "未來工作"
-      ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "提供對 AI 發展方向和人機協作的宏觀洞察，有助於我們在開發 AI 相關產品時思考其賦能人類的角色。",
-      "action_suggestion": "持續關注 AI 技術的哲學與倫理討論，思考如何將 AI 整合至研發流程或產品中，以提升效率和使用者體驗。"
-    },
-    {
-      "title": "今晚過後，iOS 27 將帶來 8 項變化亮點",
-      "url": "https://technews.tw/?p=1568616",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "蘋果即將在 WWDC 大會發表 iOS 27，預期將帶來多項新功能與變化。",
-      "keywords": [
-        "iOS",
-        "Apple",
-        "WWDC",
-        "行動作業系統"
-      ],
-      "category": "Software",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "行動作業系統的新功能（尤其是 AI 相關）往往會推動對底層硬體的性能需求，例如更強的NPU或感測器整合。",
-      "action_suggestion": "密切關注 WWDC 發表會內容，特別是與 AI 運算、感測器整合、圖形處理或新硬體介面相關的功能，以預判未來行動裝置硬體趨勢。"
-    },
-    {
-      "title": "「Tokenmaxxing」時代光速終結，企業紛紛暫停 AI 軍備競賽",
-      "url": "https://technews.tw/?p=1568581",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "企業開始重新評估 AI 導入成本並收緊使用規則，結束了此前盲目追求「Tokenmaxxing」的 AI 軍備競賽。",
-      "keywords": [
-        "AI成本",
-        "企業AI",
-        "能效比",
-        "邊緣AI"
-      ],
-      "category": "AI",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "企業對 AI 投資回報率和成本效益的重視，將直接驅動對更高能效、更低成本的 AI 硬體解決方案的需求，尤其是針對邊緣運算應用。",
-      "action_suggestion": "加強邊緣 AI 晶片與嵌入式系統的能效比設計，探索成本優化的硬體架構，以滿足市場對實用且經濟的 AI 解決方案需求。重視軟硬體整合帶來的整體效益。"
-    },
-    {
-      "title": "強化 ASIC 設計服務！通寶半導體取得新加坡 Sinchip 合計 60% 股權",
-      "url": "https://technews.tw/?p=1568637",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "通寶半導體收購新加坡 Sinchip Technology 60% 股權，以強化其 ASIC 設計服務能力。",
-      "keywords": [
-        "ASIC",
-        "晶片設計",
-        "半導體",
-        "併購"
-      ],
-      "category": "Chip",
-      "rd_relevance": "High",
-      "impact": "Medium",
-      "why_it_matters": "半導體產業的整合趨勢與對 ASIC 設計服務的強化，顯示客製化晶片需求旺盛，對我們的晶片設計策略與合作夥伴選擇具有參考意義。",
-      "action_suggestion": "評估公司內部 ASIC 設計團隊的能力與資源，並審視現有的外部設計服務合作夥伴，考慮潛在的合作機會或戰略投資以提升競爭力。"
-    },
-    {
-      "title": "鋰市場長期前景樂觀 但供需基本面仍有拉鋸",
-      "url": "https://technews.tw/?p=1568463",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "今年以來氫氧化鋰價格大幅上漲，顯示鋰市場長期前景看好，但供需仍存在波動。",
-      "keywords": [
-        "鋰",
-        "電池材料",
-        "供應鏈",
-        "成本"
-      ],
-      "category": "Other",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "鋰是電動車和許多嵌入式裝置電池的關鍵材料，其價格波動直接影響我們產品的整體材料成本（BOM）。",
-      "action_suggestion": "持續追蹤鋰市場價格動態，評估對電池供應鏈及產品成本的影響，並與供應商探討長期採購策略或多樣化材料的選擇，以降低成本風險。"
-    },
-    {
-      "title": "未上傳檔案也能無中生有怪圖？ChatGPT 圖像功能也被幻覺入侵",
-      "url": "https://technews.tw/?p=1568460",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "ChatGPT 的圖像生成功能出現「幻覺」現象，即便未提供檔案也能產生詭異圖片。",
-      "keywords": [
-        "AI幻覺",
-        "生成式AI",
-        "ChatGPT",
-        "AI可靠性"
-      ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "提醒 AI 模型在實際應用中仍存在穩定性與準確性問題，在我們設計整合 AI 功能的嵌入式系統時，需審慎評估其可靠性與邊界。",
-      "action_suggestion": "在開發帶有 AI 功能的嵌入式系統時，特別關注 AI 模型的驗證、測試與錯誤處理機制，確保其在終端應用中的穩定與可靠性。"
-    },
-    {
-      "title": "從記者晉升 IT 業要角，韓聖淑獲提名韓總理將拚 AI 轉型",
-      "url": "https://technews.tw/?p=1568450",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "韓國新總理提名人韓聖淑將推動 AI 轉型作為國家發展策略，加速 AI 在各產業的導入。",
-      "keywords": [
-        "韓國",
-        "AI政策",
-        "國家戰略",
-        "AI應用"
-      ],
-      "category": "AI",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "國家層級對 AI 的大力推動將刺激相關技術研發與市場需求，可能為我們的 AI 硬體與嵌入式系統產品帶來新的市場機會或合作關係。",
-      "action_suggestion": "關注韓國及其他主要國家在 AI 領域的政策動態與產業投資方向，探索潛在的國際合作機會或市場拓展策略。"
-    },
-    {
-      "title": "打造主權 AI！英國擬採購本土 AI 晶片，以留住半導體自主能力",
-      "url": "https://technews.tw/?p=1568591",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "英國政府計畫採購本土 AI 晶片，以建立「主權 AI」並維持半導體自主能力。",
-      "keywords": [
-        "主權AI",
-        "AI晶片",
-        "半導體自主",
-        "供應鏈安全"
-      ],
-      "category": "Chip",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "全球主要國家追求 AI 晶片自主化，將對半導體供應鏈和晶片採購策略產生重大影響，增加地緣政治風險與供應鏈複雜性。",
-      "action_suggestion": "密切關注各國「主權 AI」政策及其對全球半導體供應鏈的影響，評估多元化供應商或尋求國際合作的策略，以降低地緣政治風險並確保晶片供應。"
-    },
-    {
-      "title": "NASA will wear high-tech Prada long johns to the Moon",
-      "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
-      "source": "The Verge",
-      "published_at": "2026-06-07T18:16:00+08:00",
-      "summary": "NASA 將在 Artemis IV 任務中，穿戴 Axiom Space 與 Prada 合作開發的液冷通風服（LCVG）前往月球。",
-      "keywords": [
-        "高科技紡織",
-        "太空衣",
-        "散熱技術",
-        "材料工程"
-      ],
-      "category": "Other",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "這展示了極端環境下高科技材料、熱管理與感測器整合的應用，可能為我們在特定硬體設計的散熱或材料選擇上提供靈感。",
-      "action_suggestion": "了解此類特殊應用中的先進散熱技術與材料科學進展，作為未來高可靠性硬體設計的潛在參考。"
-    },
-    {
-      "title": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
-      "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
-      "source": "The Verge",
-      "published_at": "2026-06-07T14:59:00+08:00",
-      "summary": "微軟推出半透明綠色特別版 Xbox Series X 主機與控制器，慶祝 Xbox 25 週年。",
-      "keywords": [
-        "Xbox",
-        "遊戲主機",
-        "消費電子",
-        "產品設計"
-      ],
+      "summary": "精湛科技今日召開股東會，董事長吳俊男表示，正從傳統光學篩選設備轉型為智能視覺（AI + AOI），子公司先聯科 […]",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為消費性電子產品的外觀設計新聞，與我們的硬體研發、晶片設計和 AI 終端應用無直接關聯。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "Minecraft Dungeons 2 gets a September release date",
-      "url": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
-      "source": "The Verge",
-      "published_at": "2026-06-07T14:44:00+08:00",
-      "summary": "《Minecraft Dungeons 2》宣布將於 9 月 29 日發行。",
-      "keywords": [
-        "遊戲",
-        "Minecraft",
-        "發布"
-      ],
+      "title": "ASML 邀馬斯克參加公司會議遭員工抵制，因政治立場與包容文化衝突",
+      "url": "https://technews.tw/?p=1569471",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "荷蘭晶片設備大廠艾司摩爾（ASML）邀請特斯拉與 SpaceX 執行長馬斯克，視訊出席年度科技會議，卻引發員工 […]",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為遊戲發布新聞，與我們的核心業務無直接相關。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "Fable launches in late February after recent delay",
-      "url": "https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026",
-      "source": "The Verge",
-      "published_at": "2026-06-07T14:44:00+08:00",
-      "summary": "《Fable》在推遲後，宣布將於 2027 年 2 月底發行。",
-      "keywords": [
-        "遊戲",
-        "Fable",
-        "發布"
-      ],
+      "title": "估值 1.8 兆美元巨獸！路博邁解析 SpaceX 史詩級 IPO 將如何吞噬華爾街？",
+      "url": "https://technews.tw/?p=1569527",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "針對估值達 1.8 兆美元的 SpaceX 史詩級 IPO（首次公開募股），路博邁私人財富部門投資長 Shan […]",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為遊戲發布新聞，與我們的核心業務無直接相關。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "Halo: Campaign Evolved arrives July 28th",
-      "url": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
-      "source": "The Verge",
-      "published_at": "2026-06-07T14:45:00+08:00",
-      "summary": "《Halo: Campaign Evolved》翻拍版將於 7 月 28 日登陸 Xbox、PC 和 PS5。",
-      "keywords": [
-        "遊戲",
-        "Halo",
-        "發布"
-      ],
+      "title": "NASA X-59 實驗機首度突破音障，邁向「靜音超音速」新紀元",
+      "url": "https://technews.tw/?p=1569462",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "NASA 的實驗性 X-59「Quiet SuperSonic Technology」噴射機，近日完成首度超音 […]",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為遊戲發布新聞，與我們的核心業務無直接相關。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "Gears of War: E-Day isn’t coming to the PS5",
-      "url": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
-      "source": "The Verge",
-      "published_at": "2026-06-07T14:45:00+08:00",
-      "summary": "《Gears of War: E-Day》確認將為 Xbox 獨佔，不會登陸 PS5 平台。",
-      "keywords": [
-        "遊戲",
-        "Xbox獨佔",
-        "平台策略"
-      ],
+      "title": "華爾街看好 Cerebras 挑戰輝達霸權  股價狂飆 18%",
+      "url": "https://technews.tw/?p=1569431",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "美國 AI 晶片新創公司 Cerebras 上市後備受市場矚目，隨著 IPO 緘默期（Quiet Period […]",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為遊戲平台的獨佔策略新聞，與我們的核心業務無直接相關。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "The Verge Weekend Questionnaire",
-      "url": "https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire",
-      "source": "The Verge",
-      "published_at": "2026-06-06T21:06:00+08:00",
-      "summary": "The Verge 推出週末問卷，探討名人不可或缺的應用程式與科技高管的專注秘訣。",
-      "keywords": [
-        "科技生活",
-        "問卷",
-        "人物專訪"
-      ],
+      "title": "AI 資料中心搶水大戰，美國 66% 新建設落在乾旱區埋下水資源定時炸彈",
+      "url": "https://technews.tw/?p=1569428",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "美國 AI 資料中心擴張引發的用水爭議持續升溫。最新分析指出，規劃中 809 座資料中心，約 517 座（近三 […]",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為雜誌專欄內容，與我們的核心業務無直接相關。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "Govee’s all-weather smart lamp post is under $200 for the first time",
-      "url": "https://www.theverge.com/gadgets/944439/govee-outdoor-lamp-post-lights-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-06-05T16:42:00+08:00",
-      "summary": "Govee 全天候智慧戶外燈柱首次降價至 200 美元以下，具備智能照明功能。",
-      "keywords": [
-        "智慧家居",
-        "物聯網",
-        "戶外照明",
-        "嵌入式系統"
-      ],
-      "category": "Edge",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "智慧家庭與戶外物聯網產品是嵌入式系統的重要應用領域，可作為我們在邊緣運算硬體設計和市場策略上的參考。",
-      "action_suggestion": "關注智慧家居與戶外物聯網產品的技術演進與市場需求，評估潛在的嵌入式系統應用機會，特別是耐候性和連接性方面的設計。"
-    },
-    {
-      "title": "The Virtual OS Museum lets you relive over 600 operating systems right on your desktop",
-      "url": "https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os",
-      "source": "The Verge",
-      "published_at": "2026-06-07T09:46:00+08:00",
-      "summary": "虛擬作業系統博物館透過模擬技術，讓使用者能在電腦上體驗超過 600 種作業系統。",
-      "keywords": [
-        "作業系統",
-        "模擬器",
-        "軟體歷史",
-        "虛擬化"
-      ],
+      "title": "iOS 27 Beta 才剛釋出，摺疊 iPhone 就藏不住了？",
+      "url": "https://technews.tw/?p=1569476",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "蘋果首款摺疊機發表日期真的近了？ 蘋果在 WWDC 26 會後隨即釋出首個 iOS 27 開發者 beta 版 […]",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為軟體模擬與歷史保存專案，與我們的硬體研發、晶片設計和 AI 終端應用無直接關聯。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "Dell&#8217;s new XPS 14 is better in almost every way",
-      "url": "https://www.theverge.com/tech/944360/dell-xps-14-2026-review",
+      "title": "FCC 有條件放行亞馬遜衛星部署延期，頻譜優先權將暫時讓出",
+      "url": "https://technews.tw/?p=1569449",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "美國聯邦通訊委員會（FCC）在 6 月 5 日通過一項附條件的豁免，允許亞馬遜（Amazon）旗下衛星網路計畫 […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "中國新創稱擺脫 DUV 依賴！靠奈米壓印生產光子晶片「成本大砍 90%」",
+      "url": "https://technews.tw/?p=1569466",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "中國新創璞璘科技（Prinano）宣布，已利用非傳統微影設備技術，在 8 吋矽晶圓上完成光子晶片量產驗證，且成 […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "禮來新一代減肥藥報捷  領先優勢擴大、股價揚",
+      "url": "https://technews.tw/?p=1569423",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "美國製藥巨頭禮來（Eli Lilly）的新一代減重藥物 Retatrutide 臨床數據出色，可望進一步擴大在 […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Instagram is finally letting everyone reorganize their profile grid",
+      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
       "source": "The Verge",
-      "published_at": "2026-06-05T16:40:00+08:00",
-      "summary": "Dell 新發表的 XPS 14 筆電在性能和做工上都有顯著提升，搭載 Intel Core Ultra Series 3 晶片。",
-      "keywords": [
-        "筆記型電腦",
-        "Intel",
-        "處理器",
-        "硬體性能"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "了解最新主流處理器（如 Intel Panther Lake 系列）的性能、能效和內建 AI 加速能力，對我們未來高性能邊緣裝置的晶片選型或設計方向有參考價值。",
-      "action_suggestion": "追蹤 Intel、AMD 等主流 CPU 廠商的最新產品技術規格，特別關注其 AI 運算單元（NPU）和功耗管理方面的創新，以應用於未來的產品設計。"
+      "published_at": "2026-06-08T19:58:00+08:00",
+      "summary": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. Until now, the posts on your Instagram profile […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "Desalinating Seawater With Solar and No Brine",
-      "url": "https://hackaday.com/?p=1116510",
+      "title": "Apple’s Screen Time updates are too little, too late",
+      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+      "source": "The Verge",
+      "published_at": "2026-06-08T21:48:00+08:00",
+      "summary": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much new beyond a redesigned interface. Almost all the features touted already exist or are upgrades to current options. Why Apple chose to do this isn't […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "5 things I already love from the iOS 27 beta",
+      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+      "source": "The Verge",
+      "published_at": "2026-06-08T21:43:00+08:00",
+      "summary": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist for that. In the meantime, I've been poking around a bunch of features […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Apple is using AI to fix Safari’s extension problem",
+      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "source": "The Verge",
+      "published_at": "2026-06-08T18:40:00+08:00",
+      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Where was tvOS 27 at WWDC?",
+      "url": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
+      "source": "The Verge",
+      "published_at": "2026-06-08T18:04:00+08:00",
+      "summary": "Every year, Apple's Worldwide Developers Conference gives us a first look at what's coming next to the company's many operating systems. But missing from today's keynote, apart from a single graphic listing all current Apple OSes next to a big \"27,\" was any mention of tvOS. The whole structure of this year's WWDC was different, […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Apple’s new parental controls are for keeping Apple out of trouble",
+      "url": "https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc",
+      "source": "The Verge",
+      "published_at": "2026-06-08T17:48:00+08:00",
+      "summary": "When Apple put child safety front and center at WWDC on Monday, its stated goal was helping parents fine-tune their kids' online experiences and avoid excessive screen time. But amid a global debate over internet regulation, its latest updates also looked like a defensive move in a brewing fight against Meta and other app developers. […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "44 things coming to your Apple devices that you might have missed",
+      "url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
+      "source": "The Verge",
+      "published_at": "2026-06-08T17:17:00+08:00",
+      "summary": "This year's WWDC keynote was all about AI. But with all the attention on Apple Intelligence and Siri AI, the company breezed by - or neglected to mention - a bunch of cool, smaller features across its new updates. I've rounded up a bunch of them right here. The new operating systems are available in […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Apple drops support for a long list of Apple Watches with latest OS updates",
+      "url": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
+      "source": "The Verge",
+      "published_at": "2026-06-08T20:31:00+08:00",
+      "summary": "I hope you have a modern Apple Watch or iPad, because otherwise watchOS 27 and iPadOS 27 won't run on your device. Apple often drops support for older devices with its latest software updates, but this year it's culling even more device generations than ever before. Apple is dropping support for at least three generations […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Apple announces watchOS 27, now with Siri AI",
+      "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
+      "source": "The Verge",
+      "published_at": "2026-06-08T20:31:00+08:00",
+      "summary": "Apple just announced watchOS 27, the next version of its Apple Watch operating system, introducing support for Siri AI, a redesigned \"dynamic\" app grid, and improvements to health and fitness tracking. The watchOS 27 update will be available \"this fall,\" according to Apple, though support is notably limited - the new OS will only be […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Apple WWDC 2026: The 7 biggest announcements",
+      "url": "https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27",
+      "source": "The Verge",
+      "published_at": "2026-06-08T15:35:00+08:00",
+      "summary": "Apple's keynote at this year's Worldwide Developers Conference was a big one. After months of delays, Apple reintroduced us to its AI-upgraded Siri, which will go beyond what the existing voice assistant can do by offering more personalized help. We also got a look at many other updates coming across the operating systems powering the […]",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Discovery of an Active Wind from the Milky Way’s Central Black Hole",
+      "url": "https://hackaday.com/?p=1116514",
       "source": "Hackaday",
       "published_at": "",
-      "summary": "討論一種利用太陽能淡化海水且不產生鹽水廢棄物的新技術。",
-      "keywords": [
-        "淡化技術",
-        "太陽能",
-        "環保",
-        "能源"
-      ],
+      "summary": "One of the fun aspects of astrophysics is that much of it involves phenomena which you cannot exactly study from up close, with the supermassive black hole (SMBH) at the …read more",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為環境與能源科技新聞，與我們的硬體、晶片和 AI 終端應用無直接關聯。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "Hackaday Links: June 7, 2026",
-      "url": "https://hackaday.com/?p=1116576&preview=true&preview_id=1116576",
+      "title": "Pico-Driven Ultrasound Enables Scaled Acoustic Model of Home Stereo",
+      "url": "https://hackaday.com/?p=1116721",
       "source": "Hackaday",
       "published_at": "",
-      "summary": "Hackaday 整理的當日科技新聞連結集錦。",
-      "keywords": [
-        "科技新聞",
-        "連結",
-        "資訊彙整"
-      ],
+      "summary": "There are plenty of ways to get sound into your house: good old fashioned headphones, the Dolby surround setup we all lusted after back in the day, or the 21st …read more",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為綜合性科技新聞連結集錦，無具體內容可供分析，故無直接影響。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "Bluetooth Gramophone Has Surprisingly Contemporary Roots",
-      "url": "https://hackaday.com/?p=1116557",
+      "title": "News Sites are Blocking Internet Archive over AI Scraping Fears",
+      "url": "https://hackaday.com/?p=1116517",
       "source": "Hackaday",
       "published_at": "",
-      "summary": "介紹一個將藍牙技術整合到老式留聲機中的改造專案，展現現代電子技術的應用。",
-      "keywords": [
-        "藍牙",
-        "嵌入式系統",
-        "改造",
-        "音訊設備"
-      ],
-      "category": "Edge",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "此專案展示了嵌入式系統在改造和升級傳統設備上的實際應用，以及無線通信技術在消費性電子產品中的普及性。",
-      "action_suggestion": "關注藍牙及其他無線通信技術在嵌入式裝置上的創新應用，思考如何在我們的產品中實現類似的整合或產品創新。"
-    },
-    {
-      "title": "How Small Can You Make A C Executable?",
-      "url": "https://hackaday.com/?p=1116540",
-      "source": "Hackaday",
-      "published_at": "",
-      "summary": "探討如何將 C 語言編譯的執行檔大小最佳化至最小，比較了編譯器和手寫組譯的差異。",
-      "keywords": [
-        "程式碼最佳化",
-        "嵌入式軟體",
-        "C語言",
-        "資源受限"
-      ],
-      "category": "Software",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "程式碼體積最佳化對於資源受限的嵌入式系統至關重要，直接影響產品的硬體成本、啟動時間和執行效率。",
-      "action_suggestion": "推動嵌入式軟體團隊持續關注並應用程式碼最佳化技術，特別是在編譯器設置、連結器最佳化和低階程式設計方面，以提升產品競爭力。"
-    },
-    {
-      "title": "LIPS is an Open Source Sip-And-Puff Interface",
-      "url": "https://hackaday.com/?p=1116522",
-      "source": "Hackaday",
-      "published_at": "",
-      "summary": "LIPS 是一個開源的「吸吹式」輔助科技介面，旨在幫助有行動障礙的使用者操作電腦。",
-      "keywords": [
-        "輔助科技",
-        "開源硬體",
-        "嵌入式系統",
-        "人機介面"
-      ],
-      "category": "Edge",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "這是一個嵌入式系統在輔助科技領域的具體應用範例，展示了感測器整合和人機介面設計的實踐，可啟發我們在特定應用領域的創新。",
-      "action_suggestion": "關注輔助科技領域的開源專案和技術趨勢，思考如何將相關的感測器技術、人機介面設計原理應用於我們的產品或新專案中。"
-    },
-    {
-      "title": "A New Life For a Rare Console",
-      "url": "https://hackaday.com/?p=1116491",
-      "source": "Hackaday",
-      "published_at": "",
-      "summary": "探討如何讓一款罕見的復古遊戲主機重獲新生，可能是透過修復或現代化改造。",
-      "keywords": [
-        "復古電腦",
-        "硬體修復",
-        "改造",
-        "電子愛好"
-      ],
+      "summary": "Especially in this era of the Internet, the role of the Internet Archive’s Wayback Machine has become increasingly essential as more and more web content vanishes into the ether or …read more",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為復古硬體修復與改造專案，與我們當前的商業硬體研發無直接相關。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
-      "title": "Less Than 10 Years? Commonwealth Fusion Systems Applies to Plug into Grid in 2030s",
-      "url": "https://hackaday.com/?p=1116533",
+      "title": "Optimizing Pancakes from Chemical Principles",
+      "url": "https://hackaday.com/?p=1116407",
       "source": "Hackaday",
       "published_at": "",
-      "summary": "Commonwealth Fusion Systems 目標在 2030 年代將核融合發電廠接入電網，挑戰「核融合總在 10 年後」的說法。",
-      "keywords": [
-        "核融合",
-        "能源技術",
-        "未來能源"
-      ],
+      "summary": "Although parents and teachers like to point out the deep link between cooking and chemistry, most people don’t deliberately apply any chemical principles beyond acid/base reactions to their recipes. Not …read more",
+      "keywords": [],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此為長期能源技術發展新聞，對我們的短期硬體、晶片和 AI 終端應用無直接影響。",
-      "action_suggestion": "無。"
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Spy Tech: The GPS Numbers Station",
+      "url": "https://hackaday.com/?p=1116636",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "We’ve talked before about number stations — mysterious shortwave transmitters repeating numbers, presumably for clandestine purposes. But, of course, the mere fact that they are unusual makes them stand out. …read more",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Revisiting Using AI Coding Assistants: You’re Holding It Wrong Edition",
+      "url": "https://hackaday.com/?p=1116084",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "After scathing accusations of skimping on due diligence, as well as other feedback to my article on trying to use an ‘AI coding assistant’ for the first time, the only …read more",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Goddard the Robot Dog Brought to Life",
+      "url": "https://hackaday.com/?p=1116586",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "There’s not much more nostalgic for many than good ole’ Jimmy Neutron. This was true for [Kiara], who saw the gorgeous pupper Goddard and wanted him for herself. Of course, …read more",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
+      "url": "35sVnqgPukGnb1KPNJWLpL",
+      "source": "VentureBeat",
+      "published_at": "",
+      "summary": "A joint research collaboration between researchers at the University of Illinois at Urbana-Champaign (UIUC), UC Berkeley, and the open source AI-native vector database platform Chroma unveiled Harness-1 , a 20-billion parameter open-source search agent built atop OpenAI's gpt-oss-20B open source model that fundamentally redesigns how AI executes complex retrieval tasks. Harness-1 achieves a massiv",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
+    },
+    {
+      "title": "The Agentic Reckoning: Enterprise AI organizations have a runtime problem, not a model problem — and most are building the wrong solution",
+      "url": "6OZMdHfIo1GSGZbT5DjogC",
+      "source": "VentureBeat",
+      "published_at": "",
+      "summary": "In Q1 2026, VentureBeat's Pulse Research surfaced the “Governance Mirage” : the gap between the governance org charts enterprises had drawn and the control layers they had actually built. Forty-three percent said a central team owned AI governance; 23% couldn't agree on who owned it at all; and 31% named vendor opacity as the single biggest obstacle. This new wave of research asks the next questio",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
       "title": "When Claude changed, everything changed: Managing AI blast radius in production",
       "url": "1aKElYaW7iIn62jN0gNWDy",
       "source": "VentureBeat",
       "published_at": "",
-      "summary": "AI 模型（如 Claude）的變化可能導致生產環境中的系統問題，凸顯了管理 AI 影響範圍的重要性。",
-      "keywords": [
-        "AI模型管理",
-        "生產部署",
-        "軟體工程",
-        "AI可靠性"
-      ],
-      "category": "Software",
+      "summary": "Our system did one thing, and it did it well: It turned natural-language questions into API calls. The users were analysts, account managers, and operations leads. They knew what data they needed, but assembling it manually meant pulling from four dashboards, two BI tools, and a Salesforce report builder. With our system, they typed the request in plain English. A request like \"Compile a report on",
+      "keywords": [],
+      "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "提醒我們在設計整合 AI 功能的硬體系統時，需考慮 AI 模型更新與維護的複雜性，以確保系統穩定性。",
-      "action_suggestion": "了解 AI 模型在生產環境中的變動性，思考如何在硬體設計時提供足夠的彈性與模組化，以適應軟體更新或模型替換。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
       "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
       "url": "5gcS69zEHGvbdbY17EDF9Z",
       "source": "VentureBeat",
       "published_at": "",
-      "summary": "代理 AI 大幅加速了程式碼生成，但同時也揭示了軟體工程中需求定義等其他問題成為新的瓶頸。",
-      "keywords": [
-        "代理AI",
-        "程式碼生成",
-        "軟體開發",
-        "生產力"
-      ],
-      "category": "AI",
+      "summary": "Agentic AI is now a core part of the engineering process, driving massive execution leverage and helping us generate more code than ever before. Yet, a difficult question I’ve increasingly heard from business leaders is: if we’re shipping code faster than ever, why aren’t our products improving at the same rate? The reason is that writing code was never the rate limiter. Defining the right require",
+      "keywords": [],
+      "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "說明 AI 提升生產力同時，也凸顯了其他環節的重要性，有助於我們評估 AI 在研發工具鏈中的真實價值和潛在瓶頸。",
-      "action_suggestion": "關注 AI 在設計自動化工具（EDA）或程式碼生成工具中的發展，評估其對提升硬體設計和嵌入式軟體開發流程效率的潛在幫助。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
       "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
       "url": "3EaOhSBDkCkKYIkUQonFFJ",
       "source": "VentureBeat",
       "published_at": "",
-      "summary": "微軟 AI 主管表示，公司現在已「擺脫」OpenAI 的束縛，將獨立追求超級智慧（superintelligence）。",
-      "keywords": [
-        "微軟",
-        "AI戰略",
-        "OpenAI",
-        "超級智慧",
-        "AI晶片"
-      ],
-      "category": "AI",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "微軟在 AI 領域的獨立佈局和對「超級智慧」的追求，可能驅動更多元的 AI 硬體架構和晶片設計創新，對整個 AI 產業和未來 AI 晶片需求產生深遠影響。",
-      "action_suggestion": "密切關注微軟在 AI 硬體加速和基礎設施方面的研發方向，評估其對未來 AI 晶片市場標準和技術路線的潛在影響，並思考我們的產品如何與之相容或競爭。"
+      "summary": "For three years, Microsoft's artificial intelligence story has been inseparable from OpenAI. The partnership — cemented by a cumulative investment exceeding $13 billion — gave Microsoft early access to the most advanced AI models on the planet, catapulting its Copilot products into the enterprise mainstream and adding hundreds of billions of dollars to its market capitalization. To the outside wor",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
       "title": "Microsoft's AI Futurist explains how he uses Copilot — and the real-world problems enterprises are solving with agents",
       "url": "3RdRRZK0navJNcrZIWBWHl",
       "source": "VentureBeat",
       "published_at": "",
-      "summary": "微軟在 Build 2026 強調企業廣泛採用 AI 代理，並透過 Microsoft IQ 提供上下文、治理、身份和安全數據存取。",
-      "keywords": [
-        "企業AI",
-        "AI代理",
-        "邊緣運算",
-        "數據治理",
-        "安全性"
-      ],
-      "category": "AI",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "企業級 AI 代理的普及，將大幅提升對高效能、安全且具備上下文感知能力的邊緣 AI 運算平台的需求，對我們的產品設計方向有重要指引。",
-      "action_suggestion": "評估我們的邊緣 AI 產品和解決方案，如何更好地支援企業級 AI 代理所需的運算力、安全性、數據治理及上下文管理功能，以滿足市場需求。"
+      "summary": "Microsoft used its Build 2026 conference this week to push a clear message: agents are rapidly moving into production throughout enterprise systems, and the winning platform will be the one that gives them reliable context, governance, identity, memory — and secure access to enterprise data. The company announced Microsoft IQ as a context layer across GitHub Copilot, Microsoft Foundry and Copilot ",
+      "keywords": [],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "",
+      "action_suggestion": ""
     },
     {
       "title": "AI agents are learning on the job — just not for your whole team",
       "url": "7uZ8DypEBhAAvj8zvgYIdD",
       "source": "VentureBeat",
       "published_at": "",
-      "summary": "AI 代理的學習成果無法在團隊成員之間共享，導致缺乏共享記憶層，每個用戶都需從零開始。",
-      "keywords": [
-        "AI代理",
-        "共享學習",
-        "協作AI",
-        "AI限制"
-      ],
-      "category": "Software",
+      "summary": "When someone on a team corrects an AI agent — better prompts, better feedback, better context — that improvement disappears the moment a colleague opens the same tool. The correction doesn't transfer, and the next person starts from zero. The problem compounds in multi-agent workflows, where teams expect agents to share context across users and tasks. Without a shared memory layer, every team memb",
+      "keywords": [],
+      "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "了解 AI 協作應用中知識共享的挑戰，有助於我們在設計支援多用戶或協作場景的邊緣 AI 系統時，考量潛在的軟硬體整合需求。",
-      "action_suggestion": "考量在未來的邊緣 AI 系統設計中，如何支持或兼容需要共享上下文和學習的 AI 應用，可能涉及儲存、通訊介面和安全共享機制設計。"
-    },
-    {
-      "title": "Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.",
-      "url": "5RjObu657JLLRcXlMWh4dH",
-      "source": "VentureBeat",
-      "published_at": "",
-      "summary": "Meta 的 AI 客服代理被發現能將恢復郵箱綁定給任何請求者，且未觸發安全警報，暴露出 AI 應用潛在的安全漏洞。",
-      "keywords": [
-        "AI安全",
-        "資安漏洞",
-        "AI風險",
-        "身分驗證"
-      ],
-      "category": "AI",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "AI 系統的安全漏洞問題凸顯了我們在設計整合 AI 的硬體和嵌入式系統時，必須將安全性（包括模型防篡改、數據隱私）視為核心考量。",
-      "action_suggestion": "重新審視我們邊緣 AI 產品的安全設計，特別是 AI 模型的防篡改機制、數據隱私保護、身份驗證流程，以及潛在的 AI 誤用風險。"
-    },
-    {
-      "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up",
-      "url": "7jx1tXydvxRPlFtfPPjhby",
-      "source": "VentureBeat",
-      "published_at": "",
-      "summary": "Anthropic 報告其 80% 的生產程式碼由其 AI 模型 Claude 生成，使程式碼產量增加 8 倍。",
-      "keywords": [
-        "AI程式碼生成",
-        "開發效率",
-        "軟體開發",
-        "Anthropic"
-      ],
-      "category": "AI",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "AI 在程式碼生成上的顯著效率提升，暗示未來軟體開發速度會加快，間接要求硬體設計能更快響應並提供更靈活、可程式化的平台。",
-      "action_suggestion": "評估在我們的嵌入式軟體開發流程中導入 AI 輔助程式碼生成工具的可能性，以提升開發效率。同時，確保我們設計的硬體平台具備足夠的靈活性和可擴展性，來支持快速變化的軟體需求。"
+      "why_it_matters": "",
+      "action_suggestion": ""
     }
   ]
 }
