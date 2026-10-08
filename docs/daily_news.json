@@ -1,519 +1,513 @@
 {
-  "timestamp": "2026-10-07T12:57:02.393435+08:00",
-  "date": "2026-10-07",
+  "timestamp": "2026-10-08T13:03:32.428840+08:00",
+  "date": "2026-10-08",
   "articles": [
     {
-      "title": "打破機械限制，科學家以雷射光造出電漿束天線",
-      "url": "https://technews.tw/?p=1625415",
+      "title": "TPCA Show 2026 規模創新高！攜手 IMPACT 深度串聯 PCB 與先進封裝，聚焦AI 新局",
+      "url": "https://technews.tw/?p=1625711",
       "source": "TechNews",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "北卡羅來納州立大學團隊成功以雷射光束製造出電漿天線，實現了非機械形式的電磁波發射與接收。這項技術突破了傳統機械天線的限制，開創了通訊領域的新可能性。",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "AI算力需求爆發推動硬體革新，台灣電路板協會TPCA與IMPACT合作，聚焦PCB與先進封裝技術，迎接AI新機遇。",
       "keywords": [
-        "電漿天線",
-        "雷射光束",
-        "無線通訊",
-        "射頻技術",
-        "新型天線"
+        "PCB",
+        "先進封裝",
+        "AI算力",
+        "硬體架構",
+        "供應鏈"
       ],
       "category": "Hardware",
       "rd_relevance": "High",
-      "impact": "Medium",
-      "why_it_matters": "這種新型電漿天線技術若成熟，將徹底改變傳統天線的設計與應用，對我們的無線通訊模組和物聯網邊緣裝置的尺寸、效能、頻段彈性有革命性影響。",
-      "action_suggestion": "需持續追蹤此技術的研發進展，評估其應用於未來產品的可能性，尤其在小型化與頻譜彈性方面。"
-    },
-    {
-      "title": ".meow、.fart 要來了？ICANN 將公布新一輪頂級網域申請名單",
-      "url": "https://technews.tw/?p=1625384",
-      "source": "TechNews",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "網際網路的命名版圖即將迎來新變化，ICANN 預計在 10 月 7 日公開新一輪頂級網域申請名單。這意味著未來可能會出現更多元化的網域選擇。",
-      "keywords": [
-        "網域名稱",
-        "ICANN",
-        "網路命名",
-        "網際網路",
-        "頂級網域"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "主要影響行銷和品牌策略，對硬體與嵌入式系統的技術研發本身無直接意義。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "66 億美元補潛艦產能，Anduril 跨足維吉尼亞級核潛艦供應鏈",
-      "url": "https://technews.tw/?p=1625406",
-      "source": "TechNews",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "以無人系統聞名的美國國防科技公司 Anduril，將投資 66 億美元擴展製造版圖，首次跨足維吉尼亞級核潛艦供應鏈。此舉顯示了國防領域的投資趨勢與供應鏈重塑。",
-      "keywords": [
-        "國防科技",
-        "Anduril",
-        "核潛艦",
-        "供應鏈",
-        "製造產能"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "該新聞主要關注國防工業供應鏈及大型製造投資，與我們的核心硬體及嵌入式研發領域關聯度低。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "小摩唱多探針卡巨頭特諾本 看好晶片測試需求",
-      "url": "https://technews.tw/?p=1625261",
-      "source": "TechNews",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "摩根大通首次看好義大利半導體測試大廠特諾本，預期其探針卡業務將受惠於強勁的晶片測試需求。這表明半導體製造後端測試環節的重要性及市場前景。",
-      "keywords": [
-        "晶片測試",
-        "探針卡",
-        "半導體製造",
-        "特諾本",
-        "市場需求"
-      ],
-      "category": "Chip",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "晶片測試需求增加，意味著供應鏈對測試設備的依賴加劇，這可能影響晶片的良率、交期與成本，進而間接影響我們的晶片採購策略和產品開發時程。",
-      "action_suggestion": "需持續關注晶片測試技術的發展與測試設備市場狀況，以便在晶片選型和供應鏈評估時納入考量。"
-    },
-    {
-      "title": "經濟安全考量 半導體設備商 TOWA 擬在日本蓋新廠",
-      "url": "https://technews.tw/?p=1625225",
-      "source": "TechNews",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "日本半導體製造設備商 TOWA 考量經濟安全，計畫在日本國內興建新工廠，預計 2029 年投產半導體封裝設備。此舉反映了全球供應鏈在地化和強化韌性的趨勢。",
-      "keywords": [
-        "半導體設備",
-        "TOWA",
-        "供應鏈在地化",
-        "經濟安全",
-        "封裝設備"
-      ],
-      "category": "Chip",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "半導體設備商在日本設廠，是全球半導體供應鏈在地化和分散風險的趨勢之一。這將影響未來晶片的生產成本、交期與可預測性，對我們產品的物料供應產生間接影響。",
-      "action_suggestion": "需密切關注全球半導體供應鏈的結構性變化，評估多點供應的可能性，並與供應商保持溝通，以降低未來晶片供應風險。"
-    },
-    {
-      "title": "台積電在亞利桑那州投資創美國史上最大規模，效應引發中國不滿與警告",
-      "url": "https://technews.tw/?p=1625345",
-      "source": "TechNews",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "台積電在美國亞利桑那州投資高達 2,650 億美元擴建晶圓廠，創下美國史上最大規模，此舉引發中國的不滿與警告。這顯示了地緣政治對半導體產業的深遠影響及供應鏈的戰略調整。",
-      "keywords": [
-        "台積電",
-        "亞利桑那",
-        "晶圓廠",
-        "半導體供應鏈",
-        "地緣政治"
-      ],
-      "category": "Chip",
-      "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "台積電在美國的大規模投資，是全球半導體供應鏈去風險化和區域化的重要標誌。這將影響未來晶片供應的地理分布、成本，以及潛在的地緣政治風險，對我們產品的晶片採購策略有直接且深遠的影響。",
-      "action_suggestion": "需評估台積電在美國設廠對各製程節點晶片供應的長短期影響，與現有供應商保持緊密溝通，並持續關注地緣政治對半導體產業的政策變化，評估供應鏈多元化策略。"
+      "why_it_matters": "AI對PCB和先進封裝的需求劇增，這直接影響我們的硬體設計和供應鏈策略，需密切關注新技術與供應商發展。",
+      "action_suggestion": "研發團隊應關注最新的PCB材料與製程、先進封裝技術（如CoWoS、chiplet），並評估其在未來產品設計中的可行性與成本；與供應商保持密切溝通，了解產能與技術路線圖。"
     },
     {
-      "title": "智邦 9 月營收寫歷史次高！大摩讚明年成長動能增，目標價喊上 3,500 元",
-      "url": "https://technews.tw/?p=1625338",
+      "title": "至上9月營收660.34 億元",
+      "url": "https://technews.tw/2026/10/08/supreme-8112-202609-financial-report/",
       "source": "TechNews",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "網通大廠智邦 9 月營收創歷史次高，摩根士丹利看好其明年成長動能，並大幅調升目標價。這反映了網通產業的強勁需求和市場對其前景的樂觀預期。",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "電子零組件通路商至上公布九月營收達660.34億元，較八月大幅成長62.1%，且較去年同期顯著增加。",
       "keywords": [
-        "網通設備",
-        "智邦",
-        "營收成長",
-        "市場分析",
-        "網路基礎設施"
+        "至上",
+        "營收",
+        "供應鏈",
+        "電子零組件"
       ],
       "category": "Other",
       "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "雖然智邦業績表現亮眼，但此為市場分析層面，與我們硬體與嵌入式系統的技術研發方向無直接關聯。",
-      "action_suggestion": "無需特別行動。"
+      "impact": "Medium",
+      "why_it_matters": "至上營收大幅成長可能反映市場對電子零組件需求旺盛，可作為供應鏈景氣的參考指標，間接影響零組件採購與成本預估。",
+      "action_suggestion": "監控主要供應商與通路商的營運數據，作為供應鏈健康度評估的輔助資訊，但對研發技術路線影響不大。"
     },
     {
-      "title": "魂類遊戲將來不只「讀指令」還能「即時調整難度」，索尼新 AI 專利或讓玩家不能靠堆屍破關",
-      "url": "https://technews.tw/?p=1625214",
+      "title": "ChatGPT 增添「智慧介面」，互動式圖表、按鍵直接用",
+      "url": "https://technews.tw/?p=1626223",
       "source": "TechNews",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "索尼互動娛樂新專利揭示，未來遊戲中的 AI 將能即時調整 NPC 行為與遊戲難度，不再僅依賴固定程式反應。這代表著遊戲 AI 發展的重大突破，提供了更動態的遊戲體驗。",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "由GPT-6驅動的ChatGPT導入「智慧介面」，對話過程可整合互動式圖表、按鍵等視覺元素，提升使用者體驗。",
       "keywords": [
-        "遊戲AI",
-        "索尼專利",
-        "NPC行為",
-        "即時調整難度",
-        "機器學習"
+        "ChatGPT",
+        "GPT-6",
+        "智慧介面",
+        "AI應用",
+        "人機互動"
       ],
       "category": "AI",
       "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "該專利展示了 AI 在即時環境中進行行為分析和動態調整的能力，這種技術思路在我們的邊緣 AI 或自主系統的決策引擎設計上具有借鑒意義。",
-      "action_suggestion": "可關注此類即時 AI 決策和動態調整演算法的發展，探索其在工業自動化、智能監控等嵌入式 AI 應用場景中的潛在價值。"
+      "impact": "Medium",
+      "why_it_matters": "這種新的AI互動介面可能預示未來終端設備上AI應用的發展方向，我們的嵌入式系統和人機介面設計需考慮更多AI驅動的互動模式。",
+      "action_suggestion": "追蹤AI介面技術的演進，評估如何在我們的產品中融入更智慧、更直觀的AI互動功能，尤其是在嵌入式終端設備上。"
     },
     {
-      "title": "AI 電源迎 800 VDC 升級潮！外資挺台達、光寶目標價大升至 315 元",
-      "url": "https://technews.tw/?p=1625216",
+      "title": "致新9月營收8.28 億元",
+      "url": "https://technews.tw/2026/10/08/gmt-8081-202609-financial-report/",
       "source": "TechNews",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "AI 伺服器電力架構正加速升級至 800 VDC，台達電與光寶科因此受惠，外資看好並大幅調升目標價。這反映了 AI 運算對高功率電源方案的強烈需求。",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "電源管理IC供應商致新公布九月營收達8.28億元，較八月成長3.0%，較去年同期成長14.5%。",
       "keywords": [
-        "AI伺服器",
-        "電源管理",
-        "800VDC",
-        "台達電",
-        "光寶科"
+        "致新",
+        "營收",
+        "電源管理IC",
+        "供應鏈"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "致新營收穩定成長可能反映市場對電源管理IC的需求穩定，但對R&D直接技術決策影響不大。",
+      "action_suggestion": "無直接R&D行動建議，但可將其作為電源管理IC市場趨勢的間接參考。"
+    },
+    {
+      "title": "矽創9月營收19.79 億元",
+      "url": "https://technews.tw/2026/10/08/sitronix-8016-202609-financial-report/",
+      "source": "TechNews",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "顯示驅動IC供應商矽創公布九月營收達19.79億元，較八月成長3.7%，較去年同期成長16.3%。",
+      "keywords": [
+        "矽創",
+        "營收",
+        "驅動IC",
+        "供應鏈"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "矽創營收成長顯示顯示面板需求可能回溫，可間接作為零組件市場狀況參考，但對R&D直接影響有限。",
+      "action_suggestion": "無直接R&D行動建議，作為市場情報參考。"
+    },
+    {
+      "title": "瑞耘9月營收月增4.4%",
+      "url": "https://technews.tw/2026/10/08/ct-6532-202609-financial-report/",
+      "source": "TechNews",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "半導體設備耗材供應商瑞耘公布九月合併營收8,006.90萬元，較八月成長4.4%，與去年同期相比為年增。",
+      "keywords": [
+        "瑞耘",
+        "營收",
+        "半導體設備",
+        "供應鏈"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "瑞耘營收成長可能反映半導體製造端景氣稍有回溫，但對我們核心R&D活動的直接影響有限。",
+      "action_suggestion": "無直接R&D行動建議。"
+    },
+    {
+      "title": "環球晶9月營收月增7.7%",
+      "url": "https://technews.tw/2026/10/08/gwc-6488-202609-financial-report/",
+      "source": "TechNews",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "晶圓供應商環球晶公布九月合併營收51.29億元，較八月成長7.7%，但較去年同期為年減，顯示市場仍在調整。",
+      "keywords": [
+        "環球晶",
+        "營收",
+        "晶圓",
+        "供應鏈",
+        "半導體材料"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Medium",
+      "why_it_matters": "環球晶作為主要矽晶圓供應商，其營收變化直接關係到晶片製造的基礎材料供應，需持續關注以評估供應鏈穩定性。",
+      "action_suggestion": "關注晶圓供應商的長期趨勢，以評估未來晶片成本與供應穩定性，並納入供應鏈風險管理考量。"
+    },
+    {
+      "title": "統新9月營收6,451.20 萬元",
+      "url": "https://technews.tw/2026/10/08/apogee-6426-202609-financial-report/",
+      "source": "TechNews",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "光通訊元件供應商統新公布九月營收達6,451.20萬元，較八月衰退12.0%，但較去年同期成長26.0%。",
+      "keywords": [
+        "統新",
+        "營收",
+        "光通訊",
+        "供應鏈"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "統新營收波動可能反映光通訊市場的短期變化，對我們團隊的硬體或嵌入式系統研發影響較小。",
+      "action_suggestion": "無直接R&D行動建議。"
+    },
+    {
+      "title": "瑞祺電通9月營收月增29.0%",
+      "url": "https://technews.tw/2026/10/08/caswell-6416-202609-financial-report/",
+      "source": "TechNews",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "網路安全與工業電腦供應商瑞祺電通公布九月合併營收7.07億元，較八月大幅成長29.0%，與去年同期相比為年增。",
+      "keywords": [
+        "瑞祺電通",
+        "營收",
+        "網路通訊",
+        "工業電腦",
+        "嵌入式系統"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "瑞祺電通營收大幅成長可能顯示相關市場需求旺盛，但對我們團隊的核心技術研發影響有限。",
+      "action_suggestion": "無直接R&D行動建議。"
+    },
+    {
+      "title": "樺漢9月營收177.55 億元",
+      "url": "https://technews.tw/2026/10/08/ennoconn-6414-202609-financial-report/",
+      "source": "TechNews",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "工業電腦及嵌入式系統整合廠商樺漢公布九月營收達177.55億元，較八月成長14.6%，較去年同期成長28.9%。",
+      "keywords": [
+        "樺漢",
+        "營收",
+        "工業電腦",
+        "嵌入式系統",
+        "供應鏈"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "樺漢營收成長反映下游市場需求強勁，間接印證工業控制和嵌入式解決方案市場的活躍，但對我們特定技術研發影響有限。",
+      "action_suggestion": "無直接R&D行動建議。"
+    },
+    {
+      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+      "source": "The Verge",
+      "published_at": "2026-10-07T17:19:00+08:00",
+      "summary": "Teenage Engineering CEO表示將停止生產合成器，包括其標誌性產品OP-1，轉而專注於設計諮詢業務。",
+      "keywords": [
+        "Teenage Engineering",
+        "合成器",
+        "產品策略",
+        "設計公司",
+        "消費性電子"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "這是一個特定公司業務轉型的案例，提醒我們產品生命週期管理和市場策略的重要性，但對我們的硬體/嵌入式技術研發無直接影響。",
+      "action_suggestion": "無直接R&D行動建議。"
+    },
+    {
+      "title": "Android’s physical navigation buttons are back on Googlebooks, but not the way you think",
+      "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
+      "source": "The Verge",
+      "published_at": "2026-10-07T16:44:00+08:00",
+      "summary": "Googlebooks鍵盤上重新引入了類似Android手機的實體導航按鈕，以功能鍵形式提供便捷操作。",
+      "keywords": [
+        "Android",
+        "Googlebooks",
+        "實體按鈕",
+        "UI/UX",
+        "硬體設計"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "儘管不是革命性創新，但它提示了物理介面在特定場景下仍然具有價值，尤其是在人機互動的效率和習慣性方面，這對嵌入式設備的人機介面設計有參考意義。",
+      "action_suggestion": "在設計新產品的人機介面時，重新思考實體按鈕和觸控介面之間的最佳平衡，特別是針對特定應用場景下的使用者效率。"
+    },
+    {
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "source": "The Verge",
+      "published_at": "2026-10-07T15:10:00+08:00",
+      "summary": "OpenAI為ChatGPT推出「智慧介面」更新，使其能以互動式視覺元素如圖表、按鈕等回應用戶，搭配GPT-6模型。",
+      "keywords": [
+        "ChatGPT",
+        "GPT-6",
+        "智慧介面",
+        "AI應用",
+        "人機互動"
+      ],
+      "category": "AI",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "這種新的AI互動介面可能預示未來終端設備上AI應用的發展方向，我們的嵌入式系統和人機介面設計需考慮更多AI驅動的互動模式。",
+      "action_suggestion": "追蹤AI介面技術的演進，評估如何在我們的產品中融入更智慧、更直觀的AI互動功能，尤其是在嵌入式終端設備上。"
+    },
+    {
+      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
+      "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
+      "source": "The Verge",
+      "published_at": "2026-10-07T15:12:00+08:00",
+      "summary": "搭載Nvidia全新RTX Spark晶片的首批AI筆電上市，定價高達7,000美元，旨在與高階MacBook Pro競爭。",
+      "keywords": [
+        "Nvidia RTX Spark",
+        "AI筆電",
+        "高效能運算",
+        "晶片設計",
+        "終端應用"
       ],
       "category": "Hardware",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "AI 應用對電源的需求呈現高壓、高效率、高密度趨勢，800 VDC 是未來主流。這對我們設計具備高效 AI 算力的嵌入式系統，特別是邊緣 AI 裝置的電源模組和散熱方案，提供了明確的技術方向和供應商參考。",
-      "action_suggestion": "需深入研究 800 VDC 電源架構的技術細節、可靠性與安全標準，評估與我們現有 AI 硬體平台結合的可行性，並與台達、光寶等供應商建立聯繫，探索合作機會。"
+      "why_it_matters": "Nvidia RTX Spark晶片將強大AI算力帶入筆電市場，這代表邊緣AI運算能力的大幅提升，直接影響我們對未來高階嵌入式系統和AI終端產品的性能預期與設計方向。",
+      "action_suggestion": "密切關注RTX Spark的架構、性能指標、功耗及SDK支援，評估其在我們未來AI產品線中的潛在應用，並考慮與Nvidia生態系統的整合。"
     },
     {
-      "title": "迎戰短影音時代，Facebook 測試「Reels 優先」介面有望推向全球",
-      "url": "https://technews.tw/?p=1625222",
-      "source": "TechNews",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "Meta 正在印度測試 Facebook 的「Reels 優先」介面，預計將短影音內容置於核心地位，以迎戰短影音時代。這顯示了社群媒體內容消費模式的轉變。",
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+      "source": "The Verge",
+      "published_at": "2026-10-07T14:54:00+08:00",
+      "summary": "ICANN將開放新的頂級域名申請，其中.agent和.agi預計將成為熱門，反映AI和通用人工智慧的發展趨勢。",
       "keywords": [
-        "短影音",
-        "Facebook Reels",
-        "社群媒體",
-        "Meta",
-        "內容策略"
+        "ICANN",
+        "頂級域名",
+        "AI",
+        "AGI",
+        "網路趨勢"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "該新聞主要關於社群媒體平台的內容策略調整，與硬體和嵌入式系統的技術研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
+      "why_it_matters": "雖然與硬體研發無直接關係，但這反映了AI和AGI概念在網路世界的普及，間接證明AI市場的熱度與長期發展潛力。",
+      "action_suggestion": "無直接R&D行動建議。"
     },
     {
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
-      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
       "source": "The Verge",
-      "published_at": "2026-10-06T22:06:00+08:00",
-      "summary": "Xbox 已經獲得了 GTA 6 的獨家串流播放權利，微軟高層透露這將是其他平台無法做到的。這對遊戲串流服務和平台競爭格局產生重大影響。",
+      "published_at": "2026-10-07T18:15:00+08:00",
+      "summary": "微軟發表Surface Laptop Ultra，搭載Nvidia RTX Spark ARM架構晶片，起價2,599美元，展示其AI PC戰略。",
       "keywords": [
-        "Xbox",
-        "GTA 6",
-        "遊戲串流",
-        "獨家內容",
-        "雲端遊戲"
+        "Microsoft Surface",
+        "Nvidia RTX Spark",
+        "ARM晶片",
+        "AI筆電",
+        "Windows"
       ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "該新聞主要關注遊戲內容獨家授權及串流服務競爭，與我們的硬體與嵌入式系統研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "The best robot vacuum and mop deals during October Prime Day",
-      "url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-10-06T16:43:00+08:00",
-      "summary": "在亞馬遜 Prime Day 期間，多款掃地機器人與拖地機組合有優惠，提供了清潔家電的優惠購買機會。這反映了智能家電市場的消費趨勢和促銷策略。",
-      "keywords": [
-        "掃地機器人",
-        "智能家電",
-        "促銷活動",
-        "家庭自動化",
-        "物聯網"
-      ],
-      "category": "Edge",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "雖然這則新聞本身是促銷，但掃地機器人代表了智能家居邊緣裝置的發展趨勢。我們應關注這類產品的嵌入式系統設計、感測器整合、導航演算法及邊緣 AI 應用。",
-      "action_suggestion": "持續關注智能家居機器人產品的技術演進，特別是其嵌入式處理器、感測器整合與AI導航能力的提升，從中獲取潛在的技術啟發或合作機會。"
-    },
-    {
-      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-      "source": "The Verge",
-      "published_at": "2026-10-06T17:54:00+08:00",
-      "summary": "據報導，Apple 和 LG 正在合作開發一系列新的智能家居設備，包括智慧鎖、門鈴和恆溫器，將整合 HomeKit 生態系統。這預示著智能家居市場的競爭加劇和生態系統整合趨勢。",
-      "keywords": [
-        "智能家居",
-        "Apple HomeKit",
-        "LG",
-        "智慧鎖",
-        "物聯網"
-      ],
-      "category": "Edge",
+      "category": "Hardware",
       "rd_relevance": "High",
-      "impact": "Medium",
-      "why_it_matters": "Apple 與 LG 在智能家居領域的合作，特別是 HomeKit 整合，意味著智能家居設備標準化和生態系統整合的重要性日益提高。這對我們開發兼容多平台、具備良好互通性的嵌入式智能產品有重要的參考意義。",
-      "action_suggestion": "深入研究 Apple HomeKit、Matter 等智能家居標準和協議，評估其對我們未來產品設計的影響，並確保我們的嵌入式系統具備良好的互通性和安全性。"
+      "impact": "High",
+      "why_it_matters": "微軟和Nvidia合作推出ARM架構的AI筆電，顯示ARM在高性能PC市場的崛起，以及AI硬體與作業系統深度整合的趨勢，這對我們的晶片選型、架構設計和OS合作有重要啟示。",
+      "action_suggestion": "深入研究Nvidia RTX Spark ARM晶片在PC領域的性能、功耗表現及其AI加速能力，評估ARM架構在我們未來產品線中的可行性與生態系支援。"
     },
     {
-      "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
-      "url": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
       "source": "The Verge",
-      "published_at": "2026-10-06T17:17:00+08:00",
-      "summary": "喜劇演員 Sebastian Maniscalco 的 SiriusXM 頻道被指控壓制新興人才的發展，引發同行不滿。這是一則娛樂產業內部爭議的新聞。",
+      "published_at": "2026-10-07T16:26:00+08:00",
+      "summary": "微軟Copilot AI系統升級，將獲得更多控制權限，可存取本機檔案並執行跨作業系統操作，實現「混合智慧」。",
       "keywords": [
-        "喜劇",
-        "SiriusXM",
-        "娛樂產業",
-        "人才發展",
-        "媒體平台"
+        "Microsoft Copilot",
+        "Windows",
+        "混合智慧",
+        "邊緣AI",
+        "資料隱私"
       ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "該新聞主要關注娛樂產業內部爭議，與硬體和嵌入式系統的技術研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "Google’s power-hungry data centers crave nuclear energy",
-      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-      "source": "The Verge",
-      "published_at": "2026-10-06T16:32:00+08:00",
-      "summary": "Google 與 Constellation 簽署協議，為其耗電量龐大的資料中心購買核能，以尋求更多電力來源。這反映了大型數據中心對永續能源和穩定電力供應的巨大需求。",
-      "keywords": [
-        "Google",
-        "資料中心",
-        "核能",
-        "永續能源",
-        "電力供應"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "該新聞主要關乎大型資料中心的能源採購策略，雖然反映了算力需求增長，但與我們硬體與嵌入式系統的技術研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
-      "url": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-10-06T14:57:00+08:00",
-      "summary": "亞馬遜舊款 Kindle Paperwhite 電子書閱讀器在 Prime Day 期間提供 30% 折扣，儘管是上一代產品，但在性能上仍具競爭力。這是一則關於消費電子產品促銷的資訊。",
-      "keywords": [
-        "Kindle Paperwhite",
-        "電子書",
-        "消費電子",
-        "促銷",
-        "電子紙"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "該新聞主要關注消費電子產品的促銷活動，與硬體和嵌入式系統的技術研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
-      "url": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-10-06T14:46:00+08:00",
-      "summary": "亞馬遜 Prime Day 期間，MacBooks、iPad 和 Apple Watches 等多款 Apple 產品及配件提供優惠折扣。這是一則關於消費電子產品促銷的資訊。",
-      "keywords": [
-        "Apple",
-        "MacBooks",
-        "iPad",
-        "Apple Watch",
-        "促銷"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "該新聞主要關注消費電子產品的促銷活動，與硬體和嵌入式系統的技術研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "Alexa can’t control the aux input on Amazon Echo speakers anymore",
-      "url": "https://www.theverge.com/tech/1006103/amazon-alexa-aux-voice-commands",
-      "source": "The Verge",
-      "published_at": "2026-10-06T15:38:00+08:00",
-      "summary": "亞馬遜確認 Alexa 將不再支援透過語音指令控制 Echo 揚聲器的 3.5mm Aux 輸入，這項功能調整可能影響部分舊款設備用戶。這反映了智能語音助手功能更新和兼容性的挑戰。",
-      "keywords": [
-        "Alexa",
-        "Amazon Echo",
-        "語音控制",
-        "Aux輸入",
-        "智能音箱"
-      ],
-      "category": "Software",
+      "category": "AI",
       "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "智能語音助手的服務功能變動，會影響我們在產品中整合語音交互的策略和用戶體驗。這提示我們在設計嵌入式語音控制系統時，需考慮平台長期支援和功能穩定性。",
-      "action_suggestion": "追蹤主流語音助手平台 (如 Alexa, Google Assistant) 的功能更新和政策變化，在設計嵌入式語音交互功能時，評估其對我們產品的潛在影響，並考慮多模態或本地化語音識別方案。"
+      "impact": "Medium",
+      "why_it_matters": "AI深度整合到作業系統並具備本機檔案存取和操作能力，這對未來嵌入式AI系統的設計理念和安全考量提出了新的要求，尤其是在邊緣AI應用中。",
+      "action_suggestion": "評估AI本地運算與雲端協同的「混合智慧」模型，研究資料安全與隱私在邊緣AI應用中的實施方案，並考慮軟硬體協同設計以支援此類功能。"
     },
     {
-      "title": "The Sonos Beam 2 soundbar is $140 off",
-      "url": "https://www.theverge.com/gadgets/1004180/sonos-beam-2-soundbar-prime-day-deal-sale",
+      "title": "How Microsoft built its MacBook Pro competitor",
+      "url": "https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes",
       "source": "The Verge",
-      "published_at": "2026-10-06T10:24:00+08:00",
-      "summary": "Sonos Beam Gen 2 Soundbar 在 Prime Day 期間提供 $140 折扣，其與其他 Sonos 產品的原生連接性是主要賣點。這是一則關於消費電子產品促銷的資訊。",
+      "published_at": "2026-10-07T21:02:00+08:00",
+      "summary": "報導揭露微軟Surface設備開發流程，包含大量機器人測試、無線電波測試等嚴格的硬體驗證環節，確保產品品質。",
       "keywords": [
-        "Sonos",
-        "Soundbar",
-        "家庭音響",
-        "促銷",
-        "消費電子"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "該新聞主要關注消費電子產品的促銷活動，與硬體和嵌入式系統的技術研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "Samsung’s Z Fold 8 is hundreds off ahead of iPhone Duo launch",
-      "url": "https://www.theverge.com/gadgets/1005524/samsung-z-fold-8-ultra-foldable-prime-day-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-10-06T13:32:00+08:00",
-      "summary": "在 iPhone Duo 上市前，三星 Z Fold 8 提供大幅折扣，這對折疊手機市場帶來了新的競爭態勢。這是一則關於智能手機市場和促銷的資訊。",
-      "keywords": [
-        "Samsung",
-        "Z Fold 8",
-        "折疊手機",
-        "iPhone Duo",
-        "智能手機"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "該新聞主要關注消費電子產品的促銷活動和市場競爭，與硬體和嵌入式系統的技術研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "Upgrading An iPhone Lens To The Max",
-      "url": "https://hackaday.com/?p=1170865",
-      "source": "Hackaday",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "現代手機相機已成為嚴肅的攝影裝置，這篇文章探討如何極限升級 iPhone 鏡頭，展示了手機攝影硬體改裝的可能性。這代表了手機攝影技術的成熟與用戶對影像品質的追求。",
-      "keywords": [
-        "iPhone鏡頭",
-        "手機攝影",
-        "硬體升級",
-        "相機模組",
-        "影像處理"
+        "Microsoft Surface",
+        "硬體開發",
+        "測試驗證",
+        "品質控制",
+        "製造流程"
       ],
       "category": "Hardware",
       "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "探討手機鏡頭升級，凸顯了消費級影像模組的潛力及其技術瓶頸。這對我們在嵌入式系統中整合高畫質、小型化影像感測器模組的設計，以及對影像處理晶片的需求有參考意義。",
-      "action_suggestion": "關注消費級小型化高畫質影像模組的最新技術，探索其在我們產品中的應用可能性，並研究影像處理的邊緣 AI 優化方案。"
+      "impact": "Medium",
+      "why_it_matters": "這篇報導讓我們了解頂級消費電子產品的研發與測試標準，對於提升我們自身產品的可靠性和設計流程有重要的參考價值。",
+      "action_suggestion": "檢視並優化我們的硬體測試流程和標準，考慮引入更多自動化和嚴苛的環境測試，以確保產品的品質和可靠性。"
     },
     {
-      "title": "DIY Algae Biodiesel is Harder Than You Think",
-      "url": "https://hackaday.com/?p=1170942",
-      "source": "Hackaday",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "這篇文章指出 DIY 藻類生質柴油的難度遠超想像，作者分享了從未聽聞的挑戰。這是一則關於再生能源DIY實踐的經驗分享。",
+      "title": "The Meta Quest 3S gets a rare discount during October Prime Day",
+      "url": "https://www.theverge.com/gadgets/1006810/meta-quest-3s-prime-day-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-10-07T15:33:00+08:00",
+      "summary": "Meta Quest 3S VR頭盔在Prime Day期間獲得折扣，其晶片組與Quest 3相同，提供更親民的價格。",
       "keywords": [
-        "藻類生質柴油",
-        "DIY專案",
-        "再生能源",
-        "生物燃料",
-        "科學實驗"
+        "Meta Quest 3S",
+        "VR頭盔",
+        "邊緣AI",
+        "市場策略",
+        "降價"
+      ],
+      "category": "Edge",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "VR/AR設備作為重要的邊緣AI終端應用，其價格策略和晶片組配置（Quest 3S與3相同核心晶片）顯示廠商在平衡成本與性能的考量，對我們的邊緣AI產品策略有參考價值。",
+      "action_suggestion": "關注VR/AR設備的晶片選型、價格策略和市場接受度，作為我們邊緣AI產品在成本與性能權衡上的借鑒。"
+    },
+    {
+      "title": "What The Social Reckoning gets right — and wrong",
+      "url": "https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life",
+      "source": "The Verge",
+      "published_at": "2026-10-07T14:00:00+08:00",
+      "summary": "Aaron Sorkin的電影《The Social Reckoning》揭示了Facebook前員工洩露內部文件的故事，電影內容與真實事件的吻合度被討論。",
+      "keywords": [
+        "社群媒體",
+        "數據隱私",
+        "政策",
+        "電影"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "該新聞主要關注 DIY 再生能源的實踐，與硬體和嵌入式系統的技術研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
+      "why_it_matters": "屬於軟性新聞，與我們的硬體與嵌入式系統研發無直接關聯。",
+      "action_suggestion": "無直接R&D行動建議。"
     },
     {
-      "title": "SmallTV Hacking With Surprisingly Little Fuss",
-      "url": "https://hackaday.com/?p=1170909",
+      "title": "Solve Your TTL Video Woes With An RP2350",
+      "url": "https://hackaday.com/?p=1171137",
       "source": "Hackaday",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "GeekMagic SmallTV 是一款結合微控制器和顯示器的廉價設備，該文章探討了如何輕易對其進行修改和編程。這顯示了低成本硬體平台在 DIY 和原型開發領域的潛力。",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "報導探討使用RP2350微控制器解決傳統TTL RGB視訊介面問題，展示現代MCU在舊硬體兼容性方面的應用。",
       "keywords": [
-        "SmallTV",
-        "微控制器",
-        "DIY硬體",
+        "RP2350",
+        "TTL RGB",
+        "視訊介面",
         "嵌入式系統",
-        "開源硬體"
+        "復古硬體"
+      ],
+      "category": "Embedded",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "這表明現代微控制器（如RP2350）在處理各種介面和橋接新舊技術方面的靈活性，對嵌入式系統的介面設計和功能擴展提供了思路。",
+      "action_suggestion": "探索RP2350或其他低成本高性能微控制器在特定介面轉換或老舊系統現代化升級方案中的應用潛力。"
+    },
+    {
+      "title": "Keep That Old Radio Alive With An ESP32",
+      "url": "https://hackaday.com/?p=1171151",
+      "source": "Hackaday",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "報導指出隨著AM廣播淡出，可利用ESP32讓老舊收音機煥發新生，透過現代化技術延長其使用壽命。",
+      "keywords": [
+        "ESP32",
+        "AM廣播",
+        "物聯網",
+        "嵌入式系統",
+        "復古電子"
+      ],
+      "category": "Embedded",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "展示了ESP32等低功耗Wi-Fi微控制器在現有硬體升級和物聯網應用中的廣泛潛力，有助於我們思考產品的功能拓展和舊設備的再利用策略。",
+      "action_suggestion": "評估ESP32在產品原型開發、功能拓展或成本敏感型應用中的可行性，特別是需要無線連接和輕量級處理能力的場景。"
+    },
+    {
+      "title": "Streaming Games Means the Nintendo DSi Will Never Be Obsolete",
+      "url": "https://hackaday.com/?p=1171129",
+      "source": "Hackaday",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "透過遊戲串流，任天堂DSi等舊世代遊戲主機仍能遊玩新遊戲，使其不會過時，展現軟體定義硬體的潛力。",
+      "keywords": [
+        "任天堂DSi",
+        "遊戲串流",
+        "復古遊戲",
+        "硬體壽命",
+        "軟體定義"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "說明軟體和服務可以大幅延長硬體的生命週期，這對我們產品的長期支持和價值創造有啟示，但非核心技術研發。",
+      "action_suggestion": "無直接R&D行動建議。"
+    },
+    {
+      "title": "Handheld Atari 2600 Packs a CRT",
+      "url": "https://hackaday.com/?p=1171117",
+      "source": "Hackaday",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "硬體愛好者製作了一款內置CRT螢幕的手持式Atari 2600主機，展現了復古技術與現代改裝的結合。",
+      "keywords": [
+        "Atari 2600",
+        "CRT",
+        "手持裝置",
+        "復古遊戲",
+        "硬體改裝"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "屬於硬體愛好者的創作，雖然展現了硬體設計的靈活性，但對我們的商業研發路線無直接影響。",
+      "action_suggestion": "無直接R&D行動建議。"
+    },
+    {
+      "title": "Repairing a Couple of Very Expensive Registered DDR5 RAM Sticks",
+      "url": "https://hackaday.com/?p=1171075",
+      "source": "Hackaday",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "報導指出企業越來越傾向於維修昂貴的註冊ECC DDR5記憶體，而非直接丟棄，反映成本與環保考量。",
+      "keywords": [
+        "DDR5 RAM",
+        "ECC記憶體",
+        "維修",
+        "成本效益",
+        "企業硬體"
       ],
       "category": "Hardware",
       "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "這種廉價且易於駭客改造的嵌入式設備，凸顯了開源硬體和微控制器在快速原型開發、概念驗證上的價值。這對我們思考如何高效利用現有資源進行創新或教育訓練有啟發。",
-      "action_suggestion": "可研究類似的低成本、開源嵌入式硬體平台，評估其在我們內部專案原型開發或技術驗證方面的潛力。"
-    },
-    {
-      "title": "Scientists Create Hexagonal Packed Ice at Extreme Pressures",
-      "url": "https://hackaday.com/?p=1160943",
-      "source": "Hackaday",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "科學家在極端壓力下成功製造出六方密堆積冰，這有助於行星科學研究，因為地心條件難以直接探測。這是一項基礎科學研究的進展。",
-      "keywords": [
-        "六方密堆積冰",
-        "極端壓力",
-        "行星科學",
-        "基礎研究",
-        "物質科學"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "該新聞主要關注基礎科學研究，與硬體和嵌入式系統的技術研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "A Headset Fit For A Hackaday Writer",
-      "url": "https://hackaday.com/?p=1163896",
-      "source": "Hackaday",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "這篇文章講述了作者在通勤途中耳機損壞的經歷，並暗示了對耐用、功能性強的耳機的需求。這是一篇關於個人科技產品使用體驗的分享。",
-      "keywords": [
-        "耳機",
-        "個人科技",
-        "耐用性",
-        "設計缺陷",
-        "使用體驗"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "該新聞主要關於個人消費電子產品的使用體驗，與硬體和嵌入式系統的技術研發無直接關聯。",
-      "action_suggestion": "無需特別行動。"
-    },
-    {
-      "title": "The EDG C++ Compiler Frontend has been Open Sourced",
-      "url": "https://hackaday.com/?p=1169809",
-      "source": "Hackaday",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "EDG C++ 編譯器前端專案宣布開源，並將由非營利組織 C++ Alliance 管理。這對 C++ 開發者和開源社群來說是重要里程碑。",
-      "keywords": [
-        "C++編譯器",
-        "EDG",
-        "開源軟體",
-        "C++ Alliance",
-        "軟體開發"
-      ],
-      "category": "Software",
-      "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "C++ 是許多嵌入式系統的核心開發語言，EDG 編譯器前端開源將提供更靈活的工具鏈選擇和定制能力。這對我們在嵌入式軟體開發中優化性能、減小程式碼體積或支援特定硬體平台有潛在益處。",
-      "action_suggestion": "需評估 EDG C++ 編譯器前端開源對我們現有嵌入式軟體開發工具鏈的潛在影響，探索其在代碼優化、跨平台支援或特定硬體定制編譯上的應用價值。"
+      "why_it_matters": "DDR5和ECC記憶體的成本與複雜性促使維修需求增加，這提醒我們在設計高階嵌入式系統或伺服器級產品時，需考慮元件的可靠性、可維修性及整體擁有成本。",
+      "action_suggestion": "在未來產品設計中，除了性能和成本外，加強對關鍵零組件（如DDR5）可靠性、可維修性和供應鏈韌性的評估。"
     },
     {
-      "title": "Using LineageOS for Phones and DIY Smart TVs is Pretty Nifty",
-      "url": "https://hackaday.com/?p=1163559",
+      "title": "2026 Retrocomputing Challenge: Dungeons of Daggorath, But Without Quite So Much Typing",
+      "url": "https://hackaday.com/?p=1170965",
       "source": "Hackaday",
-      "published_at": "2024-06-01T00:00:00Z",
-      "summary": "LineageOS 作為 Android 的開源版本，不僅適用於手機，也能用於 DIY 智能電視，提供了更開放和客製化的體驗。這展示了開源操作系統在嵌入式設備中的應用潛力。",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "有人為TRS-80上的遊戲《Dungeons of Daggorath》增加了搖桿支援，減少了打字操作，改善用戶體驗。",
       "keywords": [
-        "LineageOS",
-        "Android",
-        "開源作業系統",
-        "DIY智能電視",
+        "TRS-80",
+        "復古計算",
+        "遊戲改裝",
+        "使用者體驗",
+        "軟體優化"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "屬於軟體改裝，與硬體和嵌入式系統的研發無直接關係。",
+      "action_suggestion": "無直接R&D行動建議。"
+    },
+    {
+      "title": "ESP32 As Your Raspberry Pi’s Linux Wireless Co-processor",
+      "url": "https://hackaday.com/?p=1164068",
+      "source": "Hackaday",
+      "published_at": "2026-10-07T00:00:00+08:00",
+      "summary": "報導介紹如何利用ESP32作為Raspberry Pi的無線協處理器，為無無線功能的Linux單板電腦提供連線能力。",
+      "keywords": [
+        "ESP32",
+        "Raspberry Pi",
+        "無線協處理器",
+        "Linux SBC",
         "嵌入式系統"
       ],
-      "category": "Software",
+      "category": "Embedded",
       "rd_relevance": "High",
       "impact": "Medium",
-      "why_it_matters": "LineageOS 代表了基於 Android 的開源作業系統在嵌入式領域的廣泛應用潛力。這為我們開發需要 Android 生態系統兼容性但又追求高度客製化、輕量化或長期維護的嵌入式產品提供了重要的軟體平台選擇。",
-      "action_suggestion": "評估 LineageOS 或其他開源 Android 變體在特定嵌入式產品 (如智能顯示器、工業平板) 中的應用可行性，研究其系統級優化、安全性及驅動程式支援。"
+      "why_it_matters": "這展示了ESP32作為高性能、低成本無線通訊模組在嵌入式系統中的靈活應用，尤其是在需要為非無線主控晶片增添連網功能時，提供了一個優雅的解決方案。",
+      "action_suggestion": "評估ESP32作為次級處理器或專用通訊模組在我們現有或未來產品中的應用，特別是針對需要優化成本或功耗的無線連接需求。"
     }
   ]
 }
