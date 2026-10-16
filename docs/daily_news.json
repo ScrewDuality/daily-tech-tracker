@@ -1,538 +1,510 @@
 {
-  "timestamp": "2026-10-15T11:40:24.339071+08:00",
-  "date": "2026-10-15",
+  "timestamp": "2026-10-16T11:36:24.107543+08:00",
+  "date": "2026-10-16",
   "articles": [
     {
-      "title": "Linux 將放棄強制標註使用 AI 工具，Linus Torvalds 稱這規定「很蠢」",
-      "url": "https://technews.tw/?p=1629779",
+      "title": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染",
+      "url": "https://technews.tw/?p=1631629",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "Linux 核心社群準備鬆綁揭露 AI 工具使用的規定，Linus Torvalds 認為此規定「很蠢」。",
+      "published_at": "",
+      "summary": "肯亞通報一起極為罕見的「全抗藥性」耳念珠菌感染，對所有已知抗黴菌藥物產生抗藥性，為全球第二例。",
       "keywords": [
-        "Linux",
-        "AI工具",
-        "開源社群",
-        "軟體開發",
-        "法規鬆綁"
+        "抗藥性",
+        "耳念珠菌",
+        "醫療",
+        "全球疫情"
       ],
-      "category": "Software",
-      "rd_relevance": "Medium",
+      "category": "Other",
+      "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "這顯示了開源社群對於AI工具在開發流程中應用的務實態度，有助於我們的軟體團隊更彈性地採用AI輔助開發工具。",
-      "action_suggestion": "鼓勵軟體團隊評估並適度使用AI輔助工具，提高開發效率，同時確保程式碼品質和安全。"
+      "why_it_matters": "此新聞為醫療領域事件，與硬體及嵌入式系統研發無直接關聯，對團隊無實質影響。",
+      "action_suggestion": "無。"
     },
     {
-      "title": "輝達 5 年砸 2.5 億美元算力資源，助英國強化代理式 AI 安全研究",
-      "url": "https://technews.tw/?p=1629837",
+      "title": "美、歐、中三條路線大不同，資料中心競賽的勝負取決於能源與實體基礎設施",
+      "url": "https://technews.tw/?p=1631607",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "輝達將在未來五年投入2.5億美元的運算資源，以強化英國在代理式AI安全領域的研究。",
+      "published_at": "",
+      "summary": "全球「主權 AI」與資料中心競賽已升級為地緣政治議題，其成功關鍵在於能源供應和實體基礎設施的建立。",
       "keywords": [
-        "輝達",
-        "NVIDIA",
-        "AI安全",
-        "運算資源",
-        "代理式AI",
-        "英國"
+        "資料中心",
+        "主權AI",
+        "能源",
+        "基礎設施",
+        "地緣政治"
       ],
       "category": "AI",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "輝達對AI安全研究的投資，特別是代理式AI，可能引導未來AI應用發展方向，影響我們終端AI晶片的需求和設計考量。",
-      "action_suggestion": "持續關注代理式AI的技術發展與安全標準，評估其對終端AI硬體架構及算力需求的潛在影響。"
+      "why_it_matters": "資料中心的能耗和基礎設施發展趨勢，會間接影響邊緣AI裝置的設計考量，例如推動更高效能與低功耗的晶片需求，也影響未來晶片製造與供應鏈的區域化趨勢。",
+      "action_suggestion": "持續追蹤全球AI資料中心發展趨勢，特別是其對能源效率、散熱技術的需求，以及供應鏈區域化的影響，思考如何設計更符合未來低功耗要求的邊緣AI解決方案。"
     },
     {
-      "title": "買純油車已經是少數人的選擇！電動化車輛首次過半",
-      "url": "https://technews.tw/?p=1629756",
+      "title": "AI 電源功率一路飆升！光寶科 OCP 秀 1.2 MW 供電配置",
+      "url": "https://technews.tw/?p=1631611",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "2026年純油車新車銷售占比已降至49%，電動化車輛（油電、插電混動、純電動）首次超過半數。",
+      "published_at": "",
+      "summary": "光寶科技在輝達的OCP全球峰會展示了1.2 MW的800 VDC供電方案，以應對AI伺服器日益增長的電源功率需求。",
       "keywords": [
-        "電動車",
-        "汽車電子",
-        "油電混合",
-        "汽車市場",
-        "能源轉型"
+        "AI電源",
+        "光寶科",
+        "OCP",
+        "800VDC",
+        "散熱"
       ],
       "category": "Hardware",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "電動車市場的加速普及，將帶來更多對高性能、低功耗、高可靠性車用電子元件及嵌入式系統的需求，是我們業務發展的重要機會。",
-      "action_suggestion": "加大對車用晶片及嵌入式系統的研發投入，深化與電動車供應鏈夥伴的合作，特別關注功率半導體、AI輔助駕駛及車載資通訊系統。"
+      "why_it_matters": "AI系統的電源功率需求持續飆升，光寶科展示的1.2 MW 800 VDC供電方案，顯示高效能電源供應和散熱是AI硬體設計的關鍵挑戰，這對我們規劃未來高功耗AI晶片與系統的電源架構極具參考價值。",
+      "action_suggestion": "深入研究AI伺服器與加速器的高功率電源供應技術，特別是800VDC等新標準，評估其對我們邊緣AI裝置功耗與散熱設計的啟發，並需關注高功率電源模組供應鏈的潛在變化。"
     },
     {
-      "title": "AI 時代越滑越孤單？Twitch 執行長：直播的「共同體驗」才能留住人心",
-      "url": "https://technews.tw/?p=1629770",
+      "title": "資金輪動、大型醫療股成避風港 禮來近史高",
+      "url": "https://technews.tw/?p=1631521",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "在AI內容氾濫的時代，Twitch執行長強調直播的「共同體驗」對於留住用戶的重要性。",
+      "published_at": "",
+      "summary": "在科技股震盪之際，資金轉向營運穩定的大型製藥公司，如美國禮來和艾伯維，推升其股價接近歷史新高。",
       "keywords": [
-        "AI內容",
-        "直播",
-        "共同體驗",
-        "社群媒體",
-        "用戶體驗"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "雖然主要關注內容與社群，但未來可能需要考慮如何透過硬體支持更即時、互動性強的「共同體驗」，例如更高效的邊緣實時處理或AR/VR裝置。",
-      "action_suggestion": "無直接行動建議。可作為未來人機互動介面設計的參考方向。"
-    },
-    {
-      "title": "別被拋售潮騙了！美債殖利率創 20 年新高，長線資金正瘋狂「逢低卡位」",
-      "url": "https://technews.tw/?p=1629798",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "美國10年期公債殖利率創20年新高，顯示債市雖有拋售潮，但長線資金正趁機進場。",
-      "keywords": [
-        "債市",
-        "殖利率",
-        "經濟趨勢",
+        "股市",
+        "醫療股",
         "資金流向",
-        "金融市場"
+        "製藥"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "宏觀經濟趨勢雖然不直接影響研發，但穩定的金融環境有助於公司長期投資和資金配置。",
-      "action_suggestion": "無直接行動建議。"
+      "why_it_matters": "此新聞主要關於股市與製藥產業的動態，與硬體及嵌入式系統研發無直接技術關聯。",
+      "action_suggestion": "無。"
     },
     {
-      "title": "AI 基礎設施燒錢速度遠超預期，Gartner 警告：80% 新雲端業者恐難存活",
-      "url": "https://technews.tw/?p=1629755",
+      "title": "讓各種軍用車輛都能打無人機，美國陸軍推模組化雷射武器",
+      "url": "https://technews.tw/?p=1631658",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "Gartner警告，AI服務的龐大IT及資料中心資本支出恐難有足夠收入支撐，預計80%新雲端業者可能無法存活。",
+      "published_at": "",
+      "summary": "美國陸軍正推動模組化高能量雷射武器，旨在讓各型軍車都能搭載，以應對日益普遍的無人機威脅。",
       "keywords": [
-        "AI基礎設施",
-        "雲端運算",
-        "資料中心",
-        "資本支出",
-        "Gartner",
-        "產業趨勢"
+        "雷射武器",
+        "無人機防禦",
+        "模組化",
+        "軍用硬體"
       ],
-      "category": "AI",
+      "category": "Hardware",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "雲端AI基礎設施的高成本，進一步凸顯了將AI算力推向邊緣設備的價值，促使我們必須專注於開發更節能、成本效益更高的邊緣AI晶片和解決方案。",
-      "action_suggestion": "加強邊緣AI晶片設計與整合方案的研發，關注低功耗與高效能比，協助客戶降低AI部署成本。"
+      "why_it_matters": "模組化高能量雷射武器的發展，突顯了緊湊型高功率系統、精確控制及高效散熱技術的重要性，這些技術進步可能啟發我們在其他領域的硬體設計。",
+      "action_suggestion": "關注高能量密度電源、光學系統和熱管理技術的發展，思考其模組化設計理念是否能應用於我們未來的硬體平台設計，例如用於邊緣AI的緊湊型感測器或加速器模組。"
     },
     {
-      "title": "美銀財報遜、面臨聯邦罰款  債券帳上虧損激增",
-      "url": "https://technews.tw/?p=1629538",
+      "title": "比手機還輕巧，微軟 Xbox 史上最小「Nano 控制器」11 月登台",
+      "url": "https://technews.tw/?p=1631608",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "美國銀行上季財報不如預期，並因洗錢防制不力面臨12億美元罰款，且債券帳上虧損激增。",
+      "published_at": "",
+      "summary": "微軟Xbox於10月15日推出全新的「Nano 控制器」，以輕巧體積為特色，預計11月在台灣上市。",
       "keywords": [
-        "銀行財報",
-        "金融監管",
-        "經濟影響",
-        "美國銀行"
+        "Xbox",
+        "控制器",
+        "輕量化",
+        "人機介面",
+        "消費電子"
       ],
-      "category": "Other",
-      "rd_relevance": "Low",
+      "category": "Hardware",
+      "rd_relevance": "Medium",
       "impact": "Low",
-      "why_it_matters": "宏觀經濟和金融市場動盪可能會間接影響整體產業的投資信心，但對我們具體的研發項目沒有直接影響。",
-      "action_suggestion": "無直接行動建議。"
+      "why_it_matters": "此新聞展示了消費性電子產品在小型化、輕量化方面的技術進步，對我們在開發邊緣AI產品時，在機構設計、材料選擇及人機介面整合方面提供參考。",
+      "action_suggestion": "留意小型化、輕量化硬體設計的最新技術與材料應用，並研究其在使用者體驗上的創新，作為未來產品設計的參考。"
     },
     {
-      "title": "兩年過去了，中國市場將於 12 月迎來首批 Apple Intelligence 功能",
-      "url": "https://technews.tw/?p=1629814",
+      "title": "ASIC 合作擴大及高階手機市占提升，美銀給聯發科目標價 6,200 元",
+      "url": "https://technews.tw/?p=1631633",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "蘋果的Apple Intelligence功能在推出兩年後，預計將於12月首次進入中國市場。",
+      "published_at": "",
+      "summary": "美銀證券重申對聯發科的「買進」評等，因其ASIC合作擴大和高階手機市占率提升，並維持目標價為6,200元。",
       "keywords": [
-        "Apple Intelligence",
-        "蘋果",
-        "中國市場",
-        "AI功能",
-        "語音助理",
-        "數據主權"
-      ],
-      "category": "AI",
-      "rd_relevance": "High",
-      "impact": "Medium",
-      "why_it_matters": "蘋果將其AI功能導入中國市場，可能涉及本地化調整或合規性要求，這對我們未來開發面向不同市場的AI終端應用，特別是數據處理和隱私保護方面，具有重要的參考意義。",
-      "action_suggestion": "關注Apple Intelligence在中國市場的落地細節，特別是軟硬體整合與數據合規要求，作為我們開發類似終端AI應用時的借鏡。"
-    },
-    {
-      "title": "輝達攜手新創 ChipAgents 推全新基準測試，檢驗 AI 晶片設計真實能力",
-      "url": "https://technews.tw/?p=1629745",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "輝達與晶片設計自動化新創ChipAgents合作，推出新的基準測試，用於評估AI晶片的真實能力。",
-      "keywords": [
-        "輝達",
-        "NVIDIA",
-        "AI晶片",
-        "基準測試",
-        "ChipAgents",
-        "EDA",
+        "聯發科",
+        "ASIC",
+        "手機晶片",
+        "高階市場",
         "晶片設計"
       ],
       "category": "Chip",
       "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "輝達推出的新AI晶片基準測試，將成為業界衡量AI晶片性能的重要標準，我們必須研究並採用這些測試，確保我們的AI晶片設計能達到市場領先水平。",
-      "action_suggestion": "深入研究NVIDIA與ChipAgents推出的AI晶片基準測試標準與工具，將其納入我們的晶片設計驗證流程，並評估現有或規劃中晶片在此標準下的表現。"
+      "impact": "Medium",
+      "why_it_matters": "聯發科在ASIC合作的擴大與高階手機市占率提升，反映客製化晶片在市場上的重要性日益增加，以及行動裝置對高性能晶片的需求，這與我們在邊緣AI晶片策略上必須兼顧效能與客製化的趨勢一致。",
+      "action_suggestion": "密切追蹤客製化ASIC市場的發展，評估與相關IP供應商或設計服務公司的合作潛力，以強化我們在邊緣AI晶片領域的競爭力，並了解高階手機晶片的技術路線圖。"
     },
     {
-      "title": "長鑫存儲擬推出 4F² 架構 DRAM 挑戰三大廠，業界評估難度頗高",
-      "url": "https://technews.tw/?p=1629788",
+      "title": "暖海水加速侵蝕，研究：末日冰川融化比預期更迅猛",
+      "url": "https://technews.tw/?p=1631617",
       "source": "TechNews",
-      "published_at": null,
-      "summary": "中國長鑫存儲計劃於2026年底前推出採用4F²結構的伺服器DRAM，試圖挑戰美韓三大廠，但業界評估難度極高。",
+      "published_at": "",
+      "summary": "最新研究指出，溫暖海水正加速滲入南極洲「末日冰川」底部，導致其融化速度比科學家預期更快。",
       "keywords": [
-        "長鑫存儲",
-        "DRAM",
-        "4F²架構",
-        "記憶體",
-        "晶片製造",
-        "供應鏈"
-      ],
-      "category": "Chip",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "長鑫存儲在DRAM技術上的突破，無論成功與否，都將對全球記憶體供應鏈產生影響，進而影響我們的產品成本和供應穩定性。密切關注其進展對於未來記憶體採購和晶片設計至關重要。",
-      "action_suggestion": "持續追蹤長鑫存儲DRAM技術進展與量產情況，評估其產品品質、穩定性與成本效益，作為未來記憶體供應鏈多樣化考量的潛在選項。"
-    },
-    {
-      "title": "The best feature of Apple’s HomeView might be its simplicity",
-      "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
-      "source": "The Verge",
-      "published_at": "2026-10-14T18:52:00+08:00",
-      "summary": "蘋果的HomeView智慧顯示器以其簡潔的家庭共享介面脫穎而出，可能成為家庭成員樂於使用的智慧家居儀表板。",
-      "keywords": [
-        "蘋果",
-        "HomeView",
-        "智慧顯示器",
-        "智慧家庭",
-        "用戶體驗"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "蘋果HomeView的成功強調了智慧家居設備在簡潔性與共享體驗上的重要性，這對我們在設計智慧家庭相關的硬體產品時，提供了寶貴的用戶體驗設計方向。",
-      "action_suggestion": "在開發智慧家庭或邊緣裝置時，應特別關注人機介面的直覺性和易用性，並探索如何將硬體設計與共享體驗無縫結合。"
-    },
-    {
-      "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-      "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-      "source": "The Verge",
-      "published_at": "2026-10-14T16:03:00+08:00",
-      "summary": "微軟與日本警方合作，成功瓦解一個發送超過十億條詐騙訊息的網路犯罪集團。",
-      "keywords": [
-        "網路安全",
-        "詐騙",
-        "微軟",
-        "日本警方",
-        "網路犯罪"
+        "氣候變遷",
+        "冰川融化",
+        "南極",
+        "全球暖化"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "網路安全對於所有數位產品都至關重要，雖然這則新聞不直接影響硬體設計，但提醒我們在產品開發中應持續關注安全性。",
-      "action_suggestion": "無直接行動建議，但應持續將資安考量納入所有產品開發週期。"
+      "why_it_matters": "此新聞為環境議題，與硬體及嵌入式系統研發無直接技術關聯。",
+      "action_suggestion": "無。"
     },
     {
-      "title": "The AI race is back on",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "source": "The Verge",
-      "published_at": "2026-10-14T20:16:00+08:00",
-      "summary": "繼Anthropic和OpenAI領先後，Google和Meta等科技巨頭正加緊追趕，顯示AI競賽再度升溫。",
+      "title": "Google AI 搜尋介面大改版！內嵌連結全面置頂，助攻原始網站點擊率",
+      "url": "https://technews.tw/?p=1631586",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "Google升級AI搜尋體驗，在AI模式和AI摘要中將內嵌連結全面置頂，以提高原始網站的點擊率。",
       "keywords": [
-        "AI競賽",
-        "OpenAI",
-        "Anthropic",
-        "Google",
-        "Meta",
-        "AI模型",
-        "產業競爭"
+        "Google AI",
+        "搜尋介面",
+        "AI摘要",
+        "使用者體驗"
+      ],
+      "category": "AI",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞主要關於AI在軟體應用層面的介面優化，對硬體與嵌入式系統研發無直接影響。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "不打 AI 模型軍備競賽，蘋果高層定調：專注打造最佳實體裝置與體驗",
+      "url": "https://technews.tw/?p=1631590",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "蘋果高層強調，公司將專注於打造最佳實體裝置與用戶體驗，而非參與AI模型規模的軍備競賽。",
+      "keywords": [
+        "蘋果",
+        "AI策略",
+        "硬體體驗",
+        "邊緣AI",
+        "軟硬體整合"
       ],
       "category": "AI",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "AI競賽的重新升溫，預示著AI技術和應用的快速演進，這將推動對更強大、更高效能AI晶片的需求，我們必須密切關注各家巨頭的技術路線圖，並提前佈局。",
-      "action_suggestion": "持續關注頂級AI研究機構及公司的技術突破，特別是對於模型訓練和推論效率的提升，並評估其對邊緣AI晶片算力、記憶體及I/O需求的影響。"
+      "why_it_matters": "蘋果專注於打造最佳實體裝置與體驗，這強化了邊緣AI在實體產品中應用和軟硬體整合的重要性，提醒我們AI應以終端用戶體驗為核心，並將AI能力深度整合到硬體設計中。",
+      "action_suggestion": "借鑒蘋果的策略，重新思考我們在邊緣AI產品研發中，如何將AI能力深度整合到硬體設計中，提升整體用戶體驗，並加強軟硬體協同開發，優化晶片效能和功耗，而非單純追求模型大小或算力。"
     },
     {
-      "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-      "url": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
       "source": "The Verge",
-      "published_at": "2026-10-14T18:26:00+08:00",
-      "summary": "蘋果最新的Apple TV 4K未滿足一些資深電視愛好者的期望，如新晶片、4K/120Hz支持、音頻直通或更佳的家庭控制整合。",
+      "published_at": "2026-10-15T18:43:00+08:00",
+      "summary": "OpenAI的ChatGPT Chrome擴充功能升級，現在可以讀取使用者開啟的瀏覽器分頁內容，以提供更相關的AI協助。",
       "keywords": [
-        "Apple TV 4K",
-        "蘋果",
-        "串流裝置",
-        "影音娛樂",
-        "硬體升級",
-        "4K/120Hz"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "儘管Apple TV 4K的升級未達預期，但用戶對更高規格（如4K/120Hz）和更強晶片性能的需求仍然存在，這顯示了消費級影音處理晶片市場的潛在需求方向。",
-      "action_suggestion": "關注影音處理和串流裝置的硬體技術發展，特別是高解析度、高更新率顯示技術以及相關的晶片算力和介面標準，評估其在我們產品線中的應用潛力。"
-    },
-    {
-      "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
-      "url": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
-      "source": "The Verge",
-      "published_at": "2026-10-14T13:19:00+08:00",
-      "summary": "Sprout Pi和Sprout Pico提供iPod主板替換方案，為舊款iPod增加藍牙、Wi-Fi、USB-C、microSD卡槽及FLAC播放等功能。",
-      "keywords": [
-        "iPod改裝",
-        "Sprout Pi",
-        "嵌入式系統",
-        "藍牙",
-        "USB-C",
-        "Wi-Fi",
-        "裝置升級"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "這項改裝展示了透過嵌入式解決方案為舊裝置賦予新生命的能力，強調了現代通訊接口（如USB-C, 藍牙, Wi-Fi）在各種裝置中的重要性。",
-      "action_suggestion": "參考這類「裝置升級」的案例，思考如何在產品設計中融入更靈活、可擴展的模組化概念，以延長產品生命週期或實現多功能變體。"
-    },
-    {
-      "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
-      "url": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds",
-      "source": "The Verge",
-      "published_at": "2026-10-14T13:13:00+08:00",
-      "summary": "Anbernic展示其新款雙螢幕掌上遊戲機，可透過模擬器運行3DS、Xbox和PS3遊戲，有望替代老舊的Nintendo 3DS。",
-      "keywords": [
-        "Anbernic",
-        "掌上遊戲機",
-        "雙螢幕",
-        "模擬器",
-        "遊戲硬體",
-        "Nintendo 3DS"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "雙螢幕掌機的出現，結合強大的模擬能力，預示著邊緣裝置在多媒體處理和多任務處理方面的需求增長，這將對我們晶片的圖形處理和多核心設計提出更高要求。",
-      "action_suggestion": "關注掌上裝置及嵌入式遊戲機市場的硬體趨勢，評估其對高性能圖形處理單元（GPU）和多核心CPU集成的需求，尋找潛在合作機會。"
-    },
-    {
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "source": "The Verge",
-      "published_at": "2026-10-14T12:43:00+08:00",
-      "summary": "OpenAI指控一名前員工在加入蘋果前，竊取了超過100份產品計畫相關文件，並將其展示給蘋果高層。",
-      "keywords": [
-        "OpenAI",
-        "蘋果",
-        "商業機密",
-        "智慧財產權",
-        "法律訴訟",
-        "AI產業"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這提醒我們在技術研發過程中，對智慧財產權和商業機密的保護極為重要，需要嚴格遵守公司的保密政策。",
-      "action_suggestion": "強化團隊內部對商業機密和智慧財產權保護的培訓與意識，確保研發成果的妥善保管。"
-    },
-    {
-      "title": "Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone",
-      "url": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
-      "source": "The Verge",
-      "published_at": "2026-10-14T12:21:00+08:00",
-      "summary": "蘋果iPhone Duo摺疊螢幕的維修費用高昂，若無AppleCare Plus，內螢幕損壞維修費高達999美元。",
-      "keywords": [
-        "iPhone Duo",
-        "蘋果",
-        "摺疊螢幕",
-        "維修費用",
-        "AppleCare Plus",
-        "產品設計"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "摺疊螢幕的高維修成本突顯了新興硬體技術在設計、製造和售後服務中的複雜性和挑戰，這對我們在評估和導入前瞻性硬體技術時，提供了重要的風險考量。",
-      "action_suggestion": "在評估導入新興或複雜硬體技術時，需將產品的長期可靠性、耐用性及售後維護成本納入設計考量，並與供應商共同研究降低維護成本的方案。"
-    },
-    {
-      "title": "Honey, Xbox shrunk its controller",
-      "url": "https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing",
-      "source": "The Verge",
-      "published_at": "2026-10-14T14:47:00+08:00",
-      "summary": "微軟推出Xbox Nano控制器，這是一款更小、更便宜的控制器，專為年輕玩家、小手用戶或行動遊戲設計。",
-      "keywords": [
-        "Xbox",
-        "微軟",
-        "遊戲控制器",
-        "硬體設計",
-        "行動遊戲",
-        "人體工學"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "小型化和人體工學設計是消費電子產品的重要趨勢，Xbox Nano控制器展示了針對特定用戶群體進行硬體設計優化的案例。",
-      "action_suggestion": "在設計產品時，除了功能性，也應考慮目標用戶的人體工學需求和使用場景，適時進行小型化或特殊尺寸設計。"
-    },
-    {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "source": "The Verge",
-      "published_at": "2026-10-14T12:05:00+08:00",
-      "summary": "微軟利用機器學習開發出新的天氣預報工具，聲稱能將預報時間從兩週延長至兩到六週，且更具成本效益。",
-      "keywords": [
-        "微軟",
-        "機器學習",
-        "天氣預報",
+        "ChatGPT",
+        "Chrome擴充",
         "AI應用",
-        "成本效益",
-        "長期預測"
+        "數據隱私"
       ],
       "category": "AI",
-      "rd_relevance": "Medium",
+      "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "微軟在天氣預報領域的AI突破，展示了機器學習在解決複雜問題上的潛力，特別是其強調的成本效益，提示我們在開發AI解決方案時，需兼顧效能與實用性。",
-      "action_suggestion": "關注AI在特定垂直領域的應用突破，思考如何將類似的機器學習優化思路應用於我們的邊緣AI方案中，提升模型效率和降低部署成本。"
+      "why_it_matters": "該新聞主要探討AI軟體應用程式的整合與用戶隱私問題，對硬體與嵌入式系統研發的直接關聯性較低。",
+      "action_suggestion": "無。"
     },
     {
-      "title": "AI Controls iPhone Via ESP32",
-      "url": "https://hackaday.com/?p=1240486",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "一項專案展示如何透過ESP32硬體控制iPhone，實現AI agent與手機的互動。",
+      "title": "The tech backlash is now in theaters",
+      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "source": "The Verge",
+      "published_at": "2026-10-15T17:39:00+08:00",
+      "summary": "2026年多部電影對矽谷及其對社會的重塑提出了更批判性的視角，反映了當前科技反彈的文化現象。",
       "keywords": [
-        "AI控制",
-        "iPhone",
-        "ESP32",
+        "科技文化",
+        "社會影響",
+        "好萊塢",
+        "矽谷"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為文化評論新聞，與硬體及嵌入式系統研發無直接關聯。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "source": "The Verge",
+      "published_at": "2026-10-15T15:57:00+08:00",
+      "summary": "Bluesky的Attie AI工具現在允許用戶創建並分享小型社交應用程式，如遊戲、投票和儀表板。",
+      "keywords": [
+        "Bluesky",
+        "AI工具",
+        "社交應用",
+        "AI生成"
+      ],
+      "category": "AI",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "該新聞主要關於AI在軟體工具和內容生成方面的應用，對硬體與嵌入式系統研發的直接關聯性較低。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "Withings now charges $100 per year to sync your data to other apps",
+      "url": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
+      "source": "The Verge",
+      "published_at": "2026-10-15T15:52:00+08:00",
+      "summary": "Withings即日起對新用戶收取每年100美元的訂閱費，才能將其健康數據同步到第三方應用程式。",
+      "keywords": [
+        "Withings",
+        "健康數據",
+        "訂閱服務",
+        "智慧穿戴"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "智慧裝置的商業模式變化，與我們的硬體研發無直接技術關聯，但可留意市場對軟體訂閱服務的反應，作為未來產品規劃的間接參考。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "source": "The Verge",
+      "published_at": "2026-10-15T14:15:00+08:00",
+      "summary": "Meta與Apple合作，利用MLX框架優化Muse Spark AI模型在Apple M5 Ultra Mac Studios上的運行效能。",
+      "keywords": [
+        "Meta",
+        "Apple",
+        "AI模型",
+        "MLX框架",
+        "硬體優化",
+        "M5 Ultra"
+      ],
+      "category": "AI",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "Meta與Apple合作優化AI模型在Mac硬體上的運行，凸顯了特定硬體平台（如Apple Silicon）與AI框架（MLX）的深度整合，對於提升邊緣AI效能至關重要，我們應關注這種軟硬體協同優化的趨勢。",
+      "action_suggestion": "深入研究MLX等針對特定硬體優化的AI框架，評估其對我們在開發專用AI晶片或加速器時的設計啟發，探索軟硬體協同設計以最大化AI模型在嵌入式系統上的效能與功耗表現。"
+    },
+    {
+      "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
+      "url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
+      "source": "The Verge",
+      "published_at": "2026-10-15T13:48:00+08:00",
+      "summary": "Sony推出一系列高階Walkman隨身聽，其中包含一款售價5,900美元的鍍金版本，強調極致音質與奢華工藝。",
+      "keywords": [
+        "Sony",
+        "Walkman",
+        "高階音頻",
+        "消費電子",
+        "硬體設計"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞主要關於高階消費性音頻產品，其對音質與材料的極致追求可能包含一些我們可借鑑的硬體設計或聲學處理技術，但整體對邊緣AI研發關聯性不高。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
+      "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
+      "source": "The Verge",
+      "published_at": "2026-10-15T12:39:00+08:00",
+      "summary": "Volvo計畫於2030年前推出基於Nvidia最新AI技術的Level 2++自動駕駛系統，實現免手持、點對點行駛。",
+      "keywords": [
+        "Volvo",
+        "Nvidia",
+        "自動駕駛",
+        "車載AI",
         "嵌入式系統",
-        "硬體駭客",
-        "AI應用"
+        "L2++"
       ],
       "category": "Edge",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "這個專案展示了透過低成本嵌入式硬體（如ESP32）結合AI agent來控制複雜終端設備的可能性，這為我們開發更廣泛的邊緣AI應用，尤其是在物聯網和智慧裝置控制方面，提供了實踐思路。",
-      "action_suggestion": "組織團隊研究此類「AI agent + 嵌入式硬體控制」的開源專案，評估其技術可行性、潛在應用場景及對我們自有AI晶片或模組的需求，探索將此能力集成到未來產品的可能性。"
+      "why_it_matters": "Volvo採用Nvidia AI技術實現自動駕駛，顯示AI在嵌入式系統與邊緣應用（如車載系統）的重要性，我們需持續關注Nvidia在自動駕駛領域的AI晶片與軟體堆疊發展，特別是其感測器融合、即時運算和高可靠性嵌入式系統設計。",
+      "action_suggestion": "追蹤自動駕駛與車載AI晶片（如Nvidia）的技術路線圖，評估其在感測器融合、即時運算和高可靠性嵌入式系統設計上的技術，思考這些趨勢如何影響我們邊緣AI產品的架構設計和功能實現。"
     },
     {
-      "title": "Single Button, Handheld Gaming Console",
-      "url": "https://hackaday.com/?p=1240602",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "一款單按鈕的掌上遊戲機，喚起人們對早期遊戲機（如Atari 2600）的記憶，顯示了簡約設計的可能性。",
+      "title": "Google is making inline links more prominent in AI responses",
+      "url": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
+      "source": "The Verge",
+      "published_at": "2026-10-15T15:02:00+08:00",
+      "summary": "Google更新其AI搜尋結果，將內嵌連結更頻繁地顯示在回應的頂部，以改善用戶體驗並增加原始網站點擊率。",
       "keywords": [
-        "掌上遊戲機",
-        "簡約設計",
-        "復古遊戲",
-        "硬體設計",
+        "Google AI",
+        "搜尋介面",
+        "AI模式",
+        "使用者體驗"
+      ],
+      "category": "AI",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞主要關於AI在軟體應用層面的介面優化，對硬體與嵌入式系統研發無直接影響。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "source": "The Verge",
+      "published_at": "2026-10-15T15:20:00+08:00",
+      "summary": "隨著AI個人助理的出現，數據隱私和用戶同意問題日益突出，引發人們對科技產品收集和分享個人數據的擔憂。",
+      "keywords": [
+        "AI倫理",
+        "數據隱私",
+        "AI助理",
+        "用戶同意",
+        "邊緣AI"
+      ],
+      "category": "AI",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "AI個人助理與數據隱私問題日益突出，這對我們在設計邊緣AI裝置時，必須更加重視數據處理的安全性、隱私保護機制和合規性，以建立用戶信任。",
+      "action_suggestion": "在產品規劃階段加強隱私權與數據安全審查，研究本地端AI運算如何減少敏感資料上傳，並將隱私保護納入硬體安全設計考量，確保產品符合相關法規。"
+    },
+    {
+      "title": "E Ink upgraded the screen found in most color e-readers",
+      "url": "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness",
+      "source": "The Verge",
+      "published_at": "2026-10-15T12:45:00+08:00",
+      "summary": "E Ink發布下一代Kaleido 4彩色電子紙技術，顯著提升了色域、對比度和亮度，改善彩色電子閱讀器性能。",
+      "keywords": [
+        "E Ink",
+        "電子紙",
+        "Kaleido 4",
+        "低功耗顯示",
+        "顯示技術"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "E Ink彩色電子紙技術的升級，代表低功耗、高對比度顯示器在未來嵌入式裝置中的應用潛力增加，特別是在需要長續航或戶外可視性的邊緣AI產品。",
+      "action_suggestion": "評估E Ink Kaleido 4技術在我們特定產品線中的應用可能性，例如人機介面、電子標籤或超低功耗顯示需求，並追蹤其成本與供應鏈狀況。"
+    },
+    {
+      "title": "Using Optical Waveguide Arrays to Make Sheets Sense Shapes",
+      "url": "https://hackaday.com/?p=1240250",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "研究利用光學波導陣列開發出能夠感測物體形狀的柔性薄片，有助於解決VR等應用中動態形狀感測的挑戰。",
+      "keywords": [
+        "光學波導",
+        "形狀感測",
+        "VR",
+        "新型感測器",
+        "人機介面"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "High",
+      "impact": "Medium",
+      "why_it_matters": "光學波導陣列實現形狀感測器，為開發新型態的互動介面與感測模組提供了新思路，這對擴展我們邊緣AI裝置的感知能力至關重要，可應用於柔性電子或智慧織物等領域。",
+      "action_suggestion": "追蹤此類新型感測技術的發展，評估其在柔性人機介面、智慧穿戴或機器人觸覺感測等邊緣AI應用中的潛力，並思考引入可行性，進行前期技術研究。"
+    },
+    {
+      "title": "45 Years Later, The Sinclair ULA Design Documents Surface",
+      "url": "https://hackaday.com/?p=1242901",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "Sir Clive Sinclair早期8位元電腦的ULA（Uncommitted Logic Array）設計文件在45年後重見天日。",
+      "keywords": [
+        "Sinclair",
+        "ULA",
+        "歷史計算機",
+        "晶片設計",
+        "復古計算"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞主要為歷史計算機技術的考古發現，對於了解早期積體電路設計演進有學術價值，但對當前硬體與嵌入式系統研發無直接影響。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "Linux Kernel Drops AI Tag Requirement, Uses Meta AI For Code Reviews",
+      "url": "https://hackaday.com/?p=1242866",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "Linux Kernel專案放棄AI生成程式碼的標籤要求，並開始使用Meta AI進行程式碼審查，顯示對AI工具的接受度提高。",
+      "keywords": [
+        "Linux Kernel",
+        "AI程式碼審查",
+        "Meta AI",
+        "軟體開發",
+        "LLM"
+      ],
+      "category": "Software",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "Linux Kernel專案使用AI進行程式碼審查，顯示AI輔助軟體開發工具的成熟度提升，這對我們嵌入式系統軟體開發流程的效率和品質可能產生影響，值得我們評估導入。",
+      "action_suggestion": "評估將AI輔助程式碼審查工具整合到我們的嵌入式軟體開發流程中的可行性，以提高開發效率和程式碼品質，並制定相關的AI使用規範。"
+    },
+    {
+      "title": "C64 Hardware Simulator Isn’t (Just) For Playing Around",
+      "url": "https://hackaday.com/?p=1242906",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "C64硬體模擬器不僅用於遊戲，更可作為深入研究底層硬體運作的工具，提供比高階模擬器更詳盡的行為分析。",
+      "keywords": [
+        "C64",
+        "硬體模擬器",
+        "復古計算",
+        "硬體驗證",
+        "除錯"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "硬體模擬器的發展，對於我們在晶片設計或嵌入式系統原型開發階段的驗證與除錯有潛在應用價值，可提供更底層的硬體行為分析，有助於深入理解系統運作。",
+      "action_suggestion": "關注硬體模擬與FPGA開發工具的最新進展，評估是否能引入更底層的模擬方式來加速我們的硬體驗證流程和晶片功能模擬。"
+    },
+    {
+      "title": "Hand-Machined Stake Sharpener Just in Time for Dracula Season",
+      "url": "https://hackaday.com/?p=1240600",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "一篇關於手工製作木樁削尖器的文章，充滿幽默感，適合在萬聖節季節閱讀。",
+      "keywords": [
+        "手工製作",
+        "機械加工",
+        "工具",
+        "趣味"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為一篇趣味性的手工製作文章，與硬體及嵌入式系統研發無直接技術關聯。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "So You Want To Make Your SDR Work On Other Frequencies",
+      "url": "https://hackaday.com/?p=1240666",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "硬體駭客界近期最令人振奮的消息是解鎖了Wi-Fi無線電中的隱藏SDR功能，使其能在其他頻率工作。",
+      "keywords": [
+        "SDR",
+        "Wi-Fi無線電",
+        "硬體駭客",
+        "無線通訊",
         "嵌入式系統"
       ],
       "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "這展示了嵌入式系統在極簡設計和特定功能實現上的潛力，提醒我們在設計產品時，可以考慮針對特定需求進行高度優化和簡化。",
-      "action_suggestion": "參考極簡設計的產品理念，思考如何在某些特定應用場景下，設計出功能聚焦、成本優化且易於使用的嵌入式產品。"
-    },
-    {
-      "title": "Using an ESP32-C3’s RF Hardware for DVB-S2 Video Transmission",
-      "url": "https://hackaday.com/?p=1240556",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "一項實驗利用ESP32-C3的射頻硬體實現DVB-S2影片傳輸，即便DVB-S2通常需要衛星訊號。",
-      "keywords": [
-        "ESP32-C3",
-        "RF硬體",
-        "DVB-S2",
-        "影片傳輸",
-        "嵌入式系統",
-        "無線通訊"
-      ],
-      "category": "Hardware",
       "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "利用通用型嵌入式晶片（如ESP32-C3）的射頻硬體實現DVB-S2影片傳輸，顯示了低成本硬體在無線通訊和多媒體傳輸方面的巨大潛力，這將啟發我們思考如何在產品中整合更靈活、成本效益更高的無線通訊方案。",
-      "action_suggestion": "深入研究ESP32-C3等低成本晶片的射頻功能，評估其在特定無線通訊協議和多媒體傳輸應用中的可行性，探索開發相關模組或參考設計。"
+      "impact": "Medium",
+      "why_it_matters": "探索Wi-Fi無線電隱藏的SDR功能，對我們在嵌入式系統中開發客製化無線通訊模組或利用現有硬體資源實現更多功能，具有重要的啟發性，例如在物聯網或特殊感測應用中。",
+      "action_suggestion": "研究現有Wi-Fi晶片組SDR化的潛力，評估其在我們產品中實現多頻段通訊或特定無線感測應用的可能性，並考慮相關的法規與安全性，進行技術預研。"
     },
     {
-      "title": "Tiny e-Paper Display Delivers 30 FPS of Game Boy Fun",
-      "url": "https://hackaday.com/?p=1240426",
+      "title": "A Thermal Camera That Uses WebUSB",
+      "url": "https://hackaday.com/?p=1240389",
       "source": "Hackaday",
-      "published_at": null,
-      "summary": "一個專案展示了小型電子紙顯示器如何實現每秒30幀的Game Boy模擬畫面，挑戰了電子紙的刷新率和對比度限制。",
+      "published_at": "",
+      "summary": "透過WebUSB實現熱像儀與行動電話的連接，展示了無需開發專用App即可控制硬體周邊設備的便捷性。",
       "keywords": [
-        "電子紙",
-        "e-Paper",
-        "顯示技術",
-        "Game Boy模擬器",
-        "刷新率",
-        "嵌入式顯示"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "電子紙顯示器在刷新率方面的突破，為我們在開發低功耗、戶外可讀性強的邊緣裝置時，提供了新的顯示解決方案，特別是在需要持久顯示和低能耗的應用場景。",
-      "action_suggestion": "追蹤電子紙顯示技術的最新進展，評估其在我們特定嵌入式產品（如戶外裝置、智慧標籤等）中作為低功耗顯示介面的應用潛力，並測試其顯示效果。"
-    },
-    {
-      "title": "2026 Hackaday Supercon: Workshops are Open!",
-      "url": "https://hackaday.com/?p=1240623",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "2026年Hackaday Supercon年會開放工作坊報名，提供了比以往更多的課程。",
-      "keywords": [
-        "Hackaday",
-        "Supercon",
-        "工作坊",
-        "技術交流",
-        "硬體社群"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "參加Hackaday Supercon這類技術交流活動，有助於團隊成員學習新技能、了解硬體社群的最新趨勢，並拓展技術網絡。",
-      "action_suggestion": "鼓勵研發團隊成員積極參與此類技術會議和工作坊，促進知識交流和技能提升。"
-    },
-    {
-      "title": "DIY Force Sensing Joysticks are a Cheap Way To Go",
-      "url": "https://hackaday.com/?p=1240487",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "DIY力敏搖桿提供了一種比傳統搖桿更具成本效益的替代方案，並指出力敏搖桿在特定應用中更受歡迎。",
-      "keywords": [
-        "力敏搖桿",
-        "DIY",
-        "傳感器",
-        "人機介面",
-        "硬體設計",
-        "成本效益"
+        "WebUSB",
+        "熱像儀",
+        "行動周邊",
+        "嵌入式裝置",
+        "跨平台連線"
       ],
       "category": "Hardware",
       "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "力敏傳感技術在人機介面設計上的成本效益和特定應用優勢，提示我們在選擇傳感器和輸入裝置時，應考慮更廣泛的技術選項。",
-      "action_suggestion": "探索力敏傳感技術在我們產品中的潛在應用，評估其成本效益與性能，作為替代傳統傳感器的方案。"
-    },
-    {
-      "title": "What’s a Nonius?",
-      "url": "https://hackaday.com/?p=1240364",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "這篇文章解釋了什麼是Nonius（遊標），一個用於精確測量的輔助刻度。",
-      "keywords": [
-        "Nonius",
-        "遊標",
-        "精密測量",
-        "量具",
-        "工程基礎"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一個基礎工程知識的普及，對於精確測量在硬體研發中的重要性有所提醒。",
-      "action_suggestion": "無直接行動建議。"
+      "impact": "Medium",
+      "why_it_matters": "透過WebUSB實現熱像儀與行動裝置的連線，展示了在不需開發特定App的情況下，建立硬體周邊連線與控制的新範例，這對降低嵌入式裝置的開發複雜度與提升跨平台兼容性有借鑑意義。",
+      "action_suggestion": "評估WebUSB或類似技術在我們嵌入式裝置中應用，以簡化與上位機（PC/Mobile）的溝通介面，降低軟體開發負擔並提升互操作性，尤其是在調試和配置工具的開發上。"
     }
   ]
 }
