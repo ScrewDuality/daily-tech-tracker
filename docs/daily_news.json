@@ -1,195 +1,268 @@
 {
-  "timestamp": "2026-10-18T11:32:34.462172+08:00",
-  "date": "2026-10-18",
+  "timestamp": "2026-10-19T11:43:24.227320+08:00",
+  "date": "2026-10-19",
   "articles": [
     {
-      "title": "台灣人在柏林做 AI 資料中心想吃的「漢堡肉」，NextGO Epi 押注下代省電材料氧化鎵",
-      "url": "https://technews.tw/?p=1631756",
+      "title": "iOS 27 終於幫 CarPlay 加入更多車載娛樂功能，但 Siri AI 僅限 iPhone 15 Pro / iPhone 16 以後機型",
+      "url": "https://technews.tw/?p=1632381",
       "source": "TechNews",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "NextGO Epi 正在開發新一代省電材料氧化鎵 (Ga2O3) 磊晶片，目標是為 AI 資料中心提供更高效的電源解決方案。",
+      "published_at": "",
+      "summary": "蘋果 iOS 27 將為 CarPlay 引入影音 App 和 Siri AI 功能，強化車載娛樂體驗，但其AI功能僅限於 iPhone 15 Pro 或更新機型支援。",
       "keywords": [
-        "氧化鎵",
-        "Ga2O3",
-        "AI資料中心",
-        "省電材料",
-        "半導體"
+        "CarPlay",
+        "Siri AI",
+        "車載娛樂",
+        "終端AI",
+        "蘋果"
+      ],
+      "category": "Edge/AI",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "揭示了車載系統中AI功能的部署趨勢以及對特定硬體（如iPhone 15 Pro/16）的依賴，這對我們評估終端AI算力需求和未來產品相容性有參考價值。",
+      "action_suggestion": "追蹤車載娛樂與AI整合的技術標準與發展，評估終端設備在AI功能支援上的硬體要求。"
+    },
+    {
+      "title": "Meta 刪除商業條款可用網站內容訓練 AI 文字，稱爬蟲條款只適用廣告與商業產品",
+      "url": "https://technews.tw/?p=1632373",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "Meta 遭外界反彈後，已刪除其商業條款中允許使用網站內容訓練AI的文字，並澄清爬蟲條款僅適用於廣告與商業產品。",
+      "keywords": [
+        "Meta",
+        "AI訓練",
+        "數據隱私",
+        "商業條款",
+        "法規"
+      ],
+      "category": "AI/Software",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "雖然與硬體無直接關聯，但AI數據來源的合規性與可用性變化，可能影響AI模型開發方向，間接影響未來我們需要支援的AI演算法類型。",
+      "action_suggestion": "無直接硬體研發行動建議，但可了解AI數據倫理與合規性趨勢。"
+    },
+    {
+      "title": "瑞薩成立逾百人實體 AI 團隊搶攻人型機器人晶片，營收已達 8% 且還在增長",
+      "url": "https://technews.tw/?p=1632364",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "日本半導體廠瑞薩電子成立了超過百人的實體AI團隊，目標搶攻人型機器人晶片市場，目前相關營收已佔公司8%且仍在增長。",
+      "keywords": [
+        "瑞薩電子",
+        "人型機器人",
+        "AI晶片",
+        "嵌入式AI",
+        "市場趨勢"
+      ],
+      "category": "Chip/AI/Edge",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "瑞薩的投入顯示人型機器人將是嵌入式AI晶片的重要戰場，證實了此市場的巨大潛力與發展趨勢，我們應密切關注此領域的技術標準與需求。",
+      "action_suggestion": "深入研究人型機器人對AI晶片的需求與技術規格，評估瑞薩的技術路線，考慮我們在嵌入式AI晶片領域的佈局。"
+    },
+    {
+      "title": "孩子數學不好不是不會算，研究揭兩大關鍵能力",
+      "url": "https://technews.tw/?p=1632405",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "美國最新研究指出，孩子數學成績不佳並非缺乏計算能力，而是缺乏處理複雜問題和從不同角度思考的關鍵能力。",
+      "keywords": [
+        "教育",
+        "數學學習",
+        "認知能力",
+        "研究"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "與硬體研發無直接關係。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "CoreWeave 執行長大舉賣股  套現近 10 億美元",
+      "url": "https://technews.tw/?p=1632331",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "輝達投資的AI雲端運算業者CoreWeave執行長近期大舉賣股套現近10億美元，引發市場對公司大量舉債擴充的擔憂。",
+      "keywords": [
+        "CoreWeave",
+        "AI雲端",
+        "輝達",
+        "資本市場",
+        "投資風險"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "雖然涉及AI雲端產業的資金流動，但對我們的硬體研發、晶片設計或供應鏈無直接影響。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "AI 算力引爆架構革命，光互連、800VDC 與硬體安全三大關鍵台系供應鏈受惠",
+      "url": "https://technews.tw/?p=1632376",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "隨著AI算力需求爆炸式成長，開放運算計畫（OCP）指出光互連、800VDC電源與硬體安全將成為關鍵技術，台灣供應鏈有望從中受益。",
+      "keywords": [
+        "AI算力",
+        "架構革命",
+        "光互連",
+        "800VDC",
+        "硬體安全",
+        "供應鏈"
+      ],
+      "category": "Hardware/Chip/AI",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "這點出AI算力發展的硬體瓶頸與解決方案，光互連和800VDC電源是高性能運算未來必須掌握的關鍵技術，硬體安全也是重要考量。這直接影響我們的晶片設計和系統整合方向。",
+      "action_suggestion": "立即啟動對光互連技術（如CPO/LPO）和800VDC電源方案的深入研究，評估其在我們未來產品中的應用潛力與技術難度。同時加強硬體安全設計的投入，並追蹤相關台系供應鏈發展。"
+    },
+    {
+      "title": "讓特斯拉 Roadster 飛起來的祕密武器，這套風扇系統原來大有來頭",
+      "url": "https://technews.tw/?p=1632323",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "特斯拉新一代Roadster近期展示的「飛行、翻轉」特技，其背後的風扇系統是關鍵技術，暗示了其不同尋常的技術來源與應用。",
+      "keywords": [
+        "特斯拉",
+        "Roadster",
+        "電動車",
+        "飛行汽車",
+        "風扇系統"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "雖是特殊的汽車硬體創新，但非AI終端應用或晶片設計的主流方向，可作為技術視野拓展。",
+      "action_suggestion": "無直接行動建議，但可關注創新動力系統設計的趨勢。"
+    },
+    {
+      "title": "小摩估台積電拚 2028 年上半年量產 1.4 奈米，蘋果 A22 Pro 有望率先採用",
+      "url": "https://technews.tw/?p=1632385",
+      "source": "TechNews",
+      "published_at": "",
+      "summary": "摩根大通預估台積電目標在2028年上半年量產次世代A14（1.4奈米）製程，蘋果的A22 Pro晶片有望率先採用此技術。",
+      "keywords": [
+        "台積電",
+        "1.4奈米",
+        "先進製程",
+        "晶片製造",
+        "蘋果"
       ],
       "category": "Chip",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "新一代半導體材料氧化鎵對於提升AI資料中心的電源效率至關重要，直接影響我們在高效能運算、晶片設計與硬體散熱解決方案的未來規劃。",
-      "action_suggestion": "需追蹤氧化鎵技術的發展與應用進程，評估其在我們未來AI硬體平台上的潛在導入機會，尤其是在電源管理和熱設計方面。"
+      "why_it_matters": "台積電的製程藍圖是所有晶片設計團隊的風向標。1.4奈米的量產時程直接影響我們對未來高性能、低功耗晶片的設計規劃與時間表。",
+      "action_suggestion": "密切追蹤台積電1.4奈米及更先進製程的技術細節與設計工具鏈支援，規劃未來晶片產品的製程路線圖。"
     },
     {
-      "title": "AI 普及但付費意願低，a16z 調查：消費者 AI 市場「極度兩極化」",
-      "url": "https://technews.tw/?p=1625374",
+      "title": "英特爾 Nova Lake 命名規則傳大改，桌機與筆電統一改用 Core Ultra 4000 系列",
+      "url": "https://technews.tw/?p=1632328",
       "source": "TechNews",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "a16z報告顯示消費者對AI應用普及，但付費意願低且市場趨於兩極化，反映了AI產品在商業模式上的挑戰。",
+      "published_at": "",
+      "summary": "多方消息顯示，英特爾下一代Nova Lake處理器可能大幅調整命名方式，桌機與筆電將統一採用Core Ultra 4000系列。",
       "keywords": [
-        "AI市場",
-        "消費者意願",
-        "a16z",
-        "商業模式",
-        "普及率"
+        "英特爾",
+        "Nova Lake",
+        "處理器",
+        "命名規則",
+        "品牌策略"
       ],
-      "category": "AI",
+      "category": "Chip/Hardware",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "雖然主要關於AI軟體和服務的市場動態，但消費者對AI的接受度和付費意願，間接影響我們未來在終端AI產品開發時的功能定價和價值主張。",
-      "action_suggestion": "在規劃新一代AI終端產品時，應考量消費者對特定AI功能的付費意願，確保產品提供足夠的差異化價值。"
+      "why_it_matters": "主要是產品命名與市場策略調整，對我們的硬體研發與晶片設計無直接技術影響。",
+      "action_suggestion": "無。"
     },
     {
-      "title": "猛禽帶隊，F-22 首度在空中指揮 YFQ-44A 無人僚機",
-      "url": "https://technews.tw/?p=1632211",
+      "title": "防洪效果勝過沙包，研究：強力布膠帶可減少 98% 滲水",
+      "url": "https://technews.tw/?p=1632370",
       "source": "TechNews",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "美國空軍的F-22戰機首次成功在空中指揮YFQ-44A無人僚機，展示了先進的AI自主協同作戰能力。",
+      "published_at": "",
+      "summary": "英國一項最新研究發現，面對暴雨與洪水威脅，家中常見的強力布膠帶，其防水效果優於傳統沙包，可減少98%的滲水。",
       "keywords": [
-        "F-22",
-        "無人僚機",
-        "AI指揮",
-        "自主系統",
+        "防洪",
+        "布膠帶",
+        "緊急應變",
+        "材料科學"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "與硬體研發無直接關係。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge",
+      "published_at": "2026-10-18T14:28:00+08:00",
+      "summary": "一名婦女因阻擋Uber送貨機器人並拒絕讓路，在費城被捕，她表示此舉是為了抗議機器人搶走人類工作。",
+      "keywords": [
+        "配送機器人",
+        "自動化",
+        "社會議題",
+        "倫理",
         "邊緣AI"
       ],
-      "category": "Edge",
+      "category": "Edge/AI",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "這案例突顯了先進AI在實時、關鍵任務邊緣應用中的潛力，要求極致的低延遲、高可靠性嵌入式硬體與AI推理能力。",
-      "action_suggestion": "持續追蹤邊緣AI在自主系統和即時決策領域的技術進展，探索其對我們嵌入式系統設計中高效能、高可靠性AI硬體的啟發。"
+      "why_it_matters": "這反映了自動化和AI終端應用在社會接受度上面臨的挑戰，尤其是勞工替代的議題。對於我們開發具有自動化功能的嵌入式系統或邊緣AI產品時，需考量潛在的社會與倫理影響。",
+      "action_suggestion": "關注AI倫理與社會影響的討論，在設計自動化產品時，納入使用者介面或系統行為上的社會考量。"
     },
     {
-      "title": "約會一次狠砸 6 千元，五成 Z 世代直呼吃不消：金錢觀契合比浪漫心動更重要",
-      "url": "https://technews.tw/?p=1631712",
-      "source": "TechNews",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "調查顯示，Z世代年輕人因生活成本高漲，約會預算減少，並認為金錢觀契合比浪漫更重要。",
+      "title": "Trump says Google kisses his ass",
+      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "source": "The Verge",
+      "published_at": "2026-10-18T09:26:00+08:00",
+      "summary": "唐納德·川普在一場集會中聲稱，他在第二任期內更具權勢與影響力，並提及谷歌對他的態度。",
       "keywords": [
-        "Z世代",
-        "消費降級",
-        "約會",
-        "金錢觀",
-        "生活成本"
+        "政治",
+        "川普",
+        "谷歌",
+        "言論"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "無直接關聯。",
+      "why_it_matters": "無關硬體研發。",
       "action_suggestion": "無。"
     },
     {
-      "title": "AI 時代的知心姐姐，專為年輕女性打造的情感諮詢 App「Hot Girl Hotline」",
-      "url": "https://technews.tw/?p=1624523",
-      "source": "TechNews",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "Hot Girl Hotline是一款利用人工智慧為年輕女性提供情感諮詢服務的應用程式，協助解決約會和情感問題。",
+      "title": "How overhead projectors took over your classroom",
+      "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+      "source": "The Verge",
+      "published_at": "2026-10-18T08:55:00+08:00",
+      "summary": "曾經主要用於軍事用途的投影機，如何演變並徹底改變了教室教學方式，取代了傳統的黑板教學。",
       "keywords": [
-        "AI應用",
-        "情感諮詢",
-        "女性市場",
-        "App",
-        "Hot Girl Hotline"
-      ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "展示了AI在特定利基市場的軟體應用，但與我們的硬體或嵌入式系統研發沒有直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "日本五大商社再進化！波克夏深化結盟布局能源、AI 等新事業搶攻成長引擎",
-      "url": "https://technews.tw/?p=1631741",
-      "source": "TechNews",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "巴菲特的波克夏公司深化與日本五大商社的結盟，共同布局能源和AI等新興事業，以尋求新的成長動力。",
-      "keywords": [
-        "波克夏",
-        "日本商社",
-        "能源",
-        "AI投資",
-        "新事業"
+        "歷史",
+        "教育科技",
+        "投影機",
+        "技術演進"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "顯示了大型投資公司對AI和能源領域的宏觀投資趨勢，對我們具體的硬體研發工作沒有直接影響。",
+      "why_it_matters": "歷史科技回顧，與當前硬體研發無關。",
       "action_suggestion": "無。"
     },
     {
-      "title": "拆解 Deepfake 與 AI 幻覺，蘇格蘭高中設立全英首位「AI 素養專責教師」",
-      "url": "https://technews.tw/?p=1625439",
-      "source": "TechNews",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "蘇格蘭一所高中設立了英國首位「AI素養專責教師」，旨在教導學生辨識Deepfake和理解AI幻覺等議題。",
+      "title": "TikTok bans Musk documentary account",
+      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "source": "The Verge",
+      "published_at": "2026-10-18T13:12:00+08:00",
+      "summary": "在Alex Gibney關於馬斯克的紀錄片廣泛發布之前，TikTok已禁止了該影片的社群媒體帳戶。",
       "keywords": [
-        "AI素養",
-        "Deepfake",
-        "AI幻覺",
-        "教育",
-        "倫理"
-      ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "強調了AI倫理和辨識能力的普及重要性，對於AI模型的應用層面有啟示，但與硬體或晶片設計的直接關聯性不大。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "台股叩關五萬點怎麼布局？名家公開「真 AI」供應鏈口袋名單",
-      "url": "https://technews.tw/?p=1629044",
-      "source": "TechNews",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "投資專家分享台股挑戰五萬點時，值得布局的「真AI」供應鏈股票名單與操作策略。",
-      "keywords": [
-        "台股",
-        "AI供應鏈",
-        "投資",
-        "股票",
-        "市場分析"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞主要從金融投資角度討論AI供應鏈，缺乏具體技術細節，對我們的硬體研發或供應鏈策略制定沒有直接參考價值。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "Instagram 私訊也能作曲，Meta AI 新功能讓文字一鍵變成歌",
-      "url": "https://technews.tw/?p=1629777",
-      "source": "TechNews",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "Instagram在私訊中新增AI作曲功能，用戶可透過文字輸入或自訂歌詞，快速生成音樂。",
-      "keywords": [
-        "Instagram",
-        "Meta AI",
-        "AI作曲",
-        "生成式AI",
+        "TikTok",
+        "馬斯克",
+        "紀錄片",
+        "內容審核",
         "社群媒體"
       ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "展示了生成式AI在消費級應用中的新功能，主要為軟體層面，與我們的硬體或嵌入式系統研發無直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "5 分鐘轉一圈，薇拉·魯賓天文台尋獲史上最大「超高速自轉」小行星",
-      "url": "https://technews.tw/?p=1630827",
-      "source": "TechNews",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "薇拉·魯賓天文台發現了一顆史上最大的超高速自轉小行星，其自轉週期僅需五分鐘。",
-      "keywords": [
-        "小行星",
-        "天文台",
-        "天文發現",
-        "超高速自轉",
-        "宇宙"
-      ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "無直接關聯。",
+      "why_it_matters": "與硬體研發無關。",
       "action_suggestion": "無。"
     },
     {
@@ -197,18 +270,17 @@
       "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
       "source": "The Verge",
       "published_at": "2026-10-17T12:39:00+08:00",
-      "summary": "Elon Musk已就其2024年承諾的百萬美元選民贈品活動引發的兩起訴訟達成和解。",
+      "summary": "埃隆·馬斯克在2024年承諾的每日100萬美元選民抽獎活動引發了多起法律挑戰，現已同意和解兩起亞利桑那州居民提起的訴訟。",
       "keywords": [
-        "Elon Musk",
-        "訴訟",
-        "選民贈品",
-        "法律",
-        "和解"
+        "馬斯克",
+        "法律訴訟",
+        "商業行為",
+        "政治影響"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "無直接關聯。",
+      "why_it_matters": "與硬體研發無關。",
       "action_suggestion": "無。"
     },
     {
@@ -216,75 +288,75 @@
       "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
       "source": "The Verge",
       "published_at": "2026-10-17T11:04:00+08:00",
-      "summary": "Meta因輿論反彈，修改其服務條款，刪除可能允許其抓取新聞網站內容以訓練AI的語句。",
+      "summary": "在遭遇反彈後，Meta再次更新其商業條款，刪除了可能允許其抓取包括新聞網站內容以訓練AI的語言。",
       "keywords": [
         "Meta",
         "AI訓練",
-        "數據抓取",
-        "服務條款",
-        "隱私"
+        "數據隱私",
+        "內容抓取",
+        "政策更新"
       ],
-      "category": "AI",
+      "category": "AI/Software",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "這反映了AI數據倫理和版權問題的敏感性，可能會影響未來AI模型的數據來源，但對硬體研發無直接影響。",
-      "action_suggestion": "注意AI數據採集和使用的法律與倫理發展，這可能間接影響未來AI模型的可用性。"
+      "why_it_matters": "雖然與硬體無直接關聯，但AI數據來源的合規性與可用性變化，可能影響AI模型開發方向，間接影響未來我們需要支援的AI演算法類型。",
+      "action_suggestion": "無直接硬體研發行動建議，但可了解AI數據倫理與合規性趨勢。"
     },
     {
       "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
       "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
       "source": "The Verge",
       "published_at": "2026-10-16T23:13:00+08:00",
-      "summary": "SpaceX正計畫擴大Starlink網路，將其打造成主要的無線電信營運商，挑戰現有巨頭。",
+      "summary": "SpaceX正透過收購大量低頻段頻譜來擴展Starlink網路，目標是成為主要的無線電信運營商，挑戰現有巨頭。",
       "keywords": [
         "SpaceX",
         "Starlink",
-        "衛星通訊",
-        "無線電信",
-        "Elon Musk"
+        "衛星網路",
+        "電信運營商",
+        "通訊技術"
       ],
-      "category": "Hardware",
+      "category": "Other",
       "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "Starlink進入電信領域預示著未來全球連接選項的多元化，可能為我們的邊緣AI設備在偏遠地區提供新的通訊方案。",
-      "action_suggestion": "持續關注Starlink的直連蜂窩功能發展，評估其作為未來特定邊緣應用連接解決方案的可能性。"
+      "impact": "Medium",
+      "why_it_matters": "Starlink的發展可能為邊緣設備的全球連接提供新選項，尤其是在偏遠地區。這對我們未來開發需廣泛覆蓋的嵌入式/IoT產品的通訊模組選擇有參考價值。",
+      "action_suggestion": "追蹤Starlink的技術進展與服務範圍，評估其作為嵌入式設備通訊方案的可能性與成本效益。"
     },
     {
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "source": "The Verge",
       "published_at": "2026-10-16T18:31:00+08:00",
-      "summary": "越來越多的網站開始阻止AI代理程式抓取其內容，對依賴網路數據的AI應用構成挑戰。",
+      "summary": "許多網站開始阻止AI代理（autonomous agents）的抓取行為，這對依賴網路資訊執行的AI服務造成挑戰。",
       "keywords": [
         "AI代理",
-        "數據抓取",
-        "網路內容",
-        "AI開發",
-        "內容保護"
+        "網路爬蟲",
+        "數據獲取",
+        "AI倫理",
+        "內容限制"
       ],
-      "category": "AI",
+      "category": "AI/Software",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "這反映了AI數據獲取面臨的挑戰，可能影響AI模型的訓練和即時資訊獲取，間接影響到運行這些模型的邊緣硬體，但對硬體研發本身無直接影響。",
-      "action_suggestion": "無。"
+      "why_it_matters": "網站對AI代理的限制，可能影響未來AI應用開發的數據獲取方式，進而影響我們需要支援的AI模型和功能。",
+      "action_suggestion": "了解AI數據獲取的限制與趨勢，這可能間接影響未來AI應用對硬體的需求。"
     },
     {
       "title": "Bose’s new wired earbuds are simple in the best way",
       "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
       "source": "The Verge",
       "published_at": "2026-10-17T09:11:00+08:00",
-      "summary": "Bose推出新款有線耳機，強調簡約設計和實用性，顯示有線耳機市場在下降後有所回升。",
+      "summary": "在無線耳機普及的趨勢下，Bose推出新款有線降噪耳機，且有線耳機銷售量在五年下滑後今年出現回升。",
       "keywords": [
-        "Bose",
+        "耳機",
         "有線耳機",
         "消費電子",
-        "音頻產品",
-        "市場趨勢"
+        "Bose",
+        "降噪"
       ],
-      "category": "Other",
+      "category": "Hardware",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "這是一個特定的消費電子產品趨勢，與我們核心的硬體和嵌入式系統研發領域無直接關聯。",
+      "why_it_matters": "雖然是消費電子產品，但顯示市場上對某些「傳統」硬體仍有需求，值得思考產品設計的平衡性。",
       "action_suggestion": "無。"
     },
     {
@@ -292,231 +364,150 @@
       "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
       "source": "The Verge",
       "published_at": "2026-10-16T12:15:00+08:00",
-      "summary": "Apple推出HomeView智慧顯示器，其新的內容呈現方式可能對線上食譜創作者的收入模式構成威脅。",
+      "summary": "蘋果的HomeView智慧顯示器以非典型廣告發布，其食譜格式化功能被視為對線上食譜創作者的最新威脅。",
       "keywords": [
-        "Apple HomeView",
+        "蘋果",
+        "HomeView",
         "智慧顯示器",
-        "食譜內容",
-        "內容創作",
-        "智慧家庭"
+        "食譜",
+        "平台策略",
+        "邊緣設備"
       ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "雖然涉及智慧家庭產品，但新聞焦點在於內容生態系統的影響，非硬體技術創新，對硬體研發無直接影響。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "It’s a dream week for tech docs",
-      "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
-      "source": "The Verge",
-      "published_at": "2026-10-16T20:39:00+08:00",
-      "summary": "這篇部落格文章推薦了一系列精彩的科技紀錄片，包括關於馬斯克和霍姆斯的影片。",
-      "keywords": [
-        "科技紀錄片",
-        "推薦",
-        "馬斯克",
-        "霍姆斯",
-        "娛樂"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "無直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "All the news about the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-      "source": "The Verge",
-      "published_at": "2026-10-16T19:36:00+08:00",
-      "summary": "Apple發布了其首款摺疊手機iPhone Duo，配備雙顯示屏、奈米紋理螢幕和電源鍵Touch ID。",
-      "keywords": [
-        "iPhone Duo",
-        "Apple",
-        "摺疊手機",
-        "顯示技術",
-        "Touch ID",
-        "硬體設計"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "iPhone Duo代表了消費電子硬體設計的最新趨勢，特別是在可摺疊顯示技術、精密機械結構、先進材料和感測器整合方面，對我們的硬體研發具高度參考價值。",
-      "action_suggestion": "深入分析摺疊螢幕技術、奈米紋理表面、結構設計以及感測器整合等硬體創新，評估其對未來我們產品設計和製造工藝的啟發。"
-    },
-    {
-      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "source": "The Verge",
-      "published_at": "2026-10-16T19:00:00+08:00",
-      "summary": "Apple更新App Store規則，明確禁止利用AI生成未經同意的裸體圖像（'nudify' apps），以應對性化深度偽造問題。",
-      "keywords": [
-        "Apple",
-        "App Store",
-        "AI應用",
-        "裸體生成",
-        "AI倫理",
-        "深度偽造"
-      ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這屬於AI應用層面的道德和平台政策問題，雖然重要，但與我們的硬體或晶片設計研發沒有直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "Why Apple is finally making its own smart home devices",
-      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "source": "The Verge",
-      "published_at": "2026-10-17T08:53:00+08:00",
-      "summary": "Apple正式推出自家品牌的智慧家庭產品線，包括攝影機、恆溫器和智慧門鎖等，並與LG和Schneider Electric合作開發。",
-      "keywords": [
-        "Apple Home",
-        "智慧家庭",
-        "IoT",
-        "硬體產品",
-        "合作開發",
-        "邊緣AI"
-      ],
-      "category": "Edge",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "Apple進入智慧家庭硬體市場，將引領行業標準、推動相關晶片和模組的需求，並可能加速邊緣AI在智慧家庭設備中的普及，對我們的產品策略和硬體路線圖影響深遠。",
-      "action_suggestion": "密切關注Apple智慧家庭生態系的技術標準和產品發展，評估其對我們在IoT和智慧家庭領域產品的潛在影響和機會，並研究其合作開發模式。"
-    },
-    {
-      "title": "Busting the Myth that Plastics are Chemically Inert in Water",
-      "url": "https://hackaday.com/?p=1242951",
-      "source": "Hackaday",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "有研究挑戰了塑膠在水中是化學惰性的普遍觀念，指出塑膠可能在水中發生化學變化。",
-      "keywords": [
-        "塑膠",
-        "材料科學",
-        "化學性質",
-        "水",
-        "可靠性"
-      ],
-      "category": "Hardware",
+      "category": "Edge/Software",
       "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "這項發現挑戰了對塑膠材料的基本認知，將影響我們在產品開發中對外殼材料和密封件的選擇，尤其對於需長期暴露於潮濕環境的嵌入式設備。",
-      "action_suggestion": "審慎評估用於戶外或潮濕環境產品的塑膠材料選擇，並考慮進行相關可靠性測試以確保長期穩定性。"
+      "impact": "Medium",
+      "why_it_matters": "智慧顯示器作為邊緣終端設備，其內容整合能力與用戶體驗是關鍵。蘋果的舉動顯示平台業者如何透過硬體整合服務，這對我們開發智慧家庭嵌入式產品有借鑒意義。",
+      "action_suggestion": "研究智慧顯示器及其他智慧家庭邊緣設備的生態系統整合策略，思考我們的嵌入式方案如何與內容服務結合。"
     },
     {
-      "title": "2026 Retrocomputing Challenge: Dollhouse Arcade Cabinet Runs Remote DOS Games",
-      "url": "https://hackaday.com/?p=1243169",
+      "title": "Hackaday Links: October 17, 2026",
+      "url": "https://hackaday.com/?p=1243352&preview=true&preview_id=1243352",
       "source": "Hackaday",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "一個復古計算專案展示了微型娃娃屋街機櫃如何遠端運行DOS遊戲。",
+      "published_at": "",
+      "summary": "Hackaday的連結文章，其中提到一名退休教授因公民不服從被捕的事件。",
       "keywords": [
-        "復古計算",
-        "DOS遊戲",
-        "微型街機",
-        "DIY專案",
+        "Hackaday",
+        "公民不服從",
+        "技術文化",
+        "連結"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "雜項新聞，與硬體研發無關。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "Off-Grid Refrigeration Using Fire and Salt",
+      "url": "https://hackaday.com/?p=1177558",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "本文探討了古代文明如何利用蒸發冷卻等方式實現離網製冷，並介紹了利用火和鹽的製冷技術。",
+      "keywords": [
+        "製冷技術",
+        "離網",
+        "替代能源",
+        "永續性",
+        "工程"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "雖是有趣的工程應用，但與我們的核心研發方向（硬體、晶片、AI終端）無直接關係。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "The New Phobos Martian Moon Rover that Weighs in at Only 15 Grams",
+      "url": "https://hackaday.com/?p=1243382",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "一款僅重15克的火星衛星福波斯探測器，展示了極致微型化與低功耗嵌入式系統在太空探索中的應用潛力。",
+      "keywords": [
+        "火星探測",
+        "微型機器人",
+        "航太科技",
+        "輕量化",
         "嵌入式系統"
       ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一個有趣的愛好者專案，但與我們的核心硬體與嵌入式系統研發方向無直接相關性。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "Building a Flying Drone With a Single Propeller",
-      "url": "https://hackaday.com/?p=1243271",
-      "source": "Hackaday",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "這項工程挑戰展示了如何用單一螺旋槳打造一架能飛行的無人機，但需要極其精密的控制系統。",
-      "keywords": [
-        "單螺旋槳",
-        "無人機",
-        "飛行控制",
-        "嵌入式系統",
-        "硬體設計"
-      ],
-      "category": "Hardware",
+      "category": "Hardware/Edge",
       "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "這項創新凸顯了在有限資源下實現複雜控制的硬體和軟體挑戰，對我們在精巧型嵌入式系統設計和控制演算法開發方面有啟發。",
-      "action_suggestion": "留意無人機領域在小型化、高效率控制方面的技術突破，這可能對我們其他邊緣設備的運動控制或電源管理設計有所啟發。"
-    },
-    {
-      "title": "2026 Retrocomputing Challenge: Oldputer Gives Old Eyes Relief with E-ink Display",
-      "url": "https://hackaday.com/?p=1243205",
-      "source": "Hackaday",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "一個復古電腦專案將電子墨水顯示器與舊電腦結合，為使用者提供更舒適的視覺體驗。",
-      "keywords": [
-        "復古計算",
-        "電子墨水",
-        "E-ink",
-        "顯示技術",
-        "使用者體驗"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一個利基的顯示技術應用，雖然電子墨水有其優勢，但與我們主流的硬體或AI終端應用研發方向無直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "Discovering SDRs Everywhere",
-      "url": "https://hackaday.com/?p=1243143",
-      "source": "Hackaday",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "越來越多愛好者和開發者發現了軟體定義無線電（SDR）的廣泛應用潛力。",
-      "keywords": [
-        "SDR",
-        "軟體定義無線電",
-        "無線通訊",
-        "嵌入式系統",
-        "RF設計"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "High",
       "impact": "Medium",
-      "why_it_matters": "SDR技術的普及和靈活性對我們的嵌入式系統和邊緣AI設備的無線通訊能力至關重要，影響RF晶片設計和系統整合。",
-      "action_suggestion": "研究SDR技術在我們現有和未來嵌入式平台中的應用潛力，探索如何整合SDR模組以提升無線通訊的靈活性和適應性。"
+      "why_it_matters": "15克的探測器展示了極致微型化與低功耗嵌入式系統的潛力，尤其是在嚴苛環境下的設計考量。這對我們思考邊緣AI裝置的體積與功耗有參考價值。",
+      "action_suggestion": "關注微型化嵌入式系統的設計趨勢與超低功耗技術，評估其在我們產品線中的應用可能性。"
     },
     {
-      "title": "SolidCraft is Parametric, Automation-friendly CAD for Desktop and Browser",
-      "url": "https://hackaday.com/?p=1243191",
+      "title": "Building a Microscope with a 3D View",
+      "url": "https://hackaday.com/?p=1243226",
       "source": "Hackaday",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "SolidCraft是一款正在開發中的開源參數化、自動化友好的CAD軟體，支援桌面和瀏覽器使用。",
+      "published_at": "",
+      "summary": "隨著電子元件日益微縮，顯微鏡成為精密工作不可或缺的工具；有研究者發現，具備3D視角的顯微鏡對於檢查電子元件尤為重要。",
       "keywords": [
-        "CAD軟體",
-        "SolidCraft",
-        "開源",
-        "參數化設計",
-        "自動化"
+        "顯微鏡",
+        "3D視圖",
+        "電子元件",
+        "精密檢查",
+        "硬體工具"
       ],
-      "category": "Software",
+      "category": "Hardware",
       "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "新的開源CAD工具可能為我們的硬體設計流程提供新的選擇，尤其在需要自動化或跨平台協作的場景下。",
-      "action_suggestion": "評估SolidCraft作為硬體設計工具的潛力，特別是其自動化和協作功能，考慮是否能整合到我們的研發工作流程中。"
+      "impact": "Medium",
+      "why_it_matters": "3D顯微鏡對於電子元件的精密檢查，特別是細小焊點或複雜晶片結構，能提供更好的視角和分析能力，直接提升我們硬體研發和除錯的效率。",
+      "action_suggestion": "評估引入3D顯微鏡等精密檢測工具的可能性，以提升硬體設計與製造過程中的品管與分析能力。"
     },
     {
-      "title": "Making One Fender From Another",
-      "url": "https://hackaday.com/?p=1243157",
+      "title": "A Plasma Donut",
+      "url": "https://hackaday.com/?p=1243322",
       "source": "Hackaday",
-      "published_at": "2024-07-25T00:00:00+08:00",
-      "summary": "文章討論了知名品牌傾向於授權其名稱和標誌於各種新奇產品上以賺取利潤的趨勢。",
+      "published_at": "",
+      "summary": "影片展示了環形電漿（toroidal plasma）的演示，並解釋了其與核融合技術的關聯。",
       "keywords": [
-        "品牌授權",
-        "Fender",
-        "行銷策略",
-        "商品化",
-        "商業趨勢"
+        "電漿",
+        "核融合",
+        "物理學",
+        "能源技術"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "無直接關聯。",
+      "why_it_matters": "基礎科學研究，與我們的硬體研發無直接關係。",
       "action_suggestion": "無。"
+    },
+    {
+      "title": "Evolving RC circuits",
+      "url": "https://hackaday.com/?p=1243224",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "本文探討了演化演算法和AI模型對我們的影響，並指出世界本身就不斷演進的本質。",
+      "keywords": [
+        "RC電路",
+        "演化演算法",
+        "AI模型",
+        "技術演進"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "內容較為哲學性，與硬體研發無直接關聯。",
+      "action_suggestion": "無。"
+    },
+    {
+      "title": "Turning a Wi-Fi Adapter into an SDR",
+      "url": "https://hackaday.com/?p=1171671",
+      "source": "Hackaday",
+      "published_at": "",
+      "summary": "自從ESP32晶片發現未公開的I/Q採樣功能後，其他無線晶片也陸續被發現類似功能，這使得Wi-Fi適配器可被轉變為軟體定義無線電（SDR）。",
+      "keywords": [
+        "Wi-Fi適配器",
+        "SDR",
+        "ESP32",
+        "無線晶片",
+        "嵌入式系統"
+      ],
+      "category": "Hardware/Chip/Edge",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "將現有Wi-Fi晶片轉化為SDR的能力，對於我們開發具有軟體定義無線電功能的嵌入式系統或邊緣AI產品有重大意義，能擴展晶片功能性並可能降低成本。",
+      "action_suggestion": "立即評估ESP32及其他主流Wi-Fi晶片的SDR功能潛力，研究其在我們產品中實現低成本、可程式化無線通訊應用的可行性。"
     }
   ]
 }
