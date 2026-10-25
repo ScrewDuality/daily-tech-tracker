@@ -1,521 +1,529 @@
 {
-  "timestamp": "2026-10-24T11:43:52.784148+08:00",
-  "date": "2026-10-24",
+  "timestamp": "2026-10-25T11:41:05.808354+08:00",
+  "date": "2026-10-25",
   "articles": [
     {
-      "title": "AWS 產能預訂至 2028 年，亞馬遜示警電力、記憶體短缺難解",
-      "url": "https://technews.tw/?p=1636684",
+      "title": "機能風退潮仍創 20 億美元營收，Salomon 靠「運動本業」站穩時尚圈",
+      "url": "https://technews.tw/?p=1636405",
       "source": "TechNews",
       "published_at": null,
-      "summary": "隨著AI基礎設施需求持續攀升，亞馬遜雲端服務（AWS）運算產能已供不應求，執行長更示警電力與記憶體短缺問題恐難以解決，影響可能延續至2028年。",
+      "summary": "近年大紅的薩洛蒙（Salomon）在2025年營收首度突破20億美元，比前一年增長35%，主要靠聚焦運動本業成功站穩時尚圈。",
       "keywords": [
-        "AI基礎設施",
-        "雲端運算",
-        "記憶體短缺",
-        "電力短缺",
-        "供應鏈"
-      ],
-      "category": "AI",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "AI基礎設施對高階記憶體（如HBM）和電力需求激增，導致供應鏈緊張，可能直接影響我們產品開發所需關鍵零組件的BOM成本與交期。",
-      "action_suggestion": "密切追蹤高頻寬記憶體(HBM)等關鍵記憶體市場動態，評估多供應商策略及備料計畫；研究低功耗AI硬體設計，以降低對電力供應的依賴，並探索能效優化方案。"
-    },
-    {
-      "title": "「非紅」標籤只是加分，台灣無人機突圍須先擠進大廠供應鏈",
-      "url": "https://technews.tw/?p=1636397",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "台灣無人機產業欲在國際市場突圍，必須聚焦於提升技術與成本競爭力，積極爭取進入國際大廠供應鏈，而非僅依賴「非紅」標籤。",
-      "keywords": [
-        "無人機",
-        "供應鏈",
-        "台灣製造",
-        "國際競爭",
-        "國防科技"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "對於我們有志於進入特定高信賴度市場（如國防或關鍵基礎設施）的產品，這則新聞提醒我們不僅要關注技術本身，更要思考供應鏈的策略性和韌性。",
-      "action_suggestion": "審視團隊現有或潛在產品是否能符合高信賴度供應鏈要求，評估進入特定垂直市場的技術與成本優勢，並思考供應鏈韌性策略。"
-    },
-    {
-      "title": "Xbox Series X 成功跨界跑 PS5 遊戲，卻受限 5GB 記憶體天花板",
-      "url": "https://technews.tw/?p=1632411",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "Xbox Series X 透過移植版模擬器成功執行部分 PS5 遊戲，但因其 5GB 記憶體限制，未能完全發揮遊戲性能。",
-      "keywords": [
-        "遊戲主機",
-        "模擬器",
-        "記憶體限制",
-        "硬體性能",
-        "嵌入式系統"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "此案例再次證明，在設計高效能應用（尤其是在資源有限的嵌入式環境中）時，記憶體容量是影響最終性能表現的關鍵瓶頸。",
-      "action_suggestion": "在新專案規劃階段，需更深入評估目標應用的記憶體需求，並預留足夠的擴展彈性，避免因記憶體瓶頸而限制產品效能。"
-    },
-    {
-      "title": "AI 資料中心缺電怎麼辦？輝達從用電端下手，DSX 最高省電 30%",
-      "url": "https://technews.tw/?p=1636681",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "面對AI資料中心日益增長的用電需求，輝達（NVIDIA）提出 DSX 解決方案，旨在從用電端提升效率，最高可節省 30% 電力。",
-      "keywords": [
-        "AI資料中心",
-        "能源效率",
-        "NVIDIA",
-        "功耗優化",
-        "硬體設計"
-      ],
-      "category": "AI",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "AI硬體設計不僅追求極致效能，功耗效率已成為同等重要的考量。輝達的節能方案為我們開發邊緣AI或嵌入式AI系統時的功耗管理提供了重要啟示。",
-      "action_suggestion": "深入研究輝達 DSX 等技術的節能原理，評估其功耗優化理念是否能應用於我們的邊緣AI硬體設計；在新專案中，將能效作為核心設計指標並進行嚴格測試。"
-    },
-    {
-      "title": "台積電明年營收能否破 8 兆？不只看輝達，更要看蘇姿丰",
-      "url": "https://technews.tw/?p=1635535",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "台積電未來營收成長不僅取決於輝達（NVIDIA）的訂單，超微（AMD）在高效能運算及AI晶片市場的表現也將是關鍵。",
-      "keywords": [
-        "台積電",
-        "晶圓代工",
-        "NVIDIA",
-        "AMD",
-        "AI晶片",
-        "供應鏈"
-      ],
-      "category": "Chip",
-      "rd_relevance": "High",
-      "impact": "Medium",
-      "why_it_matters": "掌握主要晶片設計公司（如NVIDIA、AMD）的成長動能，有助於我們預判未來先進製程產能的競爭狀況，以及主要AI晶片的供應穩定性與成本趨勢。",
-      "action_suggestion": "持續關注台積電及主要晶片客戶的財報與市場展望，以評估先進製程晶片供應鏈的穩定性與成本變化，作為我們晶片選型和專案規劃的參考。"
-    },
-    {
-      "title": "科學家發現「抗凍」金屬，-253°C 極限低溫仍不脆裂",
-      "url": "https://technews.tw/?p=1632573",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "一支國際研究團隊發現兩種以鈮與鈦為基礎的實驗合金，即使在約 -253°C 的極低溫下，仍能保持韌性而不發生脆裂。",
-      "keywords": [
-        "材料科學",
-        "低溫材料",
-        "合金",
-        "極端環境",
-        "硬體材料"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "新型材料的突破可能為未來需要應對極端低溫環境的硬體產品設計提供新思路和可能性，例如太空、深海或工業特殊應用設備的結構件或外殼。",
-      "action_suggestion": "保持對先進材料科學進展的關注，作為長期技術儲備；未來在產品選材或新應用場景探索時，可評估此類極端環境適用材料的潛力。"
-    },
-    {
-      "title": "AI 投資疑慮未消、油價飆漲，美股三大指數全面收黑",
-      "url": "https://technews.tw/?p=1636679",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "受到AI投資回報疑慮和中東能源供應風險導致油價飆漲的雙重影響，美股三大指數於上週五全面收黑。",
-      "keywords": [
-        "AI投資",
-        "股市",
-        "經濟趨勢",
-        "能源價格",
-        "市場情緒"
+        "Salomon",
+        "營收",
+        "運動品牌",
+        "時尚",
+        "市場趨勢"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "宏觀經濟和市場情緒會間接影響公司對研發的投入和資源分配，但此類新聞對我們硬體與嵌入式系統的具體技術研發工作沒有直接影響。",
-      "action_suggestion": "無直接行動建議，但可作為了解整體市場情緒和經濟大環境的參考，有助於公司層面的戰略規劃。"
+      "why_it_matters": "這則新聞主要關於品牌經營和市場策略，與硬體研發、晶片設計、供應鏈或AI終端應用無直接關聯。",
+      "action_suggestion": "無"
     },
     {
-      "title": "輝達 AI 工廠點將！矽品 CPO 產能拚增 30 倍，欣興、京元電迎擴產爆發期",
-      "url": "https://technews.tw/?p=1635514",
+      "title": "告別看天吃飯、破解植物專屬密碼，AI 與生物科技攜手改寫未來農業",
+      "url": "https://technews.tw/?p=1633165",
       "source": "TechNews",
       "published_at": null,
-      "summary": "輝達在德國 GTC 大會上點名台灣供應鏈，預計將大幅擴大對矽品 CPO（共同封裝光學）產能的需求達 30 倍，並帶動欣興與京元電等合作夥伴的擴產。",
+      "summary": "AI與生物科技正共同推動農業的「溝通革命」，透過精準數據分析取代傳統依賴肉眼或天氣數據，以優化灌溉和施藥時機。",
       "keywords": [
-        "NVIDIA",
-        "CPO",
-        "共同封裝光學",
-        "半導體封裝",
-        "供應鏈",
-        "AI晶片"
+        "AI",
+        "農業科技",
+        "生物科技",
+        "精準農業",
+        "邊緣運算"
       ],
-      "category": "Chip",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "CPO是未來高效能AI晶片互連的關鍵技術，其產能變化和技術進展將直接影響我們高性能AI硬體的設計理念、成本結構與上市時程。",
-      "action_suggestion": "密切關注 CPO 技術的發展與標準化進程，評估其對我們未來高速互連介面設計的影響；與相關封測供應商建立聯繫，了解其在 CPO 領域的產能規劃和技術路線。"
-    },
-    {
-      "title": "Wi-Fi 也能當金屬探測器用！瑞典開發 AI 系統辨識隱藏手槍，準確率達 72.5%",
-      "url": "https://technews.tw/?p=1632414",
-      "source": "TechNews",
-      "published_at": null,
-      "summary": "瑞典國防研究局開發出名為 WiFireNet 的實驗性 AI 系統，能利用 Wi-Fi 訊號變化來辨識隱藏的金屬物體，目前偵測手槍的準確率達 72.5%。",
-      "keywords": [
-        "AI應用",
-        "無線感測",
-        "Wi-Fi",
-        "安全監控",
-        "邊緣AI"
-      ],
-      "category": "AI",
+      "category": "AI/Edge",
       "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "此技術展示了 AI 結合無線感測在非傳統應用領域的巨大潛力，可能啟發我們在邊緣AI感測和物聯網安全領域的產品創新思路。",
-      "action_suggestion": "關注無線訊號感測與AI結合的最新研究，評估是否有潛在應用於我們產品的附加功能或特定場景，例如環境感知或行為監測。"
+      "impact": "Medium",
+      "why_it_matters": "AI在智慧農業的深度應用，為我們的邊緣AI硬體方案提供了新的市場方向。這可能促使我們開發用於惡劣環境、低功耗、高可靠度的農業感測與控制系統。",
+      "action_suggestion": "追蹤AI在智慧農業中的實際應用案例與硬體需求，評估開發專用於惡劣環境的邊緣AI設備的可行性，並研究相關感測器與嵌入式平台的整合。"
     },
     {
-      "title": "AI 成功法則：20% 靠技術、80% 靠轉型，打造對手難以複製的護城河",
-      "url": "https://technews.tw/?p=1628120",
+      "title": "iPod 問世 25 週年，蘋果官網藏彩蛋",
+      "url": "https://technews.tw/?p=1636826",
       "source": "TechNews",
       "published_at": null,
-      "summary": "企業在AI投資中成功的關鍵在於 80% 的業務轉型與應用落地，而非僅 20% 的技術本身，以打造難以複製的競爭優勢。",
+      "summary": "適逢初代iPod問世25週年，蘋果在Apple Music網站悄悄加入懷舊彩蛋，致敬經典的初代設計。",
       "keywords": [
-        "AI策略",
-        "業務轉型",
-        "競爭力",
-        "企業發展",
-        "創新應用"
+        "iPod",
+        "Apple",
+        "25週年",
+        "懷舊",
+        "消費電子史"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "這提醒研發團隊，技術研發必須與實際業務應用和價值創造緊密結合，不能閉門造車，應從客戶和市場需求出發，確保技術成果能轉化為商業成功。",
-      "action_suggestion": "無直接行動建議，但研發團隊應定期與產品和業務部門交流，確保技術研發方向符合公司整體AI戰略與市場需求。"
+      "why_it_matters": "這則新聞屬於科技歷史與文化範疇，與我們的硬體研發、晶片設計、供應鏈或AI終端應用無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "南亞科 Q3 獲利創紀錄股價卻重挫！長鑫存儲擴產來襲，台灣記憶體廠該怕嗎",
+      "url": "https://technews.tw/?p=1635537",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "南亞科2026年第三季獲利創紀錄，但股價重挫，主因是中國長鑫存儲擴產，引發市場對台灣記憶體廠競爭壓力的擔憂。",
+      "keywords": [
+        "南亞科",
+        "長鑫存儲",
+        "記憶體",
+        "DRAM",
+        "供應鏈",
+        "晶片競爭"
+      ],
+      "category": "Chip/Supply",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "中國記憶體廠商的擴產將加劇市場競爭，可能影響DRAM等記憶體元件的價格走勢和未來供應鏈穩定性，直接影響我們的採購成本與產品毛利。",
+      "action_suggestion": "持續追蹤記憶體市場供需變化與主要供應商（如南亞科、長鑫存儲）的產能策略，評估潛在的價格波動和供應風險，並研究替代方案或多元採購策略，以降低供應鏈不確定性。"
+    },
+    {
+      "title": "PHP 修補兩大安全漏洞才兩天，現在又爆出第三個",
+      "url": "https://technews.tw/?p=1636823",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "廣泛應用於網站及電子商務平台的程式語言PHP，日前才緊急修補兩項重大資安漏洞，短短兩天後又傳出新的安全問題。",
+      "keywords": [
+        "PHP",
+        "資安漏洞",
+        "網站安全",
+        "軟體安全",
+        "程式語言"
+      ],
+      "category": "Software",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "雖然主要關聯軟體層面，但也提醒我們在開發整合Web介面或相關後端服務的嵌入式系統時，需更全面考量第三方軟體組件的資安風險。",
+      "action_suggestion": "在開發含Web服務的嵌入式系統時，強化對第三方軟體組件的資安評估和風險管理流程，並定期進行安全審計。"
+    },
+    {
+      "title": "Wi-Fi 7 路由器怎麼放才對，專家揭「黃金位置」告別龜速網路",
+      "url": "https://technews.tw/?p=1633190",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "儘管Wi-Fi 7技術逐漸普及，但許多用戶未能體驗到網速提升，原因在於路由器擺放位置不當，專家提出「黃金位置」以優化訊號。",
+      "keywords": [
+        "Wi-Fi 7",
+        "路由器",
+        "無線網路",
+        "網路佈局",
+        "訊號優化"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "雖然是使用者層面的部署問題，但也提醒我們在設計整合Wi-Fi 7模組的產品時，需考量天線設計與訊號最佳化，並可能需要提供用戶部署建議，以確保產品在真實環境中達到預期效能。",
+      "action_suggestion": "在設計整合Wi-Fi 7或其他無線通訊模組的硬體時，需深入研究天線佈局和訊號傳播特性，必要時可提供用戶安裝或佈局建議指南，確保產品在各種環境下的通訊效能。"
+    },
+    {
+      "title": "AI 新經濟聚焦三領域，簡立峰提醒一風險可能連黃仁勳都沒想到",
+      "url": "https://technews.tw/?p=1635517",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "AI遞迴自我改進預示新發展紀元，但專家提醒，除了運算力與成本問題，AI系統的自我改進可能導致決策與控制權超出人類預期，構成潛在風險。",
+      "keywords": [
+        "AI新經濟",
+        "遞迴自我改進",
+        "AI風險",
+        "人工智慧倫理",
+        "自主AI"
+      ],
+      "category": "AI",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "這提醒我們在開發AI終端應用時，除了效能與成本，更需關注AI的自主性、決策透明度及潛在風險，特別是未來更具自主學習能力的AI系統，這關乎產品的設計原則與倫理考量。",
+      "action_suggestion": "關注AI倫理與安全相關的產業標準和法規進展，在設計高度自主的AI嵌入式系統時，將「可解釋性AI (XAI)」和「人機協同控制」納入考量，確保系統行為可預期和可控。"
+    },
+    {
+      "title": "語音 AI 為何遲未迎爆發期，辨識準度與情緒是最大弱點",
+      "url": "https://technews.tw/?p=1627359",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "語音AI雖持續進化，但辨識準度與情感理解能力不足是其未能像ChatGPT一樣爆發的關鍵弱點，仍有顯著提升空間。",
+      "keywords": [
+        "語音AI",
+        "語音辨識",
+        "情感辨識",
+        "自然語言處理",
+        "AI應用"
+      ],
+      "category": "AI/Edge",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "語音AI是許多嵌入式系統重要的使用者介面，其辨識準度與情感理解能力直接影響產品的實用性和用戶滿意度。這表明我們在整合語音AI模組時，需投入更多資源解決這些痛點，或選擇更成熟、特定應用優化的語音方案。",
+      "action_suggestion": "密切追蹤語音AI技術的最新進展，特別是針對邊緣運算優化的模型。評估新的語音處理晶片或模組，並考慮在內部專案中加強語音辨識與自然語言理解 (NLU) 的整合與測試，以提升產品的語音交互體驗。"
+    },
+    {
+      "title": "星巴克去冰補滿 15 元踩中兩地雷！新董座高秀玲砍優惠卻踢到鐵板，品牌經營必學的兩原則",
+      "url": "https://technews.tw/?p=1634146",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "台灣星巴克因「去冰補滿加15元」政策引發品牌危機，凸顯出企業在改革時需謹慎考量顧客感受與品牌價值。",
+      "keywords": [
+        "星巴克",
+        "品牌危機",
+        "顧客體驗",
+        "商業策略",
+        "優惠政策"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "這則新聞主要關於商業經營與品牌策略，與硬體研發、晶片設計、供應鏈或AI終端應用無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "天文學者透過 EAGLE 模擬揭密：銀河系外圍是全宇宙最佳「星際宜居帶」",
+      "url": "https://technews.tw/?p=1632482",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "研究團隊利用EAGLE宇宙模擬系統比較不同星系對生命的友善程度，發現太陽所在的銀河系外圍幾乎擁有最好的「星際宜居帶」。",
+      "keywords": [
+        "銀河系",
+        "宜居帶",
+        "宇宙模擬",
+        "天文學",
+        "生命起源"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "這則新聞屬於基礎科學研究範疇，與我們的硬體研發、晶片設計、供應鏈或AI終端應用無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "What to expect from Apple’s ‘Pro and tell’ event",
+      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "source": "The Verge",
+      "published_at": "2026-10-24T10:13:00+08:00",
+      "summary": "蘋果預計在10月28日舉辦「Pro and tell」發表會，重點將放在新款MacBook Pro上，可能包含觸控螢幕版本。",
+      "keywords": [
+        "Apple",
+        "MacBook Pro",
+        "發表會",
+        "硬體更新",
+        "消費電子"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "蘋果新款MacBook Pro的發佈，可能揭示高性能筆電市場的硬體新趨勢，包括自研晶片的效能提升、散熱設計或新的外設介面，這些都值得我們借鑒和分析。",
+      "action_suggestion": "關注蘋果發表會的詳細內容，特別是其自研晶片（如M系列）的最新進展、功耗表現、新功能及相關硬體設計理念，以作為我們高性能嵌入式平台設計的參考。"
+    },
+    {
+      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "source": "The Verge",
+      "published_at": "2026-10-24T10:39:00+08:00",
+      "summary": "隨著傳聞中蘋果觸控螢幕MacBook可能即將發布，作者希望蘋果能借鑒聯想Yoga 9n筆電在觸控體驗和人機互動設計上的優點。",
+      "keywords": [
+        "Apple MacBook",
+        "觸控螢幕",
+        "Lenovo Yoga",
+        "筆電設計",
+        "人機互動",
+        "UI/UX"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "觸控螢幕MacBook的出現代表消費電子對多模態人機介面的重視。如果蘋果進入觸控筆電市場，將引領業界對硬體設計、互動模式和作業系統優化的新趨勢，為我們的嵌入式裝置提供設計參考，例如在工業平板或專用人機介面中整合更流暢的觸控和手寫體驗。",
+      "action_suggestion": "深入研究觸控螢幕筆電的硬體實現方式、UI/UX設計以及市場接受度。評估將先進觸控技術與手寫功能整合到我們特定嵌入式產品中的可行性，以提升用戶體驗和產品競爭力。"
+    },
+    {
+      "title": "It’s time to find a new browser",
+      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+      "source": "The Verge",
+      "published_at": "2026-10-23T21:16:00+08:00",
+      "summary": "The Verge的Installer專欄推薦讀者尋找新的瀏覽器，暗示當前主流瀏覽器可能存在一些不足，並有更好的替代品。",
+      "keywords": [
+        "瀏覽器",
+        "軟體推薦",
+        "網路工具",
+        "用戶體驗"
+      ],
+      "category": "Software",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "這則新聞主要關於個人軟體應用選擇，與硬體研發、晶片設計、供應鏈或AI終端應用無直接關聯。",
+      "action_suggestion": "無"
     },
     {
       "title": "Xbox’s first chief operating officer is out after just a few months",
       "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
       "source": "The Verge",
       "published_at": "2026-10-23T17:56:00+08:00",
-      "summary": "Xbox首位營運長Helen Chiang在職位設立僅數月後即將離職，她在微軟服務了21年，曾任Minecraft負責人。",
+      "summary": "Xbox的首位營運長Helen Chiang在上任僅數月後即離職，她此前曾擔任Minecraft的負責人達21年。",
       "keywords": [
         "Xbox",
         "Microsoft",
+        "營運長",
         "人事變動",
-        "遊戲產業",
-        "營運管理"
+        "遊戲產業"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "這是一則關於大型科技公司高層人事變動的新聞，與我們硬體與嵌入式系統的具體研發工作沒有直接關聯。",
-      "action_suggestion": "無。"
+      "why_it_matters": "這則新聞主要關於企業人事變動，與硬體研發、晶片設計、供應鏈或AI終端應用無直接關聯。",
+      "action_suggestion": "無"
     },
     {
       "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
       "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
       "source": "The Verge",
       "published_at": "2026-10-23T15:35:00+08:00",
-      "summary": "已廢棄多年的Popcorn Time應用程式，因其仍存在於數百萬設備中並可能被濫用為殭屍網路，已被停用以防止潛在的安全風險。",
+      "summary": "廢棄多年的Popcorn Time應用程式被禁用，以防止數百萬台設備組成的殭屍網路攻擊，突顯老舊軟體可能帶來的資安風險。",
       "keywords": [
-        "網路安全",
+        "Popcorn Time",
+        "資安",
         "殭屍網路",
         "軟體漏洞",
-        "安全防護",
-        "IoT安全"
+        "網路安全",
+        "物聯網安全"
       ],
       "category": "Software",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞提醒我們軟體長期維護和安全漏洞防範的重要性，尤其對於網路連接的嵌入式設備，必須確保其在產品生命週期內的安全更新和風險管理。",
-      "action_suggestion": "在我們的嵌入式產品設計中，應加強網路安全防護機制，並規劃定期的韌體更新策略，以避免潛在的殭屍網路或其他安全威脅。"
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "即使是看似無害的舊軟體，長期來看也可能被利用形成資安威脅。這對我們長期部署的嵌入式系統是一個重要警示，強調軟體維護、更新機制及生命週期管理的必要性，避免成為「殭屍設備」。",
+      "action_suggestion": "檢視並強化我們嵌入式系統的軟體更新和資安修補策略，特別是針對長期部署的設備，確保其在整個生命週期內的安全維護，並建立遠端管理與安全監控機制。"
     },
     {
       "title": "Elon Musk’s dangerous grip on outer space",
       "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
       "source": "The Verge",
       "published_at": "2026-10-23T13:35:00+08:00",
-      "summary": "SpaceX的Starshield服務對烏克蘭軍用終端進行限速，禁止其在高速移動時使用，凸顯了Elon Musk在太空通訊服務上的巨大影響力與潛在風險。",
+      "summary": "SpaceX的軍用版Starlink（Starshield）在烏克蘭戰爭中被限制速度，凸顯Elon Musk對太空服務的危險控制權，影響軍事行動。",
       "keywords": [
+        "Elon Musk",
         "SpaceX",
         "Starlink",
         "衛星通訊",
         "地緣政治",
-        "壟斷風險"
+        "控制權"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "這顯示了衛星通訊服務在地緣政治中的戰略重要性，以及單一供應商的控制權可能帶來的風險。若我們有開發依賴衛星通訊的產品，需審慎評估供應商的穩定性。",
-      "action_suggestion": "如果團隊未來有開發需要依賴衛星通訊服務的產品，需關注相關政策變化和供應商風險，考慮多樣化或備援方案。"
+      "why_it_matters": "雖然主要關注地緣政治和商業控制，但Starlink作為一種衛星通訊服務，其穩定性和自主性對我們未來考慮整合衛星通訊的嵌入式系統，尤其是關鍵任務應用，提供了重要參考。",
+      "action_suggestion": "在評估未來通訊模組（如衛星通訊）時，需全面考量其供應商的穩定性、控制權及潛在的政治風險，特別是針對高安全性和穩定性要求的專案。"
     },
     {
       "title": "The iPhone Duo should have been an iPad",
       "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
       "source": "The Verge",
       "published_at": "2026-10-23T13:00:00+08:00",
-      "summary": "The Verge 的評論對iPhone Duo的創新設計進行評估，認為其產品形態和功能或許更適合定位為iPad而非iPhone。",
+      "summary": "The Verge評論認為iPhone Duo（可能是某款折疊或雙螢幕iPhone）的設計與體驗更適合做成iPad，暗示其市場定位或產品體驗不佳。",
       "keywords": [
-        "iPhone",
+        "iPhone Duo",
         "iPad",
-        "產品設計",
-        "用戶體驗",
-        "市場定位"
+        "摺疊手機",
+        "雙螢幕",
+        "產品定位",
+        "用戶體驗"
       ],
       "category": "Hardware",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這提醒我們在產品概念設計階段，應充分考量不同尺寸、形態和應用場景對用戶體驗和市場接受度的影響，確保產品定位精準。",
-      "action_suggestion": "在進行新的產品概念設計時，應進行全面的市場調研和用戶體驗分析，避免因產品形態與目標用途脫節而影響市場表現。"
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "關於iPhone Duo（可能為摺疊或雙螢幕手機）的評論，揭示了新型態設備在產品定位和使用者體驗上可能面臨的挑戰。這對我們評估在嵌入式裝置中應用摺疊或雙螢幕技術提供了重要參考，需謹慎考量其成本效益、耐用性及實際使用場景。",
+      "action_suggestion": "持續觀察摺疊螢幕和雙螢幕技術在消費電子市場的發展，評估其成熟度、成本與可靠性，以判斷其是否適合導入我們的特定嵌入式產品線，並深入研究其潛在的應用場景和用戶痛點。"
     },
     {
       "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
       "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "source": "The Verge",
       "published_at": "2026-10-23T12:52:00+08:00",
-      "summary": "Google更新了其隱私政策，表明若用戶使用個人化AI功能，其Gmail和Google Photos數據可能會被用於投放個人化廣告。",
+      "summary": "Google更新隱私政策，表示可能使用用戶的Gmail和Google Photos數據來投放個性化廣告，尤其是當用戶使用個性化AI功能時。",
       "keywords": [
         "Google",
         "隱私政策",
-        "AI應用",
-        "資料隱私",
-        "廣告投放"
+        "數據隱私",
+        "個性化廣告",
+        "AI功能",
+        "用戶信任"
       ],
       "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞凸顯了在開發具有個人化AI功能的產品時，資料隱私保護和用戶數據使用透明度是至關重要的考量點，以避免潛在的法律和道德爭議。",
-      "action_suggestion": "在設計涉及用戶數據收集和AI處理的產品時，必須嚴格遵守相關資料隱私法規，並清晰告知用戶數據使用方式，建立完善的隱私保護機制。"
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "Google此舉再次凸顯AI時代數據隱私的敏感性。對於我們開發涉及用戶數據或個人化AI功能的嵌入式產品，必須將數據保護和隱私設計（Privacy by Design）置於核心，確保用戶信任，避免潛在的法律和聲譽風險。",
+      "action_suggestion": "在開發所有AI相關產品時，將數據隱私和安全視為最高優先，建立嚴格的數據處理規範，並確保用戶對其數據有充分的知情權和控制權，以符合法規和倫理要求。"
     },
     {
       "title": "The first broken iPhone Duos are here",
       "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
       "source": "The Verge",
       "published_at": "2026-10-23T13:26:00+08:00",
-      "summary": "iPhone Duo上市後不久，便有首批用戶回報螢幕出現破損問題，尤其集中在內螢幕靠近鉸鏈的位置。",
+      "summary": "iPhone Duo正式發售當天，已有用戶回報其內螢幕沿著轉軸處出現問題或破損，顯示新型態設備在耐用性上的挑戰。",
       "keywords": [
-        "iPhone",
-        "產品缺陷",
-        "品質控制",
-        "摺疊螢幕",
-        "硬體設計"
+        "iPhone Duo",
+        "螢幕破損",
+        "耐用性",
+        "摺疊手機",
+        "硬體品質",
+        "可靠度"
       ],
       "category": "Hardware",
       "rd_relevance": "High",
-      "impact": "Medium",
-      "why_it_matters": "這案例提醒我們，創新硬體設計，尤其是涉及摺疊螢幕或複雜可動結構的產品，在上市前必須進行極其嚴謹的機構件可靠性測試與驗證。",
-      "action_suggestion": "加強產品機構設計的可靠性測試與驗證，特別是針對新結構或移動部件，導入更嚴格的壽命測試標準和模擬極端使用情境的測試方案。"
+      "impact": "High",
+      "why_it_matters": "摺疊或雙螢幕裝置的螢幕破損問題，直接反映了新型態硬體設計在耐用性上的巨大挑戰。這對我們評估將這類高複雜度、高成本的技術應用於嵌入式產品時，提供了關鍵的警示，必須優先確保其長期穩定性和可靠度。",
+      "action_suggestion": "密切關注摺疊螢幕和柔性螢幕技術的材料科學與製造工藝進展，特別是針對其耐用性、彎折壽命和成本效益。在考慮導入此類技術時，需進行更嚴格的可靠性測試與風險評估，確保產品品質與用戶體驗。"
     },
     {
       "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
       "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
       "source": "The Verge",
       "published_at": "2026-10-23T13:14:00+08:00",
-      "summary": "根據報導，SpaceX為與傳統電信商競爭，計劃運用至少八萬個蜂窩基站，推進其移動通訊服務。",
+      "summary": "SpaceX據報計劃利用至少8萬個蜂窩站點，直接與Verizon、T-Mobile和AT&T等主要移動運營商競爭，以推動其移動電信服務。",
       "keywords": [
         "SpaceX",
-        "移動通訊",
-        "衛星網路",
-        "電信產業",
-        "基礎設施"
+        "行動電信",
+        "蜂窩網路",
+        "Starlink",
+        "電信競爭",
+        "通訊基礎設施"
       ],
       "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞展現了太空科技公司向地面通訊市場擴張的趨勢，可能影響未來通訊技術的整合模式，但對我們的硬體研發沒有直接影響。",
-      "action_suggestion": "無直接行動建議，但可作為了解未來通訊基礎設施發展趨勢和潛在合作夥伴的參考。"
-    },
-    {
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "source": "The Verge",
-      "published_at": "2026-10-23T10:47:00+08:00",
-      "summary": "Meta因出版商對於其新商業條款可能允許AI抓取新聞網站數據的擔憂而遭到反彈，已宣布延遲實施這些新條款。",
-      "keywords": [
-        "Meta",
-        "AI資料",
-        "數據抓取",
-        "版權",
-        "隱私政策"
-      ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這提醒我們，在開發AI應用時，確保用於訓練的資料來源合法合規至關重要，應審慎處理數據採集，避免潛在的版權和隱私爭議。",
-      "action_suggestion": "在設計AI相關應用時，建立嚴格的數據治理流程，確保所有訓練數據的合法來源和使用權限，並諮詢法律意見以符合相關法規。"
-    },
-    {
-      "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
-      "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
-      "source": "The Verge",
-      "published_at": "2026-10-23T12:50:00+08:00",
-      "summary": "Sigma推出了FP2相機，作為其「全球最小」全畫幅相機的繼任者，帶來了包括感測器改進、可翻轉LCD螢幕和更長電池續航等多項重要升級。",
-      "keywords": [
-        "相機",
-        "全畫幅",
-        "硬體升級",
-        "模組化設計",
-        "嵌入式影像"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "消費性電子產品在小型化、高性能感測器、顯示技術和電源管理方面的設計經驗，對我們的嵌入式系統產品有參考價值，尤其是在追求緊湊設計和長效續航時。",
-      "action_suggestion": "關注消費性電子產品在感測器技術、顯示器創新和電源管理方案的最新進展，評估是否有潛在技術可應用於我們的嵌入式系統產品設計。"
-    },
-    {
-      "title": "Our best tips for using the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
-      "source": "The Verge",
-      "published_at": "2026-10-23T13:29:00+08:00",
-      "summary": "這篇文章提供使用iPhone Duo的最佳技巧，強調其作為一種全新iPhone類型所帶來的學習曲線和獨特操作體驗。",
-      "keywords": [
-        "iPhone",
-        "使用技巧",
-        "用戶體驗",
-        "智慧型手機",
-        "產品設計"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "從用戶角度思考產品設計時，新的介面或硬體形態可能需要提供相應的使用者引導和教育，以降低學習曲線並提升用戶滿意度。",
-      "action_suggestion": "在產品設計階段，應充分考慮使用者體驗，並規劃相應的教學資源或直觀的介面設計，確保新功能或新形態產品能被用戶順暢接受。"
-    },
-    {
-      "title": "RepRapMicron Uses Fibre Optics To Print Tiny Benchy in Resin",
-      "url": "https://hackaday.com/?p=1354461",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "RepRapMicron 透過整合 UV 列印頭和光纖技術，成功實現了微米級的樹脂 3D 列印。",
-      "keywords": [
-        "3D列印",
-        "微米級",
-        "光纖",
-        "製造技術",
-        "原型製作"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "微米級的精密3D列印技術，可能在未來微型設備、傳感器或客製化精密零件的原型製作和小批量製造方面帶來創新，提升研發效率。",
-      "action_suggestion": "關注微型3D列印技術的發展，評估其在未來產品原型製作或特定精密部件生產中的應用潛力，以縮短研發週期。"
-    },
-    {
-      "title": "Automatic Coil Winder Takes the Tedium out of Actuators",
-      "url": "https://hackaday.com/?p=1354249",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "一款自動繞線機的開發，極大地簡化了如用於翻轉點陣顯示器等致動器中線圈的製作過程，顯著提高效率並減少人工勞動。",
-      "keywords": [
-        "自動化",
-        "製造設備",
-        "致動器",
-        "線圈",
-        "效率提升"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "體現了自動化技術在簡化重複性製造任務方面的價值，對提升生產效率和降低人工成本有啟發意義，但與我們核心研發工作直接關聯度不高。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "Reconstructing the Ancient Chinese Storm of Crows Weapon",
-      "url": "https://hackaday.com/?p=1354307",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "該專案旨在重新構建古中國的大型連弩「群鴉風暴」武器，展現了古代軍事工程的精巧設計。",
-      "keywords": [
-        "古代科技",
-        "武器",
-        "歷史",
-        "工程學",
-        "機械復原"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一則關於歷史研究和機械復原的新聞，與當代硬體和嵌入式系統的研發工作沒有直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "Running a Philips CD-i Off USB-C",
-      "url": "https://hackaday.com/?p=1354057",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "一項改裝專案成功讓老舊的Philips CD-i遊戲機透過USB-C供電運行，解決了其原版電源供應器的缺陷。",
-      "keywords": [
-        "USB-C",
-        "電源供應",
-        "硬體改造",
-        "通用接口",
-        "復古電子產品"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "此案例進一步確認了USB-C作為通用電源和數據介面的強大趨勢和便利性，我們應在未來產品設計中持續優先採用此標準。",
-      "action_suggestion": "在新產品設計中，優先考慮整合 USB-C 接口，以利用其在充電、數據傳輸和供電方面的通用性與使用者便利性。"
-    },
-    {
-      "title": "Hackaday Podcast Episode 392: Microscopes, Drones, and Other DIY Things",
-      "url": "https://hackaday.com/?p=1354235&preview=true&preview_id=1354235",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "Hackaday 播客討論了微型化技術、無人機、網路安全以及各種 DIY 專案，涵蓋了從微觀到宏觀的科技創新。",
-      "keywords": [
-        "播客",
-        "微型化",
-        "無人機",
-        "DIY",
-        "網路安全"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一則播客內容摘要，雖然涉及一些技術話題，但非具體技術新聞，對我們的核心研發工作沒有直接影響。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "The MSX Gets A New Sound Expansion Cartridge",
-      "url": "https://hackaday.com/?p=1354301",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "針對 MSX 電腦系統推出了一款全新的音效擴充卡匣，為這個老式平台帶來了新的聲音功能和創作可能性。",
-      "keywords": [
-        "MSX",
-        "復古電腦",
-        "音效卡",
-        "硬體擴充",
-        "嵌入式音訊"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞是關於復古電腦平台的硬體擴充，與我們當代硬體與嵌入式系統的研發工作沒有直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "This Week in Security: Record Patch Tuesday, PHP’s Bad Time, The Oldest Vuln, AI Armies, and More",
-      "url": "https://hackaday.com/?p=1354398",
-      "source": "Hackaday",
-      "published_at": null,
-      "summary": "本週資安回顧涵蓋了微軟破紀錄的修補程式日、PHP 重大漏洞、最古老的漏洞以及 AI 在網路攻擊中的應用等熱點。",
-      "keywords": [
-        "網路安全",
-        "漏洞",
-        "AI攻擊",
-        "軟體更新",
-        "資安風險"
-      ],
-      "category": "Software",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "資安威脅日益複雜，包括AI可能被用於發動攻擊，這要求我們在設計網路連接的嵌入式系統時，必須時刻關注最新的資安趨勢並加強硬體和軟體層面的安全防護。",
-      "action_suggestion": "定期進行產品安全審查，更新安全設計規範，並關注AI在資安攻防兩端的應用，以便我們的產品能有效應對潛在威脅；確保產品韌體更新機制安全可靠。"
+      "why_it_matters": "SpaceX進軍行動電信市場，可能加速衛星通訊與地面行動網路的融合，這意味著我們的嵌入式產品未來或許能利用更廣泛、更彈性的通訊方式。這將影響我們在設計通訊模組時的策略，考慮混合式通訊方案。",
+      "action_suggestion": "關注衛星通訊與地面行動網路整合的技術標準和商業模式，評估混合式通訊模組在我們產品中的應用潛力，特別是對於需要廣域覆蓋或在偏遠地區工作的嵌入式設備。"
+    },
+    {
+      "title": "Remembering the Weirdest Nintendo DSi Accessory",
+      "url": "https://hackaday.com/?p=1354303",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "回顧Nintendo DSi於2008年發布時，其配備前後雙攝像頭，以及許多奇特的周邊配件。",
+      "keywords": [
+        "Nintendo DSi",
+        "遊戲機",
+        "配件",
+        "攝像頭",
+        "復古硬體"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "這則新聞主要關於復古消費電子產品和其配件，與當前的硬體研發、晶片設計、供應鏈或AI終端應用無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "The Slurptop is Both Drool Worthy and Practical",
+      "url": "https://hackaday.com/?p=1354505",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "Slurptop被描述為一種兼具設計感和實用性的自製電腦（cyberdeck），屬於專為實際工作而非僅為美觀而生的作品。",
+      "keywords": [
+        "Cyberdeck",
+        "自製電腦",
+        "硬體設計",
+        "實用性",
+        "DIY",
+        "嵌入式系統"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "自製電腦(Cyberdeck)的案例，特別是強調實用性的設計，可以為我們在設計堅固、模組化且具備特定功能的外殼或特殊應用設備時提供靈感。這鼓勵我們思考如何在硬體設計上結合功能性與創意外觀。",
+      "action_suggestion": "鼓勵團隊內部進行概念性硬體設計討論，從DIY社群中汲取設計靈感，思考如何將「實用型」和「創新外觀」結合，應用於我們的客製化嵌入式系統產品中，特別是針對工業或特殊環境應用。"
+    },
+    {
+      "title": "2026 Retrocomputing Challenge: I Would Do Anything For Serial Data",
+      "url": "https://hackaday.com/?p=1354229",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "2026年復古計算挑戰賽中，有參賽者設計方案解決了老舊電腦與現代機器之間高速序列數據通訊的難題。",
+      "keywords": [
+        "復古計算",
+        "序列數據",
+        "數據通訊",
+        "硬體介面",
+        "兼容性",
+        "橋接方案"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "雖然是復古領域，但解決新舊硬體介面兼容性問題的思路，對我們在設計需要與遺留系統（Legacy Systems）整合的嵌入式產品時，提供了跨介面通訊的思考方向。",
+      "action_suggestion": "在開發需要與舊有設備或非標準介面通信的嵌入式系統時，深入研究現有的橋接方案或客製化介面設計，確保數據交換的穩定性和效率，避免兼容性問題。"
+    },
+    {
+      "title": "That Weird 7-Pin S-Video Port on Old Laptops",
+      "url": "https://hackaday.com/?p=1354476",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "回顧2000年代初期筆記型電腦上常見的奇特7針S-Video複合視訊輸出埠及其功能。",
+      "keywords": [
+        "S-Video",
+        "視訊埠",
+        "筆電",
+        "硬體介面",
+        "復古硬體"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "這則新聞主要關於歷史上的硬體介面，與當前的硬體研發、晶片設計、供應鏈或AI終端應用無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "Making for Others",
+      "url": "https://hackaday.com/?p=1354518",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "Hackaday社區和開源硬體社區展現了駭客之間的慷慨分享精神，這種共同成長的模式超越了純粹的利他主義。",
+      "keywords": [
+        "開源硬體",
+        "社區協作",
+        "分享精神",
+        "DIY文化",
+        "技術交流"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "鼓勵我們團隊在可能的情況下參與開源硬體專案，利用社群資源並回饋社群，加速部分模組的開發或尋找解決方案，同時也能提升團隊的技術視野。",
+      "action_suggestion": "鼓勵團隊成員參與開源硬體專案或社群討論，學習最新的硬體設計趨勢和解決方案，並考慮在非核心技術或驗證性專案上利用開源資源。"
+    },
+    {
+      "title": "Watch VCF Southwest in Retrotastic SGI-Edited Footage",
+      "url": "https://hackaday.com/?p=1354497",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "觀看以復古SGI設備編輯的VCF Southwest活動錄影，回味昔日技術的魅力，重溫簡樸的樂趣。",
+      "keywords": [
+        "SGI",
+        "復古計算",
+        "影片編輯",
+        "技術文化",
+        "歷史回顧"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "這則新聞主要關於復古技術活動和文化，與當前的硬體研發、晶片設計、供應鏈或AI終端應用無直接關聯。",
+      "action_suggestion": "無"
+    },
+    {
+      "title": "A Walkie Talkie Interface For Claude",
+      "url": "https://hackaday.com/?p=1354054",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "一名送貨司機為Claude Code開發了一種對講機介面，以便在戶外工作時方便地進行專案開發，強調了AI工具在特定情境下的實用性整合。",
+      "keywords": [
+        "Claude AI",
+        "對講機介面",
+        "邊緣AI",
+        "行動應用",
+        "人機介面",
+        "客製化硬體"
+      ],
+      "category": "AI/Hardware",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "這個案例展示了AI與硬體介面結合，解決特定工作場景痛點的創意。它鼓勵我們思考在設計嵌入式AI產品時，不應僅限於標準輸入/輸出，而應探索更自然、更符合使用者工作流程的客製化人機介面，特別是在對講機、手持設備等邊緣應用場景。",
+      "action_suggestion": "探索在我們嵌入式AI產品中整合語音、對講機或其他非傳統人機介面的可能性，尤其針對特定行業應用，研究如何透過創新介面提升使用者效率和體驗，並評估相關語音晶片與通訊模組。"
     }
   ]
 }
