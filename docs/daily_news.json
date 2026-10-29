@@ -1,501 +1,516 @@
 {
-  "timestamp": "2026-10-28T12:35:13.256662+08:00",
-  "date": "2026-10-28",
+  "timestamp": "2026-10-29T12:51:19.085013+08:00",
+  "date": "2026-10-29",
   "articles": [
     {
-      "title": "日本將徵 5 年反傾銷稅，鎖定台灣與中國產鋼材",
-      "url": "https://technews.tw/?p=1639499",
+      "title": "Fortinet 成長放緩 盤後崩 25%、拖累資安族群",
+      "url": "https://technews.tw/?p=1640827",
       "source": "TechNews",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "日本政府將對台灣及中國產的特定「鎳基合金不銹鋼冷軋鋼板及不銹鋼帶」課徵五年反傾銷稅。",
+      "published_at": null,
+      "summary": "網路資安企業 Fortinet 財報未達預期，第三季產品收入成長放緩，導致盤後股價崩跌25%，並拖累整體資安類股。",
       "keywords": [
-        "反傾銷稅",
-        "鋼材",
-        "供應鏈",
-        "國際貿易"
+        "Fortinet",
+        "網路資安",
+        "財報",
+        "股價",
+        "產業趨勢"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "潛在影響我們硬體產品的物料成本和供應鏈穩定性，尤其若我們的製造合作夥伴使用相關鋼材。",
-      "action_suggestion": "評估主要供應商的物料清單，了解是否使用受影響的鋼材，並監控國際貿易政策變化。"
+      "why_it_matters": "雖然直接影響不大，但大型資安公司營收成長放緩可能間接反映企業 IT 支出趨勢變化，可能影響我們未來產品的市場需求或安全標準考量。",
+      "action_suggestion": "持續關注企業IT支出的總體趨勢，評估潛在的市場需求變化。"
     },
     {
-      "title": "川普嫌 AI 用詞不當 揚言「將全面禁用、改稱 SI」",
-      "url": "https://technews.tw/?p=1639323",
+      "title": "資料中心需求佳 MCU 廠瑞薩純益暴增 4 成",
+      "url": "https://technews.tw/?p=1640777",
       "source": "TechNews",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "美國總統川普認為「人工智慧 (AI)」一詞不當，揚言若當選將全面禁用，改稱「合成智慧 (SI)」。",
+      "published_at": null,
+      "summary": "微控制器（MCU）大廠瑞薩電子受惠於車用和資料中心需求強勁，上季純益暴增四成。",
       "keywords": [
-        "AI",
-        "政策",
-        "命名爭議",
-        "政治"
-      ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "雖然目前是政治言論，但若成為政策可能影響行業術語和公共認知，需保持觀察。",
-      "action_suggestion": "保持觀察，目前無須採取具體行動。"
-    },
-    {
-      "title": "路透：全球高通膨恐持續至 2027 年，物價壓力難消",
-      "url": "https://technews.tw/?p=1639317",
-      "source": "TechNews",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "路透社調查預計全球高通膨恐將持續至 2027 年，物價壓力主要受中東衝突和能源成本影響。",
-      "keywords": [
-        "通貨膨脹",
-        "經濟",
-        "供應鏈",
-        "成本控制"
-      ],
-      "category": "Other",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "高通膨會直接提高我們硬體產品的 BOM 成本和研發預算，影響專案的可行性和利潤。",
-      "action_suggestion": "緊密監控關鍵零組件與原物料價格波動，與供應商協商長期合約，並在設計階段考慮成本最佳化方案。"
-    },
-    {
-      "title": "MacBook 走過 20 年：蘋果每次大改款，PC 陣營都得跟著變",
-      "url": "https://technews.tw/?p=1639248",
-      "source": "TechNews",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "蘋果 MacBook 迎來 20 週年，其每次重大改款都對整個 PC 產業產生深遠影響，引領設計趨勢。",
-      "keywords": [
-        "MacBook",
-        "蘋果",
-        "PC產業",
-        "硬體設計",
-        "創新趨勢"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "追蹤 Apple 的創新趨勢有助於我們預測市場對硬體設計、性能、功耗、使用者體驗的未來需求，為我們的嵌入式產品設計提供借鑒。",
-      "action_suggestion": "觀察 Apple 在處理器、電池技術、I/O 設計和外形工藝上的創新，思考其對嵌入式系統小型化、高效能、低功耗設計的啟發。"
-    },
-    {
-      "title": "假客服、深偽語音專騙長輩，AI 時代防詐新守則：別靠直覺，先慢下來",
-      "url": "https://technews.tw/?p=1639244",
-      "source": "TechNews",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "AI 技術使得針對年長者的詐騙手法更為逼真，讓傳統防詐警訊失靈。",
-      "keywords": [
-        "AI詐騙",
-        "深度偽造",
-        "網路安全",
-        "倫理"
-      ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "AI 發展的負面案例，提醒我們在開發 AI 相關產品時需考慮安全和倫理問題，但非核心硬體研發重點。",
-      "action_suggestion": "了解 AI 誤用對社會的影響，在內部開發 AI 應用時將資安與倫理納入考量。"
-    },
-    {
-      "title": "應材擬增持貝思股份至 20% 深化先進封裝合作",
-      "url": "https://technews.tw/?p=1639240",
-      "source": "TechNews",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "應用材料計畫增持荷蘭封裝設備商貝思半導體股份至 20%，以深化在先進封裝技術領域的合作。",
-      "keywords": [
-        "先進封裝",
-        "半導體設備",
-        "晶片設計",
-        "供應鏈"
+        "MCU",
+        "瑞薩電子",
+        "車用晶片",
+        "資料中心",
+        "晶片需求"
       ],
       "category": "Chip",
       "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "先進封裝技術的進展對我們的晶片設計和硬體產品的小型化、效能提升、功耗降低至關重要。應材與貝思的深度合作預示著此領域的加速發展。",
-      "action_suggestion": "密切追蹤先進封裝技術的發展，評估新技術對我們未來產品的潛在影響，並在晶片選型和系統設計時將其納入考量。"
+      "impact": "Medium",
+      "why_it_matters": "MCU是嵌入式系統的核心，瑞薩的強勁表現顯示車用和資料中心對MCU的需求持續旺盛，這對我們的晶片選型和供應鏈預測具有參考價值。",
+      "action_suggestion": "追蹤瑞薩及其他MCU供應商的產品路線圖，評估其在車用和資料中心市場的技術發展，並檢視我們現有及未來專案的MCU選用策略。"
     },
     {
-      "title": "Roblox 遭指控以網路爬蟲下載 145GB 3D 模型，疑為訓練 AI 模型",
-      "url": "https://technews.tw/?p=1639233",
+      "title": "AI 抓不到 AI，最新研究：主流聊天機器人辨識同類幾乎全失準",
+      "url": "https://technews.tw/?p=1640688",
       "source": "TechNews",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "遊戲平台 Roblox 被指控使用網路爬蟲下載大量 3D 模型，疑用於訓練其 AI 模型。",
+      "published_at": null,
+      "summary": "一項巴黎西岱大學的研究指出，七款主流聊天機器人難以準確辨識出其他 AI 生成的內容。",
       "keywords": [
-        "AI訓練",
-        "3D模型",
-        "數據版權",
-        "倫理"
+        "AI辨識",
+        "聊天機器人",
+        "生成內容",
+        "AI模型限制"
       ],
       "category": "AI",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "再次凸顯 AI 訓練數據版權問題，對我們 AI 應用開發中數據合法合規性提供警示。",
-      "action_suggestion": "在開發 AI 應用時，確保所有訓練數據的來源合法性，避免潛在法律風險。"
+      "why_it_matters": "這主要關乎AI模型本身的效能和限制，對我們的硬體/嵌入式系統研發沒有直接影響，但可作為AI倫理或應用挑戰的參考。",
+      "action_suggestion": "了解AI模型在內容辨識上的局限性，作為未來評估AI應用可行性時的額外考量。"
     },
     {
-      "title": "台灣鬧錢荒？楊金龍：非常不贊同這說法，LCR 120% 剛剛好",
-      "url": "https://technews.tw/?p=1639272",
+      "title": "黑洞能否一分為二？自轉速度逼近極限的黑洞或突破熱力學鐵律",
+      "url": "https://technews.tw/?p=1640909",
       "source": "TechNews",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "央行總裁楊金龍不認同台灣有資金荒的說法，認為國銀流動性覆蓋比率（LCR）是健康水平。",
+      "published_at": null,
+      "summary": "科學研究探討黑洞是否能一分為二，挑戰了現有物理學對黑洞合併的理解和熱力學鐵律。",
       "keywords": [
-        "台灣經濟",
-        "資金",
-        "金融市場"
+        "黑洞",
+        "物理學",
+        "天文研究",
+        "熱力學"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "了解台灣整體經濟環境，但對硬體研發方向或技術選擇沒有直接關聯。",
-      "action_suggestion": "無直接行動建議，持續關注整體經濟環境即可。"
+      "why_it_matters": "純學術研究，與我們的硬體/嵌入式系統研發無關。",
+      "action_suggestion": "無。"
     },
     {
-      "title": "借鏡東京城市防災網！松菸智慧杆導入 CHARGESPOT 化身不斷電樞紐",
-      "url": "https://technews.tw/?p=1639321",
+      "title": "ServiceNow 獲利遜、訂閱成長展望無驚喜 盤後崩",
+      "url": "https://technews.tw/?p=1640646",
       "source": "TechNews",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "松菸智慧杆導入 CHARGESPOT 共享行動電源功能，成為智慧城市防災網絡的一部分，提供不斷電服務。",
+      "published_at": null,
+      "summary": "企業流程管理軟體廠商 ServiceNow 上季獲利未達預期，且訂閱成長展望令市場失望，導致財報公布後股價崩跌。",
       "keywords": [
-        "智慧城市",
-        "智慧杆",
-        "嵌入式系統",
-        "物聯網",
-        "邊緣運算"
+        "ServiceNow",
+        "企業軟體",
+        "財報",
+        "股價",
+        "產業趨勢"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "企業軟體服務公司的財報波動可能反映企業整體IT支出環境的變化，但對我們的硬體研發影響間接且輕微。",
+      "action_suggestion": "觀察企業軟體市場的總體動態，作為整體經濟環境判斷的參考。"
+    },
+    {
+      "title": "全球首發 Android XR 開啟空間運算新紀元，Xreal Aura 智慧眼鏡深度整合 Google 生態系",
+      "url": "https://technews.tw/?p=1640694",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "Xreal 與 Google 攜手推出全球首款搭載 Android XR 的 Aura XR 智慧眼鏡，深度整合 Google 生態系，開啟空間運算新時代。",
+      "keywords": [
+        "Android XR",
+        "空間運算",
+        "智慧眼鏡",
+        "Xreal Aura",
+        "AR/VR"
       ],
       "category": "Edge",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "智慧杆作為邊緣運算節點和智慧城市基礎設施，其多功能整合、電源管理及韌性設計是我們研發智慧物聯網和嵌入式解決方案的重要參考。",
-      "action_suggestion": "研究智慧杆的模組化設計、電源管理方案、通訊技術及部署模式，思考如何將這些概念應用於我們的邊緣裝置和智慧城市產品。"
+      "why_it_matters": "智慧眼鏡和空間運算是未來人機互動的重要方向，Android XR 的推出意味著這個領域的軟硬體生態系統正在成熟，對我們在邊緣設備和新形態硬體的探索至關重要。",
+      "action_suggestion": "密切追蹤 Android XR 的開發者工具與平台，評估此類 AR/VR 智慧眼鏡的硬體規格、晶片需求與應用潛力，考慮未來在空間運算領域的技術布局。"
     },
     {
-      "title": "NASA 火星軌道衛星服役逾 20 年，老化艦隊恐成最後一代",
-      "url": "https://technews.tw/?p=1639199",
+      "title": "超越「超級循環」 測試設備商愛德萬再升財測 股價飆",
+      "url": "https://technews.tw/?p=1640586",
       "source": "TechNews",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "NASA 火星奧德賽號軌道衛星服役超過 20 年，其老化艦隊可能成為最後一代此類衛星。",
+      "published_at": null,
+      "summary": "受惠於 AI 相關半導體市場進入高速成長階段，全球半導體測試設備巨擘愛德萬上調財測，股價大漲。",
       "keywords": [
-        "衛星",
-        "太空科技",
-        "硬體壽命",
-        "可靠性",
-        "極端環境"
+        "半導體測試",
+        "AI半導體",
+        "愛德萬",
+        "設備需求",
+        "產業景氣"
       ],
-      "category": "Hardware",
+      "category": "Chip",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "即使是太空等級的硬體也會老化，這提醒我們在設計長生命週期的嵌入式系統時，必須考慮材料衰變、元件壽命和維護性。",
-      "action_suggestion": "研究長壽命、高可靠性硬體設計的最佳實踐，尤其是在選用元件、熱管理和軟體更新策略方面。"
+      "why_it_matters": "測試設備需求旺盛是半導體產業景氣和AI晶片大量生產的明確訊號，這表明AI晶片市場不僅火熱，而且供應鏈後端的支持也正到位，有助於我們評估AI晶片的供應穩定性及未來發展趨勢。",
+      "action_suggestion": "關注半導體測試設備的技術演進，特別是針對新型AI晶片的測試能力，這可能影響我們產品的品質驗證和生產成本。"
     },
     {
-      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-      "source": "The Verge",
-      "published_at": "2026-10-27T18:55:00+08:00",
-      "summary": "iPhone Duo 折疊手機剛上市就爆出螢幕在鉸鏈處破裂的問題，顯示複雜硬體設計的可靠性挑戰。",
+      "title": "迎戰蘋果 Safari 隱私鐵腕，廣告業急尋伺服器端解方淪兆元級貓鼠遊戲",
+      "url": "https://technews.tw/?p=1640677",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "蘋果 Safari 瀏覽器進一步收緊追蹤限制，促使廣告業尋求伺服器端解決方案，引發一場兆元級的隱私攻防戰。",
       "keywords": [
-        "折疊螢幕",
-        "硬體設計",
-        "可靠性",
-        "鉸鏈",
-        "結構設計"
+        "蘋果隱私",
+        "Safari",
+        "廣告追蹤",
+        "伺服器端解方",
+        "網路隱私"
+      ],
+      "category": "Software",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "主要影響網路廣告生態和隱私技術，對我們的硬體/嵌入式系統研發無直接關聯，但作為業界普遍的隱私意識提高的背景，可間接影響未來產品的隱私設計考量。",
+      "action_suggestion": "了解用戶隱私保護的趨勢，在設計產品時將隱私安全納入考量。"
+    },
+    {
+      "title": "Vertiv 財報後飆 16% AI 基建熱潮帶動訂單翻倍",
+      "url": "https://technews.tw/?p=1640537",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "資料中心散熱及電力系統大廠 Vertiv 第三季財報超乎預期，受惠於 AI 基建需求旺盛，訂單較去年同期翻倍成長。",
+      "keywords": [
+        "資料中心",
+        "AI基建",
+        "散熱系統",
+        "電力系統",
+        "Vertiv"
       ],
       "category": "Hardware",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "折疊手機的螢幕斷裂問題凸顯了精密機械結構與柔性顯示技術整合的難度，提醒我們在設計複雜硬體產品時，必須加強結構可靠性、材料應力分析和多場景的嚴格測試。",
-      "action_suggestion": "借鑒此案例，重新審視我們硬體產品的結構設計、材料應力點、鉸鏈或活動部件的長期可靠性測試方案，並考慮引入更嚴苛的耐久性測試。"
+      "why_it_matters": "AI算力需求的爆發直接推動了資料中心基礎設施（尤其是散熱和電力）的強勁成長，這對我們評估未來產品所需的算力基礎設施、功耗設計和散熱方案有重要指導意義。",
+      "action_suggestion": "深入研究高密度 AI 資料中心的散熱和電力供應技術趨勢，評估這些技術對我們設計嵌入式AI設備時的功耗、熱管理和可靠性的影響。"
     },
     {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "source": "The Verge",
-      "published_at": "2026-10-27T16:51:00+08:00",
-      "summary": "研究人員對 OpenAI 在數學、電腦科學和物理學方面取得突破卻採取「閉門」技術發布策略日益不滿。",
+      "title": "AI 需求爆發，三星電子第三季營業利益大增 783% 創新高",
+      "url": "https://technews.tw/?p=1640735",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "韓國科技巨擘三星電子第三季營業利益較去年同期大增 783%，創下歷史新高，主要歸因於 AI 需求爆發。",
       "keywords": [
-        "OpenAI",
-        "AI研究",
-        "技術透明度",
-        "生態系統"
+        "三星電子",
+        "AI需求",
+        "營業利益",
+        "半導體",
+        "記憶體"
+      ],
+      "category": "Chip",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "三星作為全球主要記憶體和晶片供應商之一，其業績暴增明確反映了AI市場對高性能硬體，特別是記憶體和AI處理器的龐大需求，這對我們的晶片採購、成本預估及供應鏈管理至關重要。",
+      "action_suggestion": "密切關注三星等主要晶片供應商的AI相關產品線與產能擴張計畫，評估未來記憶體及AI晶片的供應穩定性與價格趨勢，並為潛在的供需變化做好準備。"
+    },
+    {
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge",
+      "published_at": "2026-10-28T19:05:00+08:00",
+      "summary": "Instagram 負責人 Adam Mosseri 承認，很多人不喜歡 AI，且這種負面情緒可能會惡化。",
+      "keywords": [
+        "AI負面情緒",
+        "社會觀感",
+        "AI倫理",
+        "用戶接受度"
       ],
       "category": "AI",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "AI 領域的技術開放性直接影響我們獲取最新模型資訊、進行硬體優化和協同創新的能力，過度封閉可能阻礙整體生態發展。",
-      "action_suggestion": "保持對最新 AI 模型和演算法發展的追蹤，並探索更多開源 AI 專案和研究社群，避免過度依賴單一來源。"
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "這提醒我們 AI 技術在社會層面可能面臨的挑戰和接受度問題，儘管不是直接技術問題，但對產品設計中的用戶體驗和倫理考量有間接影響。",
+      "action_suggestion": "在未來產品規劃中，考慮AI應用可能引發的社會和倫理議題，確保產品設計符合使用者期望和社會規範。"
     },
     {
-      "title": "Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service",
-      "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
       "source": "The Verge",
-      "published_at": "2026-10-27T17:36:00+08:00",
-      "summary": "Elon Musk 指控烏克蘭軍隊違反 Starlink 服務條款，用於攻擊性無人機襲擊，烏克蘭官員否認。",
+      "published_at": "2026-10-28T18:01:00+08:00",
+      "summary": "駭客竊取了超過 41,000 筆美國國土安全部員工的個人資訊，包含姓名、職稱、電話和辦公地點。",
       "keywords": [
-        "Starlink",
-        "衛星通訊",
-        "服務條款",
-        "倫理爭議"
+        "資料洩露",
+        "網路安全",
+        "DHS",
+        "個人資訊",
+        "資安事件"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "了解前沿技術如 Starlink 在實際應用中可能面臨的倫理和軍事應用挑戰，對我們思考技術責任有啟示。",
-      "action_suggestion": "無直接行動建議，持續關注新技術的社會和政治影響。"
+      "why_it_matters": "雖然不是直接的硬體研發新聞，但提醒了資料安全的重要性，我們在設計連接網路的嵌入式系統時必須將安全防護納入最高考量。",
+      "action_suggestion": "持續檢視我們產品的資安防護措施，尤其是在資料儲存與傳輸方面，確保符合最新的安全標準。"
     },
     {
-      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
       "source": "The Verge",
-      "published_at": "2026-10-27T12:51:00+08:00",
-      "summary": "Arctic Fox Technologies 推出 Super Mouse，將觸控螢幕整合在滑鼠下方，提供宏命令和快捷鍵功能。",
+      "published_at": "2026-10-28T17:34:00+08:00",
+      "summary": "Akai 宣布將推出開放原始碼韌體的 MPC Sample Key，並鼓勵 modding 社群進行改裝與開發。",
       "keywords": [
-        "人機介面",
-        "輸入裝置",
-        "觸控螢幕",
-        "硬體創新",
-        "嵌入式系統"
+        "Akai",
+        "MPC",
+        "開源硬體",
+        "modding",
+        "嵌入式開發"
       ],
       "category": "Hardware",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "這種創新的人機介面設計（HMI）和嵌入式小螢幕應用，為我們的嵌入式產品設計提供了新的思路，尤其在控制面板或小型資訊顯示方面。",
-      "action_suggestion": "觀察並評估小型觸控螢幕和客製化輸入介面在我們嵌入式產品中的應用潛力，探索新的使用者互動模式。"
+      "why_it_matters": "開源硬體和社群參與可以加速產品創新和應用拓展，這對我們評估產品開發模式、生態系統建設以及如何利用社群力量有啟示作用。",
+      "action_suggestion": "觀察開源硬體生態系的發展，研究開放原始碼策略在特定嵌入式產品上的可行性，並考慮與開發者社群的潛在合作機會。"
     },
     {
-      "title": "Meta’s $25 billion legal loss just put blood in the water",
-      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "url": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
       "source": "The Verge",
-      "published_at": "2026-10-27T12:44:00+08:00",
-      "summary": "Meta 因 2018 年劍橋分析醜聞和兒童安全問題，被新墨西哥州法官判處 250 億美元賠償。",
+      "published_at": "2026-10-28T17:16:00+08:00",
+      "summary": "Readwise 推出 Readwise Books 服務，旨在挑戰 Kindle 和 Kobo 在電子書市場的領先地位。",
       "keywords": [
-        "Meta",
-        "隱私權",
-        "數據安全",
-        "法律訴訟"
+        "電子書",
+        "Readwise",
+        "Kindle",
+        "Kobo",
+        "閱讀應用"
       ],
-      "category": "Other",
+      "category": "Software",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "再次強調數據隱私和用戶安全在產品設計中的重要性，尤其是對於涉及用戶數據的軟體服務，但非硬體研發核心。",
-      "action_suggestion": "確保所有涉及數據收集和處理的軟體組件符合隱私法規和最佳實踐。"
+      "why_it_matters": "主要為軟體和服務競爭，與硬體研發無直接關聯。",
+      "action_suggestion": "無。"
     },
     {
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "title": "Google says its investments in AI are driving more searches",
+      "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
       "source": "The Verge",
-      "published_at": "2026-10-27T12:14:00+08:00",
-      "summary": "Firefox 的 Smart Window 更新，加入 AI 驅動的表單自動填寫和網頁監控功能，提升瀏覽體驗。",
+      "published_at": "2026-10-28T17:50:00+08:00",
+      "summary": "Google 母公司 Alphabet 表示，其對 AI 的投資正在推動搜尋量的顯著增長，特別是商業搜尋。",
       "keywords": [
-        "AI應用",
-        "瀏覽器",
-        "使用者體驗",
-        "智慧軟體"
+        "Google",
+        "Alphabet",
+        "AI投資",
+        "搜尋引擎",
+        "商業應用"
       ],
       "category": "AI",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "顯示 AI 在提升日常軟體應用使用者體驗方面的潛力，可為我們思考嵌入式系統的智慧化功能提供啟示。",
-      "action_suggestion": "關注 AI 在使用者介面和自動化任務上的應用趨勢，思考如何將類似的智慧功能整合到我們的嵌入式系統軟體中。"
+      "why_it_matters": "這顯示AI正在被整合到主流服務中並帶來商業價值，強化了AI作為重要技術趨勢的地位，但對我們的硬體/嵌入式系統研發影響間接。",
+      "action_suggestion": "持續關注AI技術在各行業應用中的商業成功案例，以了解市場對AI功能的實際需求。"
     },
     {
-      "title": "Major League Baseball is looking for a new kind of fan",
-      "url": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
       "source": "The Verge",
-      "published_at": "2026-10-27T16:34:00+08:00",
-      "summary": "美國職棒大聯盟（MLB）正透過社群媒體和網紅，尋求吸引新一代年輕球迷，改變行銷策略。",
+      "published_at": "2026-10-28T18:47:00+08:00",
+      "summary": "Microsoft 公布強勁的雲端業務增長，顯示其在企業級服務和雲端運算市場的領導地位。",
       "keywords": [
-        "體育行銷",
-        "社群媒體",
-        "市場策略"
+        "Microsoft",
+        "雲端運算",
+        "企業服務",
+        "財報",
+        "軟體巨頭"
       ],
-      "category": "Other",
+      "category": "Software",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "無關研發核心業務。",
-      "action_suggestion": "無。"
+      "why_it_matters": "雲端服務的強勁增長間接支持了資料中心硬體需求，但這則新聞主要聚焦軟體服務的財務表現，對我們的硬體研發無直接影響。",
+      "action_suggestion": "了解雲端服務的發展趨勢，因為雲端服務的進步可能影響邊緣設備的設計考量（例如，邊緣計算與雲端協同）。"
     },
     {
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+      "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
       "source": "The Verge",
-      "published_at": "2026-10-27T11:07:00+08:00",
-      "summary": "Google 推出 Genie 4 AI 模型，能生成更真實的互動體驗，並支援自然語言即時更新和音頻生成。",
+      "published_at": "2026-10-28T16:12:00+08:00",
+      "summary": "蘋果推出配備 OLED 螢幕和觸控功能的 MacBook Pro，最高階版本售價高達 14,549 美元。",
       "keywords": [
-        "生成式AI",
+        "Apple",
+        "MacBook Pro",
+        "OLED",
+        "觸控螢幕",
+        "高階硬體"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "蘋果在高階筆電中導入 OLED 和觸控螢幕，顯示這些技術在消費級高階產品中的應用趨勢，對我們在設計高階嵌入式設備時的顯示技術選擇和成本考量有參考價值。",
+      "action_suggestion": "追蹤 OLED 顯示面板和觸控技術的成本下降及性能提升，評估其在我們未來高階嵌入式產品中應用的可行性。"
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge",
+      "published_at": "2026-10-28T16:03:00+08:00",
+      "summary": "Google 推出其最新前沿模型 Gemini 4 Carbon，在編碼、代理任務和網路安全方面取得「顯著進步」。",
+      "keywords": [
+        "Google Gemini",
         "AI模型",
-        "虛擬實境",
-        "互動體驗",
-        "邊緣AI"
+        "網路安全",
+        "編碼",
+        "代理任務"
       ],
       "category": "AI",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "Google 在生成式 AI 領域的進展，尤其是能生成互動體驗的 AI 模型，預示著未來邊緣裝置將需要更強大的運算能力來支援即時、沉浸式 AI 應用。",
-      "action_suggestion": "追蹤生成式 AI 模型的硬體運算需求和最佳化趨勢，評估我們邊緣 AI 晶片或系統是否能有效支援這類模型，並探索潛在的合作機會。"
+      "why_it_matters": "AI模型在網路安全領域的突破，可能改變未來安全系統的設計方式，甚至影響我們產品內建的安全模組，提高抵禦攻擊的能力或提供新的安全功能。",
+      "action_suggestion": "評估新的AI模型在增強嵌入式系統安全性方面的潛力，研究如何將其集成到我們的安全策略或產品功能中。"
     },
     {
-      "title": "My favorite robot vacuum just got quieter, and more expensive",
-      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
+      "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+      "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
       "source": "The Verge",
-      "published_at": "2026-10-27T16:39:00+08:00",
-      "summary": "Matic 推出新款 Serene 掃地機器人，主要升級為降噪功能，最高吸力僅 52 分貝，但價格也更貴。",
+      "published_at": "2026-10-28T15:37:00+08:00",
+      "summary": "美國政府考慮禁止中國製造的消費性電子產品（如無人機、路由器、掃地機器人）進入美國市場，因為國家安全顧慮。",
       "keywords": [
-        "掃地機器人",
-        "嵌入式系統",
-        "硬體設計",
-        "降噪技術",
+        "FCC",
+        "貿易禁令",
+        "中國科技",
+        "供應鏈風險",
+        "國家安全"
+      ],
+      "category": "Other",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "美國對中國科技產品的禁令將直接影響全球供應鏈和市場準入。這對我們的零組件採購、生產地點選擇、產品市場策略以及與供應商的合作模式都構成重大風險和挑戰。",
+      "action_suggestion": "立即評估當前及未來專案中中國製零組件和產品的依賴度，制定供應鏈多元化策略和風險應對計畫，確保產品符合不同地區的監管要求。"
+    },
+    {
+      "title": "Hands-on with the new OLED iPad Mini",
+      "url": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
+      "source": "The Verge",
+      "published_at": "2026-10-28T17:15:00+08:00",
+      "summary": "蘋果推出第八代 iPad Mini，配備更大的 OLED 顯示螢幕和可選的奈米紋理霧面塗層，提供出色的視覺體驗。",
+      "keywords": [
+        "Apple",
+        "iPad Mini",
+        "OLED顯示",
+        "平板電腦",
         "消費電子"
       ],
-      "category": "Edge",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "消費性邊緣裝置對使用者體驗（如噪音控制）要求日益提高，這提醒我們在硬體設計中必須關注細節，如機械結構、馬達和風道設計對噪音的影響，並在成本與性能之間取得平衡。",
-      "action_suggestion": "研發部門應深入研究各種降噪技術，並在未來的產品設計中，特別是馬達或風扇相關的裝置，將低噪音作為重要設計指標。"
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "蘋果將 OLED 技術應用於 iPad Mini，再次印證了小型裝置對高品質顯示的需求，這對我們未來嵌入式產品的顯示器選型和用戶體驗設計具有參考價值。",
+      "action_suggestion": "追蹤小型 OLED 顯示器的技術成熟度與供應鏈，考慮其在下一代嵌入式 HMI（人機介面）產品中的應用潛力。"
     },
     {
-      "title": "We&#8217;ve had touchscreen laptops for years. Can Apple make them better?",
-      "url": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
-      "source": "The Verge",
-      "published_at": "2026-10-27T09:59:00+08:00",
-      "summary": "蘋果預計將推出觸控螢幕 MacBook，外界關注蘋果將如何在此既有市場中提供差異化及更好的用戶體驗。",
+      "title": "Battery Prototype Uses Superextensive Quantum Effects to Charge Faster",
+      "url": "https://hackaday.com/?p=1143041",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "一項新的電池原型利用「超廣泛量子效應」實現更快的充電速度，有望突破傳統電池技術限制。",
       "keywords": [
-        "觸控螢幕",
-        "MacBook",
-        "蘋果",
-        "人機介面",
-        "硬體設計"
+        "量子電池",
+        "充電技術",
+        "電池技術",
+        "儲能",
+        "電源管理"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "電池技術的突破對於需要高效能、快速充電的嵌入式和邊緣設備至關重要，可以顯著提升我們產品的續航能力和用戶體驗。",
+      "action_suggestion": "密切追蹤量子電池及其他新型電池技術的發展，評估其商業化潛力、安全性及在我們產品中應用的時間表。"
+    },
+    {
+      "title": "Hacking the Modern Tamagotchi With UART",
+      "url": "https://hackaday.com/?p=1396582",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "一篇文章展示如何透過 UART 接口破解現代 Tamagotchi 掌上遊戲機，揭露嵌入式系統的潛在漏洞。",
+      "keywords": [
+        "Tamagotchi",
+        "駭客",
+        "UART",
+        "嵌入式安全",
+        "逆向工程"
+      ],
+      "category": "Edge",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "透過 UART 接口進行硬體破解是嵌入式系統常見的漏洞之一。這提醒我們在設計產品時，需要更嚴謹地考慮實體介面和除錯端口的安全性。",
+      "action_suggestion": "檢視產品在生產和部署階段的除錯介面安全策略，確保敏感介面如 UART 在最終產品中得到適當的保護或禁用。"
+    },
+    {
+      "title": "Does Running an E-Paper Display at 30 FPS Destroy It?",
+      "url": "https://hackaday.com/?p=1396541",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "一篇文章探討以 30 FPS 的幀率驅動廉價電子紙顯示器是否會損壞它，影響其低功耗應用。",
+      "keywords": [
+        "電子紙",
+        "E-Paper",
+        "顯示器",
+        "幀率",
+        "壽命",
+        "低功耗"
       ],
       "category": "Hardware",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "蘋果在產品設計上的影響力巨大，如果它能成功提升觸控筆電的使用者體驗，將為我們在嵌入式系統中設計觸控介面提供新的思考方向和技術借鑒。",
-      "action_suggestion": "關注蘋果觸控 MacBook 的發布，分析其在觸控技術、軟硬體整合和使用者介面設計上的創新，評估對我們產品設計的潛在啟示。"
+      "why_it_matters": "電子紙顯示器在低功耗嵌入式裝置中具有潛力，這項研究直接影響我們對其性能極限和壽命的評估，對於成本和產品設計選擇很重要。",
+      "action_suggestion": "深入了解電子紙顯示器的驅動機制和壽命影響因素，為在低功耗顯示應用中選擇和設計電子紙顯示器提供依據。"
     },
     {
-      "title": "Airborne Particle Monitoring, the BIG way",
-      "url": "https://hackaday.com/?p=1394024",
+      "title": "C64 Keycaps For Everybody",
+      "url": "https://hackaday.com/?p=1396475",
       "source": "Hackaday",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "空氣微粒是工作場所的健康危害，因此除了良好通風外，監測其濃度也至關重要。",
+      "published_at": null,
+      "summary": "一個開源專案提供 Commodore 64 風格的鍵帽設計，可用於 MX 軸鍵盤，滿足復古愛好者需求。",
       "keywords": [
-        "空氣品質",
-        "感測器",
-        "環境監測",
-        "嵌入式系統",
-        "物聯網"
-      ],
-      "category": "Edge",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "環境感測和監測是嵌入式系統的重要應用領域，這類裝置的設計考量包含感測器精度、功耗、資料傳輸和長期穩定性，對我們開發 IoT 設備有直接參考價值。",
-      "action_suggestion": "評估現有感測器技術和解決方案，考慮開發高精度、低功耗的空氣微粒監測模組，或將其整合到現有物聯網產品線中。"
-    },
-    {
-      "title": "How a Single University Project Started Everything",
-      "url": "https://hackaday.com/?p=1394036",
-      "source": "Hackaday",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "探討無處不在的個人計算起源，指出一個大學專案可能是其真正的起始點，而非僅僅是 IBM PC。",
-      "keywords": [
-        "電腦歷史",
-        "個人計算",
-        "創新起源"
+        "C64",
+        "鍵帽",
+        "開源設計",
+        "3D列印",
+        "復古"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "啟發我們思考技術創新的源頭，但對當前研發無直接影響。",
+      "why_it_matters": "純粹的愛好者專案，與我們的硬體/嵌入式系統研發無關。",
       "action_suggestion": "無。"
     },
     {
-      "title": "2026 Retrocomputing Challenge: Explore Space with a Credit Card Reader",
-      "url": "https://hackaday.com/?p=1394014",
+      "title": "Turning an Old Phone’s Motherboard into an RC Plane Controller",
+      "url": "https://hackaday.com/?p=1394030",
       "source": "Hackaday",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "復古計算挑戰鼓勵愛好者將舊硬體（如信用卡讀卡機）重新用於創意專案，探索新用途。",
+      "published_at": null,
+      "summary": "一個專案展示如何將舊手機主機板改造為遙控飛機控制器，突顯智慧手機硬體的再利用價值。",
       "keywords": [
-        "舊硬體利用",
-        "硬體改造",
-        "嵌入式系統",
-        "創意發想"
+        "手機改造",
+        "RC遙控",
+        "硬體再利用",
+        "嵌入式專案",
+        "DIY"
       ],
-      "category": "Hardware",
+      "category": "Edge",
       "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "提醒我們在設計中可以更有創意地思考如何利用現有或低成本的硬體資源，激發發散性思維，有助於原型開發和成本敏感型項目。",
-      "action_suggestion": "鼓勵團隊成員參與這類硬體改造或逆向工程專案，激發創意，並探索如何在資源受限的環境下實現創新功能。"
+      "impact": "Low",
+      "why_it_matters": "這顯示了消費級硬體（如智慧手機晶片組）在嵌入式應用中的潛力，特別是其集成的感測器和無線通信模組，可以作為我們設計低成本原型或特定功能模組的參考。",
+      "action_suggestion": "探索舊手機或現有消費級硬體的模組化應用，研究其在成本敏感或快速原型開發專案中的可行性。"
     },
     {
-      "title": "Where Did Your Mouse Come From?",
-      "url": "https://hackaday.com/?p=1393991",
+      "title": "JPEG-XL Is Back On The Menu",
+      "url": "https://hackaday.com/?p=1396498",
       "source": "Hackaday",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "文章回顧了 Douglas Englebart 在 1968 年展示的「所有演示之母」，其中介紹了滑鼠等多項基礎計算技術。",
+      "published_at": null,
+      "summary": "JPEG-XL 是一種新的圖像格式，有望在效率和功能上超越現有格式，並重新獲得關注。",
       "keywords": [
-        "滑鼠歷史",
-        "人機介面",
-        "計算機史"
+        "JPEG-XL",
+        "圖像格式",
+        "圖片壓縮",
+        "軟體標準",
+        "多媒體"
       ],
-      "category": "Other",
+      "category": "Software",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "了解人機介面設計的歷史演變，但對當前研發無直接影響。",
+      "why_it_matters": "儘管是軟體層面的圖像編碼格式，但高效的圖像壓縮格式對於資源有限的嵌入式系統（例如，邊緣AI視覺）可以減少存儲和傳輸負擔。",
+      "action_suggestion": "了解 JPEG-XL 的技術特性，作為未來考慮圖像處理密集型嵌入式系統時的潛在優化選項。"
+    },
+    {
+      "title": "Emulate the 486 in Your Browser",
+      "url": "https://hackaday.com/?p=1396474",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "一個基於瀏覽器的模擬器允許用戶在瀏覽器中體驗 Intel 486 硬體，重溫經典電腦。",
+      "keywords": [
+        "486模擬器",
+        "瀏覽器模擬",
+        "復古電腦",
+        "軟體模擬"
+      ],
+      "category": "Software",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "純粹的軟體模擬專案，與我們的硬體/嵌入式系統研發無關。",
       "action_suggestion": "無。"
-    },
-    {
-      "title": "How Bad Is That Bridge: A Government Database",
-      "url": "https://hackaday.com/?p=1354405",
-      "source": "Hackaday",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "橋樑是關鍵基礎設施，監測其狀況至關重要。文章提到政府資料庫用於追蹤橋樑完整性。",
-      "keywords": [
-        "基礎設施",
-        "監測系統",
-        "物聯網",
-        "感測器",
-        "嵌入式系統"
-      ],
-      "category": "Edge",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "基礎設施監測是嵌入式系統的重要應用領域，這類系統需要極高的可靠性、抗環境能力和長壽命，對我們設計相關解決方案有參考價值。",
-      "action_suggestion": "研究基礎設施監測領域的感測器技術、無線通訊協定和電源管理方案，評估開發相關邊緣監測設備的機會。"
-    },
-    {
-      "title": "SIMD-accelerated Machine Vision on an ESP32-S3",
-      "url": "https://hackaday.com/?p=1393933",
-      "source": "Hackaday",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "Shraiwi 利用 ESP32-S3 的 SIMD 指令集，實現了高效的 FAST 機器視覺演算法，展示底層晶片優化能力。",
-      "keywords": [
-        "ESP32-S3",
-        "SIMD",
-        "機器視覺",
-        "邊緣運算",
-        "晶片最佳化",
-        "嵌入式系統"
-      ],
-      "category": "Chip",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "該案例展示了在低功耗嵌入式晶片（如 ESP32 系列）上透過 SIMD 等硬體加速技術實現高效機器視覺的可能性，對我們開發邊緣 AI 應用至關重要。",
-      "action_suggestion": "深入研究 ESP32-S3 或其他低功耗晶片的 SIMD/DSP 功能，評估其在我們邊緣 AI 專案中的應用潛力，並鼓勵團隊成員探索底層演算法最佳化以提升性能。"
-    },
-    {
-      "title": "ESP32 Rotary Display Makes Ideal Timer",
-      "url": "https://hackaday.com/?p=1393924",
-      "source": "Hackaday",
-      "published_at": "2024-10-27T00:00:00+08:00",
-      "summary": "一個使用 ESP32 和旋轉顯示器的計時器裝置，展示了硬體設計如何實現精確功能與良好人機介面。",
-      "keywords": [
-        "ESP32",
-        "嵌入式系統",
-        "人機介面",
-        "旋轉顯示器",
-        "硬體設計"
-      ],
-      "category": "Edge",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "案例展示了 ESP32 在消費性嵌入式裝置中的應用，以及如何透過創意的人機介面（旋轉顯示器）提升使用者體驗，對於我們設計產品原型和小型智慧裝置有直接參考價值。",
-      "action_suggestion": "探索 ESP32 及其周邊生態系統，評估其在我們未來嵌入式產品中的應用潛力，尤其是在低成本、高整合度且具備創新人機介面的裝置上。"
     }
   ]
 }
