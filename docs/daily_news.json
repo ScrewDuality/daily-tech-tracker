@@ -1,264 +1,520 @@
 {
-  "timestamp": "2026-11-05T13:38:53.514520+08:00",
-  "date": "2026-11-05",
+  "timestamp": "2026-11-06T13:35:50.081101+08:00",
+  "date": "2026-11-06",
   "articles": [
     {
-      "title": "Intel 股價月崩 50% 陳立武逆勢砸近千萬美元買股",
-      "url": "https://technews.tw/?p=1645577",
+      "title": "Anthropic 遇 AI 股慘崩逆風、傳 IPO 估值恐少逾 3 成",
+      "url": "https://technews.tw/?p=1646611",
       "source": "TechNews",
-      "published_at": "",
-      "summary": "Intel 股價在一個月內暴跌超過 50%，但執行長陳立武卻選擇逆勢加碼買進近千萬美元股票。",
+      "published_at": null,
+      "summary": "AI 概念股近期遭猛烈拋售，衝擊 AI 新創 Anthropic 的上市計畫，市場謠傳其 IPO 估值可能大幅降低逾三成。",
       "keywords": [
-        "Intel",
-        "晶片",
-        "半導體",
-        "市場動態"
+        "AI 投資",
+        "股價",
+        "IPO",
+        "Anthropic",
+        "市場趨勢"
       ],
-      "category": "Chip",
+      "category": "AI",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞反映了 AI 產業的投資情緒波動，可能間接影響未來募資或潛在合作夥伴的財務穩定性，提醒我們在評估外部合作時需考量市場信心。",
+      "action_suggestion": "持續觀察 AI 產業的整體投資動態，評估潛在技術合作夥伴的財務健康狀況與市場估值。"
+    },
+    {
+      "title": "工研院攜手五所大學推動綠能技術，聚焦 AI 節能、氫能與地熱開發",
+      "url": "https://technews.tw/?p=1645919",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "工研院與臺灣大學等五所大學合作，共同推動綠能技術研發，主要聚焦在 AI 節能、氫能和地熱開發等領域。",
+      "keywords": [
+        "綠能",
+        "AI 節能",
+        "工研院",
+        "產學合作",
+        "能源效率"
+      ],
+      "category": "AI",
       "rd_relevance": "Medium",
       "impact": "Low",
-      "why_it_matters": "作為重要的晶片供應商與競爭者，Intel 的財務表現與管理層信心訊號，可能預示其長期策略與市場地位的變化，進而影響我們未來晶片選型及供應鏈評估。",
-      "action_suggestion": "持續關注 Intel 的財務報告、技術路線圖及市場戰略，評估其在 CPU 和 AI 晶片市場的競爭力及潛在合作機會。"
+      "why_it_matters": "AI 節能技術對於我們設計高效能、低功耗的嵌入式系統和邊緣裝置至關重要，可作為未來產品在功耗優化方面的參考方向。",
+      "action_suggestion": "關注工研院與大學在 AI 節能技術上的最新研究成果，探索其在低功耗 AI 硬體或演算法層面的應用潛力。"
     },
     {
-      "title": "Figma 財報不俗、盤後仍跌 AI 成本侵蝕毛利率",
-      "url": "https://technews.tw/?p=1645338",
+      "title": "OpenAI 推 GPT-6 Cyber 模型，助研究人員挖出 81 個 Firefox 漏洞",
+      "url": "https://technews.tw/?p=1646607",
       "source": "TechNews",
-      "published_at": "",
-      "summary": "UI/UX 軟體設計商 Figma 儘管營收與獲利超出預期，但高昂的 AI 投資成本侵蝕了其毛利率，導致盤後股價下跌。",
+      "published_at": null,
+      "summary": "OpenAI 推出新型 GPT-6 Cyber 模型，在網路安全領域表現出色，成功協助研究人員發現 Firefox 中的 81 個漏洞。",
       "keywords": [
-        "AI成本",
-        "毛利率",
-        "AI終端應用",
-        "硬體效益"
+        "OpenAI",
+        "GPT-6 Cyber",
+        "網路安全",
+        "AI 應用",
+        "漏洞偵測"
       ],
       "category": "AI",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "這凸顯了 AI 技術應用所需的高昂成本，即使是軟體服務也面臨此挑戰。這提醒我們在開發邊緣 AI 終端應用時，必須高度重視硬體加速的效率和成本控制，以確保商業可行性。",
-      "action_suggestion": "深入研究各類邊緣 AI 晶片的性價比與功耗表現，評估如何透過硬體設計及軟體優化來降低 AI 運算成本，提升產品毛利率。"
+      "why_it_matters": "AI 輔助的安全漏洞偵測工具，將是未來提升嵌入式系統韌體和軟體安全性的重要趨勢，能顯著提高產品的可靠性與強韌性。",
+      "action_suggestion": "研究 AI 輔助安全檢測工具的最新技術與應用案例，評估其在我們產品開發流程中，特別是韌體與軟體安全測試方面的潛在導入價值。"
     },
     {
-      "title": "DeepSeek 堅守開源路線加速 AGI 發展：真正對手是「時間」而非同行",
-      "url": "https://technews.tw/?p=1645397",
+      "title": "Switch 2 銷量暴減 4 成  任天堂：目前沒考慮追加漲價",
+      "url": "https://technews.tw/?p=1646539",
       "source": "TechNews",
-      "published_at": "",
-      "summary": "DeepSeek 研究工程師高熙重申公司將堅定推動開源 AI 路線以加速 AGI 發展，認為真正的競爭對手是時間而非同行。",
+      "published_at": null,
+      "summary": "任天堂 Switch 2 遊戲機在今年上半年的全球銷量大幅下滑近四成，但公司表示目前不考慮再追加漲價。",
       "keywords": [
-        "開源AI",
-        "AGI",
-        "模型發展",
-        "硬體支援"
-      ],
-      "category": "AI",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "開源 AI 模型和框架的普及將大幅降低 AI 技術的應用門檻，這對我們在嵌入式系統和邊緣裝置上部署 AI 應用提供了更多選擇和彈性，但同時也要求我們的硬體設計能支援多樣化的 AI 模型。",
-      "action_suggestion": "持續追蹤主流開源 AI 模型（如 LLM、視覺模型）的發展，評估其對邊緣運算硬體資源的需求，並研究如何透過硬體加速和軟體最佳化來有效部署這些模型。"
-    },
-    {
-      "title": "微軟 Xbox Nano 迷你手把上架，隱藏 Wi-Fi 直連雲端遊戲功能",
-      "url": "https://technews.tw/?p=1645344",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "微軟推出口袋尺寸的 Xbox Nano 控制器，具備 Wi-Fi 直連雲端遊戲功能，售價 49.99 美元。",
-      "keywords": [
-        "Xbox",
-        "雲端遊戲",
-        "Wi-Fi直連",
-        "嵌入式硬體",
-        "低延遲"
+        "任天堂",
+        "Switch 2",
+        "遊戲機",
+        "銷售量",
+        "消費電子"
       ],
       "category": "Hardware",
-      "rd_relevance": "High",
-      "impact": "Medium",
-      "why_it_matters": "這款迷你控制器展示了小型化、低延遲無線連接技術在邊緣裝置上的潛力，特別是其 Wi-Fi 直連雲端遊戲的功能，為我們設計需要穩定、快速雲端互動的嵌入式產品提供了參考。",
-      "action_suggestion": "研究 Xbox Nano 的無線通訊架構與低延遲設計，探討 Wi-Fi Direct 或類似技術在我們未來邊緣運算或 IoT 裝置中實現直接雲端互動的可能性。"
-    },
-    {
-      "title": "手機一週只充一次電？榮耀傳測試 15,000mAh 超狂電池",
-      "url": "https://technews.tw/?p=1645383",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "傳聞榮耀正在測試一款搭載 15,000mAh 超大容量電池的手機，目標是實現一周只需充電一次的續航力。",
-      "keywords": [
-        "電池技術",
-        "續航力",
-        "電源管理",
-        "硬體研發"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "電池續航力是所有可攜式和嵌入式裝置的關鍵痛點。15,000mAh 大容量電池的潛在突破，若能普及，將徹底改變我們對產品設計中功耗管理和電池尺寸的考量，大幅提升產品的實用性和用戶體驗。",
-      "action_suggestion": "密切追蹤高能量密度電池技術的最新進展和商用化時程，評估其對我們下一代產品的電源設計、外觀尺寸及成本效益的潛在影響。"
-    },
-    {
-      "title": "豪砸百億美元重兵部署，SK 集團會長崔泰源親任美國 AI 子公司「HYAICO」董座",
-      "url": "https://technews.tw/?p=1645376",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "SK 海力士母公司 SK 集團會長崔泰源親自出任其美國 AI 子公司 HYAICO 董座，豪擲百億美元加速在美 AI 投資布局。",
-      "keywords": [
-        "SK海力士",
-        "AI投資",
-        "記憶體",
-        "供應鏈",
-        "晶片設計"
-      ],
-      "category": "AI",
       "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "SK 集團作為記憶體巨頭，在 AI 領域的大規模戰略性投資，預示著 AI 專用記憶體（如 HBM）和相關硬體技術的加速發展。這將直接影響未來 AI 晶片設計和高性能嵌入式系統的記憶體供應與成本。",
-      "action_suggestion": "密切關注 SK 海力士在 AI 記憶體（HBM）和其他 AI 相關晶片組件的技術發展及供應鏈變化，預先評估對我們未來產品成本和效能的影響，並探索潛在的合作機會。"
+      "impact": "Low",
+      "why_it_matters": "雖然非我司產品，但消費性電子硬體的銷售下滑可能反映了市場飽和、通膨或供應鏈成本等宏觀經濟因素，值得我們作為硬體市場趨勢的觀察指標。",
+      "action_suggestion": "持續關注消費性電子市場的整體趨勢，特別是記憶體、被動元件等通用零組件的價格與需求變化，以預判潛在的供應鏈風險。"
     },
     {
-      "title": "金融資安危機連環爆，研究：系統漏洞成駭客主要入侵管道",
-      "url": "https://technews.tw/?p=1645405",
+      "title": "AI 基建疑慮導致 Bloom Energy 崩跌  可能錯殺？",
+      "url": "https://technews.tw/?p=1646470",
       "source": "TechNews",
-      "published_at": "",
-      "summary": "研究顯示系統漏洞已成為駭客入侵金融機構的主要管道，凸顯數位化便利性帶來的複雜資安挑戰。",
+      "published_at": null,
+      "summary": "市場對資料中心發展前景的疑慮導致燃料電池大廠 Bloom Energy 股價暴跌，但有分析師認為這可能是市場的過度反應。",
       "keywords": [
-        "資安",
-        "系統漏洞",
-        "嵌入式安全",
-        "韌體安全"
-      ],
-      "category": "Software",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "無論是金融業還是我們的嵌入式系統，軟體漏洞都是潛在的重大資安風險。這提醒我們在硬體和韌體設計階段，必須將安全視為核心考量，從根源上堵住可能的入侵管道，特別是在邊緣裝置越來越多樣化的連接情境下。",
-      "action_suggestion": "審查現有及未來產品的資安設計規範，確保硬體層面的安全啟動、韌體加密、安全更新機制及軟體漏洞管理流程的到位，並進行定期資安評估。"
-    },
-    {
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "source": "The Verge",
-      "published_at": "2026-11-04T17:42:00+08:00",
-      "summary": "由於智慧型手機銷售下滑，高通正大力押注資料中心市場，透過與亞馬遜和 Meta 等公司合作，拓展其 AI 資料中心業務。",
-      "keywords": [
-        "Qualcomm",
+        "AI 基建",
         "資料中心",
-        "AI晶片",
-        "ARM伺服器",
+        "燃料電池",
+        "能源解決方案",
+        "市場疑慮"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "AI 基礎設施的龐大能源需求是長期趨勢，燃料電池等新興能源方案若能普及，可能影響未來大型計算硬體的設計要求，但目前對我們影響不大。",
+      "action_suggestion": "無需立即行動，但可持續關注 AI 資料中心的能源解決方案發展，特別是其成本效益與部署可行性。"
+    },
+    {
+      "title": "CSP 資本支出暴增、MLCC 明年需求續旺？TrendForce 大預測一次看（下）",
+      "url": "https://technews.tw/?p=1646581",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "TrendForce 預測雲端服務供應商 (CSP) 資本支出將大幅增加，預期 AI 相關晶圓代工和 MLCC 等關鍵零組件需求將持續旺盛至明年。",
+      "keywords": [
+        "CSP",
+        "資本支出",
+        "MLCC",
+        "晶圓代工",
+        "TrendForce",
         "供應鏈"
       ],
-      "category": "Chip",
+      "category": "Supply Chain",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "高通作為領先的晶片供應商，將戰略重心轉向資料中心 AI，這預示著 ARM 架構在 AI 伺服器領域的快速崛起。此舉可能加速邊緣 AI 晶片技術的下放與整合，為我們未來的產品設計提供更多高性能、低功耗的選擇，並影響晶片供應格局。",
-      "action_suggestion": "密切追蹤高通在資料中心 AI 晶片領域的產品路線圖和合作夥伴動態，評估其新技術對邊緣 AI 運算晶片的影響，並研究 ARM 處理器在高效能應用中的潛力。"
+      "why_it_matters": "CSP 資本支出增加直接驅動 AI 伺服器與相關晶片需求，連帶影響 MLCC 等關鍵被動元件的供應與價格，對我們的硬體設計選型和供應鏈管理有直接且重大的影響。",
+      "action_suggestion": "密切關注 MLCC 等關鍵零組件的供應商交期與價格變動，立即與採購部門協調，評估長期供應穩定性，必要時制定替代料件策略或調整產品設計，以降低供應風險。"
     },
     {
-      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
-      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "source": "The Verge",
-      "published_at": "2026-11-04T15:23:00+08:00",
-      "summary": "AT&T 的智慧家庭安全系統現已整合 Google 的 Gemini for Home，可提供事件摘要、影片歷史搜尋等多項由 AI 驅動的功能。",
+      "title": "業餘無線電玩家對衛星喊話，ESA 衛星首度聽懂語音指令並啟動《毀滅戰士》",
+      "url": "https://technews.tw/?p=1646532",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "一群業餘無線電愛好者成功透過語音指令，讓歐洲太空總署 (ESA) 的實驗衛星聽懂指令並啟動了《毀滅戰士》遊戲。",
       "keywords": [
-        "智慧家庭",
-        "Gemini AI",
-        "邊緣AI應用",
-        "IoT安全"
+        "衛星通訊",
+        "語音控制",
+        "ESA",
+        "嵌入式系統",
+        "邊緣運算"
+      ],
+      "category": "Edge",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "這展示了在遠端、低頻寬環境下，語音指令控制嵌入式系統的潛力。對於未來複雜邊緣裝置的遠端維護、診斷或創新的人機介面設計，具有一定的啟發性。",
+      "action_suggestion": "雖然是趣味性新聞，但可思考在我們某些特定嵌入式應用場景中（例如惡劣環境、遠端部署），探索語音互動或低頻寬指令控制的可行性。"
+    },
+    {
+      "title": "蘋果擬發債籌 75 億美元，加入科技業 AI 募資行列",
+      "url": "https://technews.tw/?p=1646568",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "蘋果公司正計劃透過發行七批美元債券籌集約 75 億美元資金，以加入科技業積極投入 AI 研發和應用的行列。",
+      "keywords": [
+        "蘋果",
+        "募資",
+        "AI 投資",
+        "科技巨頭",
+        "資金流向"
+      ],
+      "category": "AI",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "科技巨頭的大額 AI 投資再次確認 AI 仍是未來主要技術趨勢，預期這將進一步推動 AI 相關硬體與軟體的需求增長。",
+      "action_suggestion": "了解主要科技公司在 AI 領域的投資方向和技術佈局，以預判未來 AI 硬體市場的技術熱點和標準。"
+    },
+    {
+      "title": "MLCC 訂單飆／BB 值破表  太陽誘電升財測、加快擴產",
+      "url": "https://technews.tw/?p=1646397",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "受惠於 AI 伺服器需求的帶動，積層陶瓷電容 (MLCC) 訂單飆增，日本太陽誘電的 BB 值突破紀錄，並上修財測和加速擴產計畫。",
+      "keywords": [
+        "MLCC",
+        "AI 伺服器",
+        "太陽誘電",
+        "被動元件",
+        "擴產",
+        "供應鏈"
+      ],
+      "category": "Supply Chain",
+      "rd_relevance": "High",
+      "impact": "High",
+      "why_it_matters": "MLCC 作為我們硬體產品中不可或缺的關鍵被動元件，其需求飆升和供應商擴產直接影響我們的物料成本、交期和供應鏈穩定性。",
+      "action_suggestion": "立即與採購部門協同，深入了解 MLCC 的現有庫存、未來的供貨狀況與價格趨勢，並評估現有專案的 MLCC 使用量及潛在的替代方案，確保物料供應無虞。"
+    },
+    {
+      "title": "一句提示詞防堵 AI 失控，實測證實「先詢問再行動」能有效攔截未授權操作",
+      "url": "https://technews.tw/?p=1646521",
+      "source": "TechNews",
+      "published_at": null,
+      "summary": "研究實測證明，透過在 AI 代理中引入「先詢問再行動」的提示詞機制，可有效防止 AI 執行未經授權的操作，從而提升安全性。",
+      "keywords": [
+        "AI 代理",
+        "提示詞工程",
+        "AI 安全",
+        "授權控制",
+        "人機互動"
       ],
       "category": "AI",
       "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "這展示了 AI 如何實際應用於智慧家庭和物聯網領域，透過智慧化分析提升用戶體驗和系統功能。這些 AI 驅動的應用案例為我們在邊緣裝置上設計更智能、更具附加價值的產品提供了寶貴的參考。",
-      "action_suggestion": "研究 Gemini for Home 在智慧家庭安全系統中的 AI 功能實現方式，評估這些應用場景對我們邊緣 AI 裝置的運算能力、感測器整合和資料處理的需求。"
+      "why_it_matters": "對於我們將 AI 助理或代理功能導入嵌入式系統或邊緣裝置時，如何設計安全、可控且用戶友好的 AI 互動介面至關重要，此機制可作為參考。",
+      "action_suggestion": "在規劃具備 AI 代理功能的產品時，應將「確認機制」或「人類干預點」納入設計考量，以防止誤操作或未經授權的行為，增強產品的可靠性與用戶信任。"
     },
     {
-      "title": "Xbox previews two new ways to control cloud games",
-      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+      "title": "Airbnb is working on an AI travel agent",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
       "source": "The Verge",
-      "published_at": "2026-11-04T14:01:00+08:00",
-      "summary": "微軟正式公開 Xbox Nano 控制器將支援 Wi-Fi 直連 Xbox 雲端遊戲，同時也將允許手機作為智慧電視的雲端遊戲控制器。",
+      "published_at": "2026-11-05T19:06:00+08:00",
+      "summary": "Airbnb 計劃於 2027 年上半年推出 AI 旅行代理，旨在協助用戶規劃和預訂旅行行程。",
       "keywords": [
-        "Xbox",
-        "雲端遊戲",
-        "Wi-Fi直連",
-        "邊緣運算",
-        "無線通訊"
+        "Airbnb",
+        "AI 代理",
+        "旅行規劃",
+        "應用服務",
+        "生成式 AI"
       ],
-      "category": "Hardware",
-      "rd_relevance": "High",
+      "category": "AI",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "雖然是應用服務層面，但像 Airbnb 這樣的大公司投入 AI 代理服務，顯示 AI 應用將更普及，這會間接帶動對底層 AI 硬體（包括邊緣設備）的需求。",
+      "action_suggestion": "了解 AI 服務的發展方向，思考如何將我們的硬體平台與這些新興服務應用結合，以尋找潛在的市場機會。"
+    },
+    {
+      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+      "source": "The Verge",
+      "published_at": "2026-11-05T18:45:00+08:00",
+      "summary": "紐約時報公司正就以約 3.3 億美元收購電影愛好者社交網絡 Letterboxd 進行獨家談判。",
+      "keywords": [
+        "併購",
+        "紐約時報",
+        "Letterboxd",
+        "媒體",
+        "社群平台"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為媒體產業的併購新聞，與硬體研發、晶片設計或供應鏈變化無直接關聯。",
+      "action_suggestion": "無需行動。"
+    },
+    {
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "source": "The Verge",
+      "published_at": "2026-11-05T18:17:00+08:00",
+      "summary": "T-Mobile 母公司對 Elon Musk 推出無線電信商表示懷疑，認為 Starlink Mobile 將面臨巨大成本挑戰。",
+      "keywords": [
+        "T-Mobile",
+        "Elon Musk",
+        "Starlink Mobile",
+        "無線電信",
+        "衛星通訊"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "雖然是電信營運商層面的競爭，但 Starlink 等低軌衛星通訊技術的發展，可能為未來物聯網邊緣設備提供更多元的連接選項，值得我們持續關注。",
+      "action_suggestion": "持續關注低軌衛星通訊技術的發展與商業模式，評估其在我們特定嵌入式應用場景下的潛在價值與可行性。"
+    },
+    {
+      "title": "Salon is shutting down after 31 years",
+      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+      "source": "The Verge",
+      "published_at": "2026-11-05T17:17:00+08:00",
+      "summary": "網路新聞雜誌 Salon 在營運 31 年後宣布停刊，原因是獨立數位新聞的商業模式已不再可持續。",
+      "keywords": [
+        "數位媒體",
+        "停刊",
+        "商業模式",
+        "新聞業"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為媒體產業的商業新聞，與硬體研發、晶片設計或供應鏈變化無直接關聯。",
+      "action_suggestion": "無需行動。"
+    },
+    {
+      "title": "The midterms proved once and for all that X is not real life",
+      "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+      "source": "The Verge",
+      "published_at": "2026-11-05T16:54:00+08:00",
+      "summary": "一篇評論指出，美國期中選舉結果證明社群媒體平台 X 上的輿論並不能完全代表真實世界的政治走向。",
+      "keywords": [
+        "社群媒體",
+        "期中選舉",
+        "輿論",
+        "X 平台"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為社群媒體與政治評論，與硬體研發、晶片設計或供應鏈變化無直接關聯。",
+      "action_suggestion": "無需行動。"
+    },
+    {
+      "title": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "source": "The Verge",
+      "published_at": "2026-11-05T17:45:00+08:00",
+      "summary": "Meta 宣布推出 Muse AI 代理的語音模式，用戶現在可以與其進行即時語音對話。",
+      "keywords": [
+        "Meta",
+        "Muse AI",
+        "語音助理",
+        "AI 代理",
+        "語音互動"
+      ],
+      "category": "AI",
+      "rd_relevance": "Medium",
       "impact": "Medium",
-      "why_it_matters": "這項技術強調了邊緣裝置與雲端服務之間低延遲、高效率連接的重要性，尤其 Wi-Fi 直連模式減少了對中介設備的依賴。這對我們在設計下一代需要緊密雲端協作的嵌入式系統時，提供了在無線通訊架構上的新思路和技術參考。",
-      "action_suggestion": "深入分析 Xbox Nano 的 Wi-Fi 直連技術細節，研究其在低延遲傳輸和使用者體驗上的優勢，並評估此技術在我們其他邊緣裝置產品線上的應用可行性。"
+      "why_it_matters": "語音互動是邊緣 AI 裝置重要的人機介面之一，Meta 在此方面的進展值得我們關注，以思考如何將更自然、即時的語音處理能力整合到我們的硬體平台。",
+      "action_suggestion": "評估語音 AI 技術的最新發展，探索在我們的嵌入式產品中整合更自然、即時語音互動介面的可能性，研究相關的硬體加速與軟體框架。"
     },
     {
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "title": "TikTok launched a dedicated TikTok Shop app",
+      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
       "source": "The Verge",
-      "published_at": "2026-11-04T13:51:00+08:00",
-      "summary": "Nothing 執行長 Carl Pei 預告公司將於下月推出首款無螢幕 AI 裝置，這是一款 AI 原生設備，具有特定 AI 作業系統。",
+      "published_at": "2026-11-05T12:27:00+08:00",
+      "summary": "TikTok 已在部分國家推出獨立的 TikTok Shop 應用程式，提供個性化商品推薦、直播和專屬優惠。",
       "keywords": [
-        "無螢幕裝置",
-        "AI原生",
-        "邊緣AI",
-        "硬體創新",
-        "人機介面"
+        "TikTok",
+        "TikTok Shop",
+        "電子商務",
+        "應用程式",
+        "社群電商"
       ],
-      "category": "Edge",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "無螢幕 AI 裝置的出現代表了邊緣 AI 應用的一個全新設計範式，可能重新定義人機互動。這挑戰我們思考硬體設計如何更自然地與 AI 融合，探索新穎的感測器整合和互動模型，對我們未來產品的形態和功能有極大的啟發意義。",
-      "action_suggestion": "密切關注 Nothing 無螢幕 AI 裝置的發布，分析其產品定位、核心 AI 功能和使用者體驗設計，研究其對我們未來邊緣 AI 裝置產品線的創新啟示。"
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為社群媒體平台的商業策略，與硬體研發、晶片設計或供應鏈變化無直接關聯。",
+      "action_suggestion": "無需行動。"
     },
     {
-      "title": "It’s DOOM, on a Toy Camera",
-      "url": "https://hackaday.com/?p=1397662",
-      "source": "Hackaday",
-      "published_at": "",
-      "summary": "有人成功將經典遊戲 DOOM 移植到一台廉價的玩具相機上，展示了在極限硬體條件下進行改造的可能性。",
+      "title": "Nintendo says it’s not planning another Switch 2 price hike",
+      "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
+      "source": "The Verge",
+      "published_at": "2026-11-05T12:31:00+08:00",
+      "summary": "任天堂社長在最新的財報電話會議上表示，公司不打算再次提高 Switch 2 的價格，儘管銷售額有所下降。",
       "keywords": [
-        "嵌入式",
-        "硬體改造",
-        "低功耗",
-        "韌體開發"
+        "任天堂",
+        "Switch 2",
+        "遊戲機",
+        "價格策略",
+        "消費電子"
       ],
       "category": "Hardware",
       "rd_relevance": "Medium",
       "impact": "Low",
-      "why_it_matters": "這則新聞雖然是個趣味性專案，但它體現了在資源極度受限的嵌入式硬體上進行創意開發和性能最佳化的潛力。這能啟發我們在設計低成本或極端低功耗的邊緣裝置時，如何突破硬體限制實現更多功能。",
-      "action_suggestion": "鼓勵團隊關注並參與開源社群中的嵌入式硬體駭客專案，從中學習資源最佳化、輕量化程式設計和非常規解決方案的思路。"
+      "why_it_matters": "遊戲機作為消費電子硬體，其銷售表現和價格策略可作為我們觀察整體硬體市場環境、供應鏈成本和消費者接受度的參考。",
+      "action_suggestion": "持續關注消費性電子硬體市場的動態，尤其是其成本結構和供應鏈壓力，作為我們自有產品定價和市場策略的輔助資訊。"
     },
     {
-      "title": "Making a Wax Motor for Micrometer-Level Control",
-      "url": "https://hackaday.com/?p=1397631",
-      "source": "Hackaday",
-      "published_at": "",
-      "summary": "一種利用蠟的熱膨脹和收縮特性來實現微米級精密控制的新型蠟馬達被開發出來。",
+      "title": "Xbox overhauls its PC, web, and cloud apps with a faster design",
+      "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
+      "source": "The Verge",
+      "published_at": "2026-11-05T14:36:00+08:00",
+      "summary": "微軟正全面重新設計其 Xbox PC 應用程式、網頁和雲端遊戲服務，承諾帶來更快的啟動速度和更優化的設計。",
       "keywords": [
-        "致動器",
-        "微米控制",
-        "精密機械",
-        "硬體創新"
+        "Xbox",
+        "Microsoft",
+        "雲端遊戲",
+        "PC 應用",
+        "軟體優化"
+      ],
+      "category": "Software",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為軟體應用層面的優化，展示了通過設計改進提升用戶體驗的案例，對我們的硬體研發無直接影響，但對軟體團隊有參考價值。",
+      "action_suggestion": "無需硬體研發團隊直接行動，但可轉發給軟體開發團隊參考其應用效能優化的經驗。"
+    },
+    {
+      "title": "Where is Windows 12?",
+      "url": "https://www.theverge.com/tech/1027621/where-is-windows-12-notepad",
+      "source": "The Verge",
+      "published_at": "2026-11-05T11:29:00+08:00",
+      "summary": "文章探討了微軟為何未在近期活動中宣布 Windows 12，並指出 Windows 11 和 Copilot Plus PC 的市場反應平淡，暗示可能需要更大的創新。",
+      "keywords": [
+        "Windows 12",
+        "微軟",
+        "Copilot Plus PC",
+        "作業系統",
+        "AI PC"
+      ],
+      "category": "AI",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "AI PC 趨勢下，作業系統的發展將直接影響硬體架構和性能需求。微軟在 Windows 和 AI PC 的策略，會影響我們在相關硬體設計上的佈局，特別是 NPU 和邊緣 AI 處理器的整合。",
+      "action_suggestion": "密切關注微軟在 Windows 作業系統和 AI PC 平台上的技術發展與更新，評估其對我們未來 AI 硬體設計方向和軟硬體整合策略的潛在影響。"
+    },
+    {
+      "title": "Translating An Old Display To A New One",
+      "url": "https://hackaday.com/?p=1398089",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "市面上有許多 PCB 板能實現顯示介面的轉換，例如將 HDMI 或 VGA 轉換為 DSI，或將 DSI 轉換為 HDMI，以便連接不同類型的顯示器面板。",
+      "keywords": [
+        "顯示介面",
+        "HDMI",
+        "VGA",
+        "DSI",
+        "PCB 設計",
+        "顯示器驅動"
       ],
       "category": "Hardware",
       "rd_relevance": "High",
       "impact": "Medium",
-      "why_it_matters": "這款蠟馬達提供了一種成本可能較低、結構相對簡單，卻能達到微米級精密控制的新型致動解決方案。這對我們在需要小型化、精密運動控制的嵌入式裝置（如微型機器人、自動化儀器）的設計上，提供了全新的思路和潛在替代方案。",
-      "action_suggestion": "研究蠟馬達的工作原理、材料特性和實際應用案例，評估其在我們需要精密控制或小型化致動的產品中替代傳統馬達的可行性與優勢。"
+      "why_it_matters": "顯示介面轉換方案在專案開發中非常實用，能讓我們更靈活地選擇顯示面板，降低因介面不相容而導致的設計限制，特別是在舊系統升級或新面板導入時。",
+      "action_suggestion": "收集市面上常用的顯示介面轉換解決方案，特別是針對嵌入式與行動裝置面板的應用，建立技術備忘錄，作為未來硬體設計或原型開發的參考選項。"
     },
     {
-      "title": "From Germanium to Diamond: the Many Shapes of Semiconductors",
-      "url": "https://hackaday.com/?p=1081253",
+      "title": "Reviving Google Cardboard, Without Google or Cardboard",
+      "url": "https://hackaday.com/?p=1398076",
       "source": "Hackaday",
-      "published_at": "",
-      "summary": "文章回顧了半導體技術的歷史演進，並探討了從鍺到鑽石等不同材料在半導體領域的應用與潛力。",
+      "published_at": null,
+      "summary": "文章探討了在沒有 Google 官方支援或實體 Cardboard 設備的情況下，如何重新利用智慧型手機來體驗虛擬實境 (VR)。",
       "keywords": [
-        "半導體材料",
-        "晶片設計",
-        "材料科學",
-        "寬能隙",
-        "功率元件"
+        "Google Cardboard",
+        "VR",
+        "手機應用",
+        "虛擬實境",
+        "DIY"
       ],
-      "category": "Chip",
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為低成本 VR 解決方案的討論，展示了利用現有手機作為核心運算單元的邊緣應用潛力，但非我司核心研發方向。",
+      "action_suggestion": "無需直接行動，但可作為了解低成本移動 VR 應用的參考案例。"
+    },
+    {
+      "title": "Stunning Volumetric 3D Display Goes For a Spin",
+      "url": "https://hackaday.com/?p=1398041",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "一篇詳細介紹了 Vortex，這是一種令人驚嘆的體積 3D 顯示器，透過兩片背對背的 LED 面板高速旋轉並由 Raspberry Pi 4 控制實現。",
+      "keywords": [
+        "3D 顯示",
+        "體積顯示",
+        "LED 面板",
+        "Raspberry Pi",
+        "嵌入式系統",
+        "人機介面"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "High",
+      "impact": "Medium",
+      "why_it_matters": "體積 3D 顯示技術在人機互動與資訊視覺化方面具有創新潛力，其硬體實現方式、控制系統設計與 Raspberry Pi 的整合，對我們的嵌入式硬體開發有啟發意義。",
+      "action_suggestion": "關注新型顯示技術的發展，尤其是對人機介面有潛在提升的方案，可研究其硬體實現、控制原理和材料科學的進展，思考未來產品應用的可能性。"
+    },
+    {
+      "title": "A Tiny OS for a Tiny Board",
+      "url": "https://hackaday.com/?p=1397981",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "隨著微控制器功能日益強大，專為小型開發板設計的輕量級嵌入式作業系統 (RTOS) 數量正在增加。",
+      "keywords": [
+        "微控制器",
+        "嵌入式作業系統",
+        "RTOS",
+        "小型開發板",
+        "韌體開發"
+      ],
+      "category": "Software",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "半導體材料的創新是晶片性能提升的基礎。了解鑽石等新型半導體材料的特性與潛力，有助於我們前瞻未來晶片設計的發展方向，例如更高頻、更高功率或更耐高溫的應用，進而影響我們長期硬體研發策略和技術選型。",
-      "action_suggestion": "建立對新型半導體材料（如碳化矽、氮化鎵、鑽石等寬能隙材料）的技術追蹤機制，評估其在未來高性能、高效率或極端環境應用（如 5G/6G 通訊、高功率轉換、惡劣工業環境）中對我們產品的潛在價值。"
+      "why_it_matters": "輕量級 RTOS 的發展對於我們更有效率地開發複雜嵌入式應用、優化資源利用至關重要，選擇合適的 OS 將直接影響產品性能和開發效率。",
+      "action_suggestion": "定期評估當前市場上的輕量級嵌入式作業系統，研究其功能特性、性能指標和開發工具鏈，找出最適合我們未來產品線的 RTOS 選項，以提升開發效率和產品能力。"
+    },
+    {
+      "title": "Folding Wings Could Be The Future For Air Travel",
+      "url": "https://hackaday.com/?p=1397323",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "折疊翼在航空領域有著悠久的歷史，尤其是在軍事用途上，未來可能也將應用於民用航空以提升效率和機場空間利用率。",
+      "keywords": [
+        "折疊翼",
+        "航空科技",
+        "民航",
+        "工程設計"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為航空工程領域的技術討論，與硬體研發、晶片設計或供應鏈變化無直接關聯。",
+      "action_suggestion": "無需行動。"
+    },
+    {
+      "title": "Pitting a Modern Chess Engine on a Pentium PC Against 1996’s Deep Blue",
+      "url": "https://hackaday.com/?p=1397832",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "文章比較了在舊款 Pentium PC 上運行現代西洋棋引擎與 1996 年 Deep Blue 的性能差異，凸顯了演算法和處理器技術的巨大進步。",
+      "keywords": [
+        "西洋棋引擎",
+        "Deep Blue",
+        "Pentium PC",
+        "演算法優化",
+        "運算能力"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為對計算機科學和 AI 歷史的回顧與比較，間接肯定了硬體和軟體協同優化對 AI 發展的重要性，但對我們當前研發無直接影響。",
+      "action_suggestion": "無需行動。"
+    },
+    {
+      "title": "I Think We Should See Other SBCs",
+      "url": "https://hackaday.com/?p=1397272",
+      "source": "Hackaday",
+      "published_at": null,
+      "summary": "建議開發者在專案設計中應考量更廣泛的單板電腦 (SBC) 選項，而非僅限於少數幾個常用型號。",
+      "keywords": [
+        "單板電腦",
+        "SBC",
+        "硬體選型",
+        "專案設計",
+        "開源硬體"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "High",
+      "impact": "Medium",
+      "why_it_matters": "拓寬 SBC 選項庫能幫助我們為不同專案找到最佳的性能、成本或特定功能匹配，避免過度依賴單一平台，從而降低供應鏈風險並提高設計彈性。",
+      "action_suggestion": "指派專人定期研究市面上新的單板電腦產品，建立一個多元的 SBC 備選庫，並評估其在我們不同產品線中的適用性，以增強硬體選型的靈活性和供應鏈韌性。"
     }
   ]
 }
