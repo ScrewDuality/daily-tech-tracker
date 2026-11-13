@@ -1,513 +1,541 @@
 {
-  "timestamp": "2026-11-12T14:13:30.914907+08:00",
-  "date": "2026-11-12",
+  "timestamp": "2026-11-13T13:34:35.000480+08:00",
+  "date": "2026-11-13",
   "articles": [
     {
-      "title": "彭博：黃仁勳醜聞核心人物黃樂已返中國，現人在北京",
-      "url": "https://technews.tw/?p=1650229",
+      "title": "Microsoft 365 全球當機搶修中，微軟：涉及代管郵件服務",
+      "url": "https://technews.tw/?p=1650848",
       "source": "TechNews",
-      "published_at": "",
-      "summary": "報導指稱，輝達（Nvidia）執行長黃仁勳醜聞事件的核心人物黃樂已返回中國並身在北京。",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "微軟旗下的Microsoft 365、Outlook及Teams等服務發生全球性當機，導致部分企業用戶無法正常使用郵件及協作工具。",
       "keywords": [
-        "Nvidia",
-        "黃仁勳",
-        "中國",
-        "供應鏈",
-        "地緣政治"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "此事件可能牽動Nvidia未來在美中晶片管制下的營運策略與聲譽，間接影響其在市場上的晶片供應能力。",
-      "action_suggestion": "持續關注Nvidia相關的供應鏈與地緣政治風險報導，評估對未來晶片採購的潛在影響。"
-    },
-    {
-      "title": "韓忠清圈大型投資計畫動工，投資 6 兆韓圜先進封裝廠",
-      "url": "https://technews.tw/?p=1650231",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "韓國總統李在明出席忠清圈大型投資計畫動工典禮，宣布三星集團將投資6兆韓圜興建先進封裝廠。",
-      "keywords": [
-        "韓國",
-        "三星",
-        "先進封裝",
-        "半導體",
-        "供應鏈"
-      ],
-      "category": "Chip",
-      "rd_relevance": "High",
-      "impact": "Medium",
-      "why_it_matters": "先進封裝技術是提升晶片效能和功耗的關鍵，韓國增強此領域產能有助於供應鏈多元化，並可能推動相關技術發展。",
-      "action_suggestion": "追蹤三星先進封裝技術的進展，評估其對未來晶片選型及成本的潛在影響，尤其是在高性能計算和AI晶片方面。"
-    },
-    {
-      "title": "三星摺疊機 Q3 市占近七成 Q4 可能被蘋果超車？",
-      "url": "https://technews.tw/?p=1650218",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "儘管全球摺疊手機市場出貨量下滑，三星Q3仍以近七成市佔率領先，但Q4可能面臨蘋果競爭壓力。",
-      "keywords": [
-        "三星",
-        "摺疊手機",
-        "智慧型手機",
-        "硬體創新",
-        "終端應用"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "摺疊手機的發展趨勢反映了終端裝置在外型、材料與使用者介面上的創新，可能為嵌入式系統帶來新的設計挑戰或機會。",
-      "action_suggestion": "保持對新型態硬體裝置（如摺疊屏、柔性電子）發展的關注，了解其對嵌入式系統整合的潛在需求，但非優先級。"
-    },
-    {
-      "title": "部分員工資訊遭置外部網站，台積電：無證據顯示系統遭入侵",
-      "url": "https://technews.tw/?p=1650228",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "台積電表示部分員工資訊被放置在外部網站，但目前沒有證據顯示公司系統被入侵。",
-      "keywords": [
-        "台積電",
-        "資安",
-        "資訊安全",
-        "數據洩露",
-        "供應鏈"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "大型科技公司的資安事件提醒我們，即使是領先企業也面臨資安挑戰，強調了在所有層面（包括嵌入式系統）強化安全措施的重要性。",
-      "action_suggestion": "定期檢視團隊的資安規範與實踐，確保研發過程中資訊安全無虞，並關注供應鏈夥伴的資安態勢。"
-    },
-    {
-      "title": "LINE「預約訊息」限時免費開放，貼心傳訊不怕忘記",
-      "url": "https://technews.tw/?p=1650211",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "LINE限時免費開放「預約訊息」功能，讓使用者能設定訊息在特定時間自動傳送。",
-      "keywords": [
-        "LINE",
-        "應用程式",
-        "功能更新",
-        "通訊軟體"
+        "Microsoft 365",
+        "當機",
+        "雲端服務",
+        "企業生產力",
+        "服務中斷"
       ],
       "category": "Software",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此新聞與硬體與嵌入式系統研發無直接關聯。",
-      "action_suggestion": "無。"
+      "why_it_matters": "這則新聞主要關於軟體服務層面的中斷，對我們硬體與嵌入式系統的研發工作無直接技術關聯。",
+      "action_suggestion": "了解事件原因作為背景資訊，但無須採取硬體研發相關的具體行動。"
     },
     {
-      "title": "暖水直逼南美，NASA：今年聖嬰現象或追平甚至超越 1997 年紀錄",
-      "url": "https://technews.tw/?p=1650205",
+      "title": "終結抓寶電量焦慮！CHARGESPOT 全球借電站變身《Pokémon GO》補給站",
+      "url": "https://technews.tw/?p=1650829",
       "source": "TechNews",
-      "published_at": "",
-      "summary": "NASA指出，今年聖嬰現象可能追平甚至超越1997年的紀錄，預計將對全球氣候造成顯著影響。",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "行動電源共享服務CHARGESPOT與《Pokémon GO》合作，將借電站整合為遊戲中的補給站，方便玩家充電。",
       "keywords": [
-        "氣候變遷",
-        "聖嬰現象",
-        "NASA",
-        "環境影響",
-        "供應鏈"
+        "行動電源",
+        "共享經濟",
+        "Pokémon GO",
+        "充電設施",
+        "遊戲整合"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "嚴重的氣候現象可能導致自然災害，進而影響全球供應鏈的穩定性，包括電子元件的生產和運輸。",
-      "action_suggestion": "將氣候變遷納入供應鏈風險評估的長期考量因素，關注其對全球製造業的潛在影響。"
+      "why_it_matters": "此新聞主要涉及共享服務與遊戲應用，與硬體或嵌入式系統的核心研發範疇不直接相關。",
+      "action_suggestion": "無須採取具體行動。"
     },
     {
-      "title": "傳字節布局智慧體賽道，擬推類 Meta Muse AI 助理",
-      "url": "https://technews.tw/?p=1650190",
+      "title": "餐廳訂位、看診預約交給 AI，Meta Muse「代打電話」服務於美國付費上線",
+      "url": "https://technews.tw/?p=1650780",
       "source": "TechNews",
-      "published_at": "",
-      "summary": "據報導，字節跳動計劃在未來數週內推出一款類似Meta Muse的AI助理，積極布局智慧體賽道。",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "Meta的AI助理Muse推出付費的「代打電話」服務，能在美國協助用戶預約餐廳或看診，展現AI語音助手的實用化進展。",
       "keywords": [
-        "字節跳動",
         "AI助理",
-        "智慧體",
-        "AI終端應用",
+        "Meta Muse",
+        "語音AI",
+        "自動化服務",
+        "生活應用"
+      ],
+      "category": "AI",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "AI語音服務的實際應用落地，可能驅動對高效能、低功耗AI晶片與邊緣運算硬體的需求，值得我們關注此類AI模型的發展趨勢。",
+      "action_suggestion": "追蹤AI語音模型和自然語言處理技術的最新進展，思考其在我們未來邊緣設備產品中整合的可能性。"
+    },
+    {
+      "title": "黃仁勳陷外遇風波請辭，川普嘆：令人非常難過",
+      "url": "https://technews.tw/?p=1650789",
+      "source": "TechNews",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "NVIDIA共同創辦人黃仁勳因私人爭議辭職，美國前總統川普對此表達惋惜。",
+      "keywords": [
+        "黃仁勳",
+        "Nvidia",
+        "CEO辭職",
+        "川普",
+        "公司治理"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為公司高層的人事變動與政治人物的個人評論，對我們的硬體與嵌入式系統研發工作本身無直接影響。",
+      "action_suggestion": "無須採取具體行動。"
+    },
+    {
+      "title": "沒有黃仁勳的輝達防線鬆動？法人：ASIC 迎「黃金篡位期」轉單",
+      "url": "https://technews.tw/?p=1650810",
+      "source": "TechNews",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "NVIDIA黃仁勳辭職後，市場法人預期NVIDIA的GPU主導地位可能鬆動，為ASIC業者帶來「黃金篡位期」的轉單機會。",
+      "keywords": [
+        "Nvidia",
+        "黃仁勳",
+        "ASIC",
+        "GPU",
+        "晶片設計",
+        "AI晶片",
+        "市場競爭"
+      ],
+      "category": "Chip",
+      "rd_relevance": "High",
+      "impact": "Medium",
+      "why_it_matters": "NVIDIA領導層變動可能影響AI晶片市場格局，加速ASIC在特定應用領域的發展，這直接關乎我們在AI終端應用中晶片選型的戰略考量。",
+      "action_suggestion": "密切追蹤NVIDIA領導層變動後的產品策略與市場反應，同時加強評估ASIC方案在我們特定AI應用中的潛力，並研究與ASIC設計公司的合作可能性。"
+    },
+    {
+      "title": "探針卡需求旺、提前擴產  MJC 上修財測 股價狂飆",
+      "url": "https://technews.tw/?p=1650587",
+      "source": "TechNews",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "探針卡大廠MJC（Micronics Japan Co., Ltd.）因需求強勁而提前擴產並上修年度財測，顯示半導體測試市場保持高度景氣。",
+      "keywords": [
+        "探針卡",
+        "半導體測試",
+        "晶片製造",
+        "供應鏈",
+        "擴產",
+        "市場景氣"
+      ],
+      "category": "Chip",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "探針卡需求旺盛是半導體產業景氣的正面訊號，但可能間接影響晶片測試設備的交期和成本，對我們的產品開發週期有潛在影響。",
+      "action_suggestion": "關注半導體測試設備市場動態，確保關鍵晶片測試環節的供應穩定性，避免因測試瓶頸影響產品上市進度。"
+    },
+    {
+      "title": "美調查黃樂涉走私美超微產品，另傳與華為有關聯",
+      "url": "https://technews.tw/?p=1650779",
+      "source": "TechNews",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "美國司法部正在調查黃樂是否將美超微（Supermicro）產品走私至中國，並懷疑其與華為有關聯，凸顯地緣政治與供應鏈風險。",
+      "keywords": [
+        "美超微",
+        "走私",
+        "華為",
+        "地緣政治",
+        "供應鏈風險",
+        "美國制裁",
+        "資安"
+      ],
+      "category": "Other",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "此事件突顯地緣政治對高科技供應鏈的潛在影響，尤其美超微作為重要伺服器供應商，其產品若受制裁或供應受限，可能影響我們的基礎設施或相關產品的供應穩定性。",
+      "action_suggestion": "評估我們對美超微產品的依賴程度，制定供應鏈風險管理策略，特別是針對涉及美中敏感技術的零組件，考慮多源採購和備用方案。"
+    },
+    {
+      "title": "輝達代理 CEO，曾被黃仁勳批評只會看報表",
+      "url": "https://technews.tw/?p=1650760",
+      "source": "TechNews",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "黃仁勳辭去NVIDIA執行長職務後，由財務長Colette Kress暫代，但其曾被黃仁勳批評過於專注報表，引發外界對領導風格的討論。",
+      "keywords": [
+        "Nvidia",
+        "黃仁勳",
+        "Colette Kress",
+        "CEO",
+        "領導層變動",
+        "公司治理"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "這則新聞主要關於NVIDIA內部管理和領導風格的討論，對我們硬體與嵌入式系統研發團隊的技術方向或策略無直接影響。",
+      "action_suggestion": "無須採取具體行動，僅作為背景資訊追蹤。"
+    },
+    {
+      "title": "iPhone 18 延後推出另有隱情？日媒點名三星相機感測器供應成變數",
+      "url": "https://technews.tw/?p=1650769",
+      "source": "TechNews",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "蘋果iPhone 18 Pro/Pro Max傳出延後上市，日媒指出可能與三星相機感測器供應不穩定有關，突顯關鍵零組件供應鏈風險。",
+      "keywords": [
+        "iPhone",
+        "蘋果",
+        "三星",
+        "相機感測器",
+        "供應鏈",
+        "產品延期",
+        "硬體供應"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "這則新聞提醒我們，即使是頂級廠商也會面臨關鍵零組件供應鏈的風險，可能導致產品開發和上市延期。這對我們在選擇供應商和進行供應鏈管理時具有警示作用。",
+      "action_suggestion": "檢視我們產品的關鍵零組件供應商風險，評估是否需要多源採購或建立備用供應鏈，並與核心供應商建立更穩固的合作關係。"
+    },
+    {
+      "title": "黃仁勳緋聞案掀連鎖效應，三星、SK 海力士急升資安防護網",
+      "url": "https://technews.tw/?p=1650660",
+      "source": "TechNews",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "NVIDIA執行長黃仁勳的緋聞案被指涉中國情報背景，促使三星和SK海力士等半導體巨頭緊急加強資安防護，防範商業機密洩露。",
+      "keywords": [
+        "黃仁勳",
+        "資安",
+        "商業機密",
+        "供應鏈安全",
+        "三星",
+        "SK海力士",
+        "地緣政治"
+      ],
+      "category": "Other",
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "高科技領域的資安和商業機密保護日益重要，尤其當牽涉到地緣政治時。這提醒我們必須強化自身的研發資安防護，保護智慧財產。",
+      "action_suggestion": "審視並強化研發團隊的資安政策與實務，特別是針對機敏資料的存取、傳輸和人員管理，提升團隊成員的資安意識。"
+    },
+    {
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "source": "The Verge",
+      "published_at": "2026-11-12T19:51:00+08:00",
+      "summary": "Nvidia CEO黃仁勳辭職後，前總統川普建議蘋果前CEO Tim Cook接任。",
+      "keywords": [
+        "Donald Trump",
+        "Tim Cook",
+        "Nvidia",
+        "CEO",
+        "領導層變動"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為對NVIDIA高層變動的外部評論，非NVIDIA官方決策，對我們的技術研發無實質影響。",
+      "action_suggestion": "無須採取具體行動。"
+    },
+    {
+      "title": "Xbox announces Wolfenstein 3",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "source": "The Verge",
+      "published_at": "2026-11-12T19:11:00+08:00",
+      "summary": "Xbox宣布Bethesda旗下的遊戲續作《Wolfenstein 3》將推出。",
+      "keywords": [
+        "Xbox",
+        "Wolfenstein 3",
+        "遊戲",
+        "Bethesda",
+        "娛樂"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此新聞屬於娛樂產業的遊戲發布消息，與硬體與嵌入式系統研發工作無關。",
+      "action_suggestion": "無須採取具體行動。"
+    },
+    {
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "source": "The Verge",
+      "published_at": "2026-11-12T18:43:00+08:00",
+      "summary": "Whoop推出新的社群網路「Whoop Humans」，允許用戶分享其可穿戴設備的活動和生物數據，並強調「已驗證的心跳」。",
+      "keywords": [
+        "Whoop",
+        "可穿戴設備",
+        "健康科技",
+        "社群網路",
+        "生物感測器",
+        "數據隱私"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "可穿戴設備在健康監測和數據應用上的進展，提示了邊緣設備感測技術與數據處理的發展方向，以及用戶數據隱私和驗證的重要性。",
+      "action_suggestion": "關注可穿戴設備的生物感測技術和數據安全處理方案，思考其在我們未來邊緣設備產品中的應用潛力。"
+    },
+    {
+      "title": "Microsoft Outlook is still down",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "source": "The Verge",
+      "published_at": "2026-11-12T18:25:00+08:00",
+      "summary": "全球範圍內的Microsoft Outlook服務仍處於中斷狀態，用戶無法訪問郵件。",
+      "keywords": [
+        "Microsoft Outlook",
+        "當機",
+        "雲端服務",
+        "生產力工具",
+        "服務中斷"
+      ],
+      "category": "Software",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "同新聞1，此為軟體服務層面的問題，對硬體與嵌入式系統研發無直接影響。",
+      "action_suggestion": "無須採取具體行動。"
+    },
+    {
+      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+      "source": "The Verge",
+      "published_at": "2026-11-12T17:07:00+08:00",
+      "summary": "Xbox主機將推出新的自訂化選項，包括動態背景和Guide選單位置調整，增強用戶體驗。",
+      "keywords": [
+        "Xbox",
+        "UI/UX",
+        "客製化",
+        "遊戲機",
+        "軟體更新"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為遊戲機的軟體介面更新，與我們的硬體與嵌入式系統研發工作無直接關聯。",
+      "action_suggestion": "無須採取具體行動。"
+    },
+    {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge",
+      "published_at": "2026-11-12T16:55:00+08:00",
+      "summary": "Google發布其新的Gemini 4 Hydrogen模型，能夠更好地理解複雜、多部分或帶有錯別字的問題，並提供更全面的回答。",
+      "keywords": [
+        "Google",
+        "Gemini",
+        "AI模型",
+        "LLM",
+        "自然語言處理",
+        "複雜問題",
         "邊緣AI"
       ],
       "category": "AI",
       "rd_relevance": "High",
       "impact": "Medium",
-      "why_it_matters": "這預示著AI終端應用將更加普及和智慧化，我們的邊緣AI硬體和嵌入式系統需要為支援這類複雜的AI助理功能做好準備。",
-      "action_suggestion": "密切關注AI助理和智慧體技術的發展，評估其對邊緣AI運算能力、記憶體、感測器整合和低功耗設計的潛在要求。"
+      "why_it_matters": "大型語言模型（LLM）能力的顯著提升，特別是在理解複雜語義方面，將極大推動AI應用邊緣化，對未來邊緣AI晶片和硬體設計提出更高要求。",
+      "action_suggestion": "持續追蹤Gemini等頂級AI模型的技術進展，評估其在邊緣設備上進行高效能推論的可行性，並思考如何將其部分能力整合到我們的嵌入式系統中。"
     },
     {
-      "title": "輝達晶片流向中國只是冰山一角，黃仁勳捲入華府政治風暴",
-      "url": "https://technews.tw/?p=1650193",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "AI晶片龍頭Nvidia因晶片流向中國爭議，以及美國做空機構的指控，執行長黃仁勳捲入華府政治風暴。",
-      "keywords": [
-        "Nvidia",
-        "AI晶片",
-        "中國出口",
-        "美國管制",
-        "供應鏈風險"
-      ],
-      "category": "Chip",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "美國對AI晶片出口中國的管制持續收緊，Nvidia的供應策略調整將直接影響我們未來AI專案的晶片供應和選擇，帶來供應鏈風險。",
-      "action_suggestion": "需評估Nvidia晶片供應的不確定性，考慮多元化的晶片供應商或尋找替代方案，以降低供應鏈風險，並研究符合法規的晶片解決方案。"
-    },
-    {
-      "title": "比特幣大戶 Strategy 遭 MSCI 除名 恐引爆賣壓",
-      "url": "https://technews.tw/?p=1650173",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "MSCI宣布將比特幣大戶Strategy等多家公司剔除其指數，可能引發市場賣壓。",
-      "keywords": [
-        "比特幣",
-        "MSCI",
-        "金融市場",
-        "虛擬貨幣"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "此新聞與硬體與嵌入式系統研發無直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "時隔 19 年再任 APEC 代表，施振榮：台灣是 AI 不可或缺夥伴",
-      "url": "https://technews.tw/?p=1650183",
-      "source": "TechNews",
-      "published_at": "",
-      "summary": "宏碁創辦人施振榮將擔任APEC領袖代表，強調台灣在AI領域扮演不可或缺的角色。",
-      "keywords": [
-        "台灣",
-        "AI",
-        "APEC",
-        "產業鏈",
-        "國際合作"
-      ],
-      "category": "AI",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "台灣在AI產業鏈中的關鍵地位，意味著我們能更容易接觸到前沿的AI硬體、晶片設計與製造資源，有助於未來研發合作。",
-      "action_suggestion": "留意國內AI產業政策和技術交流機會，尋求潛在的技術夥伴或供應商，加強本土供應鏈連結。"
-    },
-    {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
       "source": "The Verge",
-      "published_at": "2026-11-11T19:55:00+08:00",
-      "summary": "據報導，因執行長黃仁勳涉嫌婚外情與可能通敵的指控，Nvidia董事會正準備解雇他。",
+      "published_at": "2026-11-12T17:45:00+08:00",
+      "summary": "多位科技界領袖對NVIDIA執行長黃仁勳辭職一事表示震驚與惋惜，認為這是一個錯誤。",
       "keywords": [
-        "Nvidia",
         "Jensen Huang",
-        "CEO變動",
-        "AI晶片",
+        "Nvidia",
+        "CEO辭職",
+        "科技領袖",
         "公司治理"
       ],
       "category": "Other",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "Nvidia作為AI晶片的核心供應商，其高層變動可能導致公司戰略調整，進而影響其產品供應、技術方向和與合作夥伴的關係，直接影響我們對其晶片的依賴。",
-      "action_suggestion": "密切關注Nvidia的官方聲明與後續發展，評估領導層變動對其晶片路線圖和供應鏈的潛在影響，考慮制定多樣化的晶片採購策略。"
-    },
-    {
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-      "source": "The Verge",
-      "published_at": "2026-11-11T18:14:00+08:00",
-      "summary": "Home Assistant推出了Connect Aux-2，一款多功能智慧家庭工具，旨在將更多非智慧裝置整合到智慧家庭中。",
-      "keywords": [
-        "智慧家庭",
-        "Home Assistant",
-        "IoT",
-        "邊緣運算",
-        "裝置整合"
-      ],
-      "category": "Edge",
-      "rd_relevance": "High",
-      "impact": "Medium",
-      "why_it_matters": "智慧家庭裝置的普及和互通性需求，對嵌入式系統的硬體介面、軟體協定和邊緣運算能力提出了更高要求，值得我們參考其設計理念。",
-      "action_suggestion": "研究Home Assistant Connect Aux-2的設計理念和技術實現，特別是在多協定支援和舊設備整合方面的做法，探索應用於我們的嵌入式解決方案。"
-    },
-    {
-      "title": "United won’t let your AI agent book your flight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "source": "The Verge",
-      "published_at": "2026-11-11T16:54:00+08:00",
-      "summary": "美國聯合航空表示不允許個人AI助理預訂機票，主要考量隱私和法規問題。",
-      "keywords": [
-        "AI代理",
-        "隱私",
-        "法規",
-        "AI應用",
-        "倫理"
-      ],
-      "category": "AI",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "顯示AI應用在商業和公共服務領域面臨的規範挑戰，提醒我們在設計AI硬體時需考慮未來應用層面的合規性。",
-      "action_suggestion": "了解AI應用在各行業的倫理和法規發展，為未來產品規劃提供參考，尤其是在資料處理和個人隱私保護方面。"
+      "why_it_matters": "同新聞4、8、11，此為對NVIDIA高層人事變動的外部評論，與我們的技術研發無實質關聯。",
+      "action_suggestion": "無須採取具體行動。"
     },
     {
-      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
       "source": "The Verge",
-      "published_at": "2026-11-11T13:13:00+08:00",
-      "summary": "歐盟提出《數位公平法案》（DFA），旨在規範遊戲、社群媒體和電商平台，以保護消費者。",
+      "published_at": "2026-11-12T16:33:00+08:00",
+      "summary": "為慶祝Xbox 25週年，微軟開放25款原版Xbox遊戲可在Windows PC上遊玩。",
       "keywords": [
-        "歐盟",
-        "數位公平法案",
-        "消費者保護",
-        "平台監管",
-        "法規"
+        "Xbox",
+        "PC遊戲",
+        "懷舊遊戲",
+        "微軟",
+        "遊戲兼容性"
       ],
       "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此新聞與硬體與嵌入式系統研發無直接關聯。",
-      "action_suggestion": "無。"
+      "why_it_matters": "此新聞屬於娛樂產業的遊戲兼容性消息，與硬體與嵌入式系統研發工作無關。",
+      "action_suggestion": "無須採取具體行動。"
     },
     {
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
       "source": "The Verge",
-      "published_at": "2026-11-11T09:15:00+08:00",
-      "summary": "Google推出Tabletop AI實驗工具，讓使用者能透過描述來客製化協作應用程式。",
+      "published_at": "2026-11-12T14:42:00+08:00",
+      "summary": "Google研究員聲稱AI代理發現瑪雅遺址被證實為誤報，該遺址已在去年被發現並發表，突顯AI應用需謹慎驗證。",
       "keywords": [
-        "Google",
-        "AI工具",
-        "協作應用",
-        "客製化",
-        "軟體開發"
+        "AI應用",
+        "AI倫理",
+        "數據驗證",
+        "考古學",
+        "AI限制",
+        "誤報"
       ],
       "category": "AI",
-      "rd_relevance": "Low",
+      "rd_relevance": "Medium",
       "impact": "Low",
-      "why_it_matters": "顯示AI在提升軟體開發效率和客製化方面的潛力，但對硬體研發無直接影響。",
-      "action_suggestion": "無。"
+      "why_it_matters": "這提醒我們在開發和應用AI技術時，必須重視數據的準確性、模型結果的嚴謹驗證，以及AI技術的固有局限性，避免誤導性結果。",
+      "action_suggestion": "在AI功能產品開發過程中，加強數據品質管理和模型驗證流程，設計魯棒的錯誤處理與結果解釋機制，確保AI應用安全可靠。"
     },
     {
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
       "source": "The Verge",
-      "published_at": "2026-11-11T09:18:00+08:00",
-      "summary": "Google DeepMind發布了AlphaGenome 2 AI模型，旨在深入分析DNA變化如何影響細胞，以找出疾病成因。",
+      "published_at": "2026-11-12T13:13:00+08:00",
+      "summary": "Palantir執行長Alex Karp在選舉後試圖改變公司形象，向左翼靠攏，引發外界討論。",
       "keywords": [
-        "Google DeepMind",
-        "AlphaGenome 2",
-        "AI模型",
-        "基因",
-        "醫療應用"
+        "Palantir",
+        "政治立場",
+        "公司形象",
+        "數據分析",
+        "科技公司"
       ],
-      "category": "AI",
+      "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "顯示AI在複雜科學研究中對運算能力的極高要求，雖然非直接，但可作為未來高性能計算需求的一個側面參考。",
-      "action_suggestion": "無。"
+      "why_it_matters": "此新聞討論科技公司的政治立場與形象定位，與我們的硬體與嵌入式系統研發工作無直接關聯。",
+      "action_suggestion": "無須採取具體行動。"
     },
     {
-      "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-      "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-      "source": "The Verge",
-      "published_at": "2026-11-11T09:46:00+08:00",
-      "summary": "Sony推出新款PlayStation Pulse無線耳機，以實惠價格提供平面磁驅動單體，音質表現良好。",
+      "title": "Hacking Meta’s Smart Glasses",
+      "url": "https://hackaday.com/?p=1425067",
+      "source": "Hackaday",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "Meta的Ray-Ban智能眼鏡因其潛在監控功能引發爭議，但也有人正探索其駭客潛力。",
       "keywords": [
-        "Sony",
-        "耳機",
-        "無線音訊",
-        "平面磁驅動",
-        "硬體創新"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "體現了消費電子產品在音訊技術（如平面磁驅動）和無線連接上的持續創新，對關注新技術應用有參考價值。",
-      "action_suggestion": "了解消費電子領域的音訊技術趨勢，但非研發團隊的優先級項目。"
-    },
-    {
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "source": "The Verge",
-      "published_at": "2026-11-11T07:56:00+08:00",
-      "summary": "Adobe展示多項AI實驗功能，包括將圖片轉化為3D場景、透過對話設計AI角色以及簡化照片編輯。",
-      "keywords": [
-        "Adobe",
-        "AI實驗",
-        "圖像處理",
-        "3D場景",
-        "創意工具"
-      ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "顯示AI在生成式內容和3D重建方面對高性能計算的需求，為我們未來邊緣AI硬體需要支援的應用類型提供參考。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "source": "The Verge",
-      "published_at": "2026-11-10T16:22:00+08:00",
-      "summary": "報導指出所有電視製造商都會收集使用者數據，即使部分資料非產品運作所需，引發用戶對隱私的擔憂。",
-      "keywords": [
-        "智慧電視",
+        "Meta",
+        "智能眼鏡",
+        "Ray-Ban",
+        "監控",
         "隱私",
-        "數據收集",
-        "嵌入式系統安全",
-        "物聯網"
+        "駭客",
+        "邊緣硬體",
+        "穿戴式設備"
       ],
       "category": "Edge",
-      "rd_relevance": "Medium",
+      "rd_relevance": "High",
       "impact": "Medium",
-      "why_it_matters": "智慧裝置廣泛存在的數據收集問題，要求我們在設計嵌入式系統和邊緣AI產品時，需從硬體層面提供足夠的隱私保護和資料安全機制，以符合法規和用戶期望。",
-      "action_suggestion": "研發時需將隱私保護和數據安全納入設計考量，確保嵌入式系統遵循相關法規，並向用戶提供透明的數據使用政策與控制權。"
+      "why_it_matters": "智能眼鏡作為典型的邊緣計算設備，其安全漏洞和隱私爭議提醒我們在設計類似產品時，必須將硬體和軟體的安全性與用戶隱私保護視為核心優先事項。",
+      "action_suggestion": "在開發任何邊緣計算或穿戴式設備時，應將安全設計融入初期階段，進行嚴格的漏洞測試和隱私影響評估，並建立安全更新機制。"
     },
     {
-      "title": "Not everyone is loving their new iPhone Duo",
-      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
-      "source": "The Verge",
-      "published_at": "2026-11-10T22:52:00+08:00",
-      "summary": "iPhone Duo上市兩週後，部分早期購買者對其使用體驗表示不滿並退貨。",
+      "title": "Watch That Sound: Your Own Chladni Plate",
+      "url": "https://hackaday.com/?p=1425113",
+      "source": "Hackaday",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "介紹如何使用揚聲器和細顆粒製作Chladni板，以視覺化方式呈現聲波振動圖案。",
       "keywords": [
-        "iPhone Duo",
-        "智慧型手機",
-        "消費者回饋",
-        "產品體驗",
-        "硬體設計"
+        "聲學",
+        "振動",
+        "物理實驗",
+        "DIY",
+        "揚聲器",
+        "可視化"
       ],
-      "category": "Hardware",
+      "category": "Other",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "產品的市場接受度受多種因素影響，包括硬體設計與用戶體驗，可作為新產品開發的借鑑。",
-      "action_suggestion": "了解新產品（尤其創新形態產品）上市後的市場反饋，作為未來產品規劃和設計優化的參考。"
+      "why_it_matters": "此為科普性質的DIY實驗介紹，與我們的硬體與嵌入式系統研發的商業應用或技術趨勢無直接關聯。",
+      "action_suggestion": "無須採取具體行動。"
     },
     {
-      "title": "A LEGO 3D Printer",
-      "url": "https://hackaday.com/?p=1424838",
+      "title": "Upgrade Your CoCo The Modern Way",
+      "url": "https://hackaday.com/?p=1425110",
       "source": "Hackaday",
-      "published_at": "",
-      "summary": "一位創客使用樂高積木製作了一台功能性的3D印表機。",
-      "keywords": [
-        "樂高",
-        "3D印表機",
-        "創客",
-        "硬體改造",
-        "開源硬體"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "此新聞展現了個人創客的硬體組裝與設計創意，但與團隊前沿硬體研發無直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "It’s Elite, For The Commodore Pet",
-      "url": "https://hackaday.com/?p=1424870",
-      "source": "Hackaday",
-      "published_at": "",
-      "summary": "關於經典遊戲Elite在Commodore Pet平台上的實現，代表了技術發展中的里程碑。",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "文章探討如何以現代方式升級Radio Shack TRS-80 Colour Computer的硬體，使其更符合當代需求。",
       "keywords": [
         "復古電腦",
-        "遊戲開發",
-        "Commodore Pet",
-        "歷史技術"
+        "硬體升級",
+        "DIY",
+        "嵌入式系統",
+        "改造"
       ],
-      "category": "Other",
+      "category": "Hardware",
       "rd_relevance": "Low",
       "impact": "Low",
-      "why_it_matters": "此新聞為歷史性技術回顧，與當前硬體與嵌入式系統研發無直接關聯。",
-      "action_suggestion": "無。"
+      "why_it_matters": "此為針對特定復古硬體的改裝分享，不代表當前的產業研發主流方向或技術趨勢。",
+      "action_suggestion": "無須採取具體行動。"
     },
     {
-      "title": "FLOSS Weekly Episode 883: Telnet Broke Us",
-      "url": "https://hackaday.com/?p=1424906&preview=true&preview_id=1424906",
+      "title": "Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications",
+      "url": "https://hackaday.com/?p=1425015",
       "source": "Hackaday",
-      "published_at": "",
-      "summary": "本集節目探討AI生成AI代理的「勇敢新世界」，以及Agent Audit Kit和Agent Airlock等工具。",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "Baochip-1x是一款主要開源的22nm系統級晶片（SoC），專為高安全性應用設計，提供更高的透明度和可信賴性。",
       "keywords": [
-        "AI代理",
-        "AI生成",
-        "資安",
-        "開源軟體",
-        "AI倫理"
+        "SoC",
+        "開源硬體",
+        "晶片設計",
+        "高安全應用",
+        "22nm",
+        "嵌入式系統",
+        "硬體安全"
       ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "討論AI代理的安全和審計問題，提醒我們在設計AI硬體時也需考慮其所支援的AI軟體應用的安全規範。",
-      "action_suggestion": "無，但可作為了解AI領域資安和倫理挑戰的參考。"
+      "category": "Chip",
+      "rd_relevance": "High",
+      "impact": "Medium",
+      "why_it_matters": "開源SoC的出現為高安全嵌入式系統提供了新的設計思路和潛在替代方案，有助於降低開發成本、提升透明度及客製化程度，值得我們評估。",
+      "action_suggestion": "研究Baochip-1x這類開源高安全SoC的技術規格、生態系統與成熟度，評估其在我們產品中實現高安全性應用場景的可行性與效益，並考慮是否納入未來晶片選型的考量。"
     },
     {
-      "title": "Modular, 3D Printed Train Whistles For Everyone",
-      "url": "https://hackaday.com/?p=1424831",
+      "title": "Just Use QWIIC Already",
+      "url": "https://hackaday.com/?p=1397311",
       "source": "Hackaday",
-      "published_at": "",
-      "summary": "一個關於模組化3D列印火車汽笛的專案。",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "文章鼓勵硬體開發者在I2C連接器生態系統中，優先使用QWIIC連接器，以簡化開發流程。",
       "keywords": [
-        "3D列印",
+        "QWIIC",
+        "I2C",
+        "連接器",
+        "硬體開發",
         "模組化",
-        "創客專案",
-        "聲學設計"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "此新聞為創客層面的趣味專案，非團隊前沿研發重點。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "CHIP 8: The Pong Game’s Afoot!",
-      "url": "https://hackaday.com/?p=1397178",
-      "source": "Hackaday",
-      "published_at": "",
-      "summary": "討論編寫電腦遊戲的挑戰，並以Pong遊戲為例，探討從古至今的遊戲開發。",
-      "keywords": [
-        "遊戲開發",
-        "CHIP 8",
-        "復古遊戲",
-        "程式設計"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "此新聞為歷史性技術回顧，與當前硬體與嵌入式系統研發無直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "The Drawer Every Standing Desk Needs",
-      "url": "https://hackaday.com/?p=1398204",
-      "source": "Hackaday",
-      "published_at": "",
-      "summary": "討論電動升降桌的人體工學和健康益處，以及收納方面的設計。",
-      "keywords": [
-        "電動升降桌",
-        "人體工學",
-        "辦公設備",
-        "設計"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "此新聞為辦公室設備設計相關，與硬體與嵌入式系統研發無直接關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "EV Batteries Are Proving Hardier Than Expected",
-      "url": "https://hackaday.com/?p=1396686",
-      "source": "Hackaday",
-      "published_at": "",
-      "summary": "電動車電池的耐用性比預期更好，不像舊智慧型手機電池那樣快速衰退。",
-      "keywords": [
-        "電動車",
-        "電池技術",
-        "能源儲存",
-        "耐用性",
-        "嵌入式電源"
+        "原型設計"
       ],
       "category": "Hardware",
       "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "提高電池壽命和穩定性對於我們開發的需長期運作或部署在惡劣環境下的嵌入式/邊緣AI設備至關重要。",
-      "action_suggestion": "追蹤電動車電池（如LFP、固態電池等）技術的發展，評估其在非車載應用中（如儲能、大型邊緣設備）的潛力，作為未來電源管理設計的參考。"
+      "impact": "Low",
+      "why_it_matters": "連接器標準化可有效簡化硬體開發、加速原型製作和模組化，對提升研發效率有實質幫助，是我們硬體設計過程中的細節優化考量。",
+      "action_suggestion": "內部討論並評估QWIIC等模組化連接器標準，考慮其在未來產品原型開發和模組化設計中是否能帶來效率提升，並制定相應的設計規範。"
+    },
+    {
+      "title": "USB-C Hub or Nintendo Switch 2 Dock? Relax, It’s Both!",
+      "url": "https://hackaday.com/?p=1425004",
+      "source": "Hackaday",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "一款創新的USB-C Hub被設計成能同時充當任天堂Switch 2的Dock，實現多功能集成。",
+      "keywords": [
+        "USB-C",
+        "Nintendo Switch 2",
+        "Dock",
+        "硬體設計",
+        "多功能設備",
+        "嵌入式系統"
+      ],
+      "category": "Hardware",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "USB-C介面的多功能集成應用是硬體設計的趨勢，能提升用戶便利性並減少設備複雜度，可作為我們在產品功能整合上的參考。",
+      "action_suggestion": "在產品設計中考慮USB-C介面的多功能集成潛力，評估如何通過單一介面實現更多功能，以優化產品設計和用戶體驗。"
+    },
+    {
+      "title": "The Sextant: Navigating The Old Way",
+      "url": "https://hackaday.com/?p=1397322",
+      "source": "Hackaday",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "文章介紹了傳統航海工具「六分儀」的工作原理和導航方式，回顧過去的測量技術。",
+      "keywords": [
+        "六分儀",
+        "導航",
+        "歷史",
+        "測量",
+        "光學"
+      ],
+      "category": "Other",
+      "rd_relevance": "Low",
+      "impact": "Low",
+      "why_it_matters": "此為歷史和科學科普內容，對我們硬體與嵌入式系統研發的當前技術或商業應用無直接關聯。",
+      "action_suggestion": "無須採取具體行動。"
     }
   ]
 }
