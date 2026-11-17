@@ -1,516 +1,120 @@
 {
-  "timestamp": "2026-11-16T13:20:22.715595+08:00",
-  "date": "2026-11-16",
+  "timestamp": "2026-11-17T15:01:00.147875+08:00",
+  "date": "2026-11-17",
   "articles": [
     {
-      "title": "AI 用電需求推升核電回歸，鈾價刷新紀錄",
-      "url": "https://technews.tw/?p=1651598",
+      "title": "美嚴控先進 AI 晶片出口，供應鏈：製造流向有既定機制監管",
+      "url": "https://technews.tw/?p=1652396",
       "source": "TechNews",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "人工智慧帶動的用電需求持續升溫，正把全球能源市場推向核電回歸與鈾價走高的新階段。這將直接影響未來AI數據中心的基礎設施建設與營運成本。",
-      "keywords": [
-        "AI",
-        "數據中心",
-        "能源",
-        "核電",
-        "功耗"
-      ],
-      "category": "Other",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "AI硬體設計必須考慮功耗效率，未來AI數據中心的能源成本和可用性是重要考量，這將影響我們產品的總體擁有成本與部署策略。",
-      "action_suggestion": "關注高效能低功耗晶片與系統設計的技術路線，評估大型AI基礎設施的能源供給風險及對我們產品功耗優化的要求。"
-    },
-    {
-      "title": "法人富邦投顧：台廠短線承壓但具高度替代門檻、拉回迎布局良機",
-      "url": "https://technews.tw/?p=1651662",
-      "source": "TechNews",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "NVIDIA 驚傳重大人事震盪，富邦投顧認為台灣廠商雖短線承壓，但因其在 AI 供應鏈中具高度替代門檻，長期仍是布局良機。",
-      "keywords": [
-        "AI晶片",
-        "供應鏈",
-        "NVIDIA",
-        "台灣",
-        "市場分析"
-      ],
-      "category": "Chip",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "NVIDIA作為AI晶片龍頭的任何變動都可能影響全球AI晶片供應，了解台灣供應鏈的韌性有助於我們評估元件採購風險及長期合作策略。",
-      "action_suggestion": "持續與主要晶片供應商保持密切溝通，了解NVIDIA事件的後續發展，評估潛在的供應鏈波動風險並制定應對策略。"
-    },
-    {
-      "title": "月球並非靜止不變！NASA 揭露十項事實：繼續遠離地球且內部不斷收縮",
-      "url": "https://technews.tw/?p=1651568",
-      "source": "TechNews",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "NASA科學網站整理出關於月球的十項新事實，顛覆了許多傳統認知，例如月球仍在遠離地球且內部持續收縮。",
-      "keywords": [
-        "月球",
-        "NASA",
-        "天文學",
-        "科學"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一則天文學科普新聞，與我們的硬體研發、晶片設計、供應鏈或AI終端應用無直接相關性。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "SK 海力士計畫建半導體測試中心，助韓中小型廠商提升競爭力",
-      "url": "https://technews.tw/?p=1651669",
-      "source": "TechNews",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "SK 海力士計畫與韓國政府合作，明年設立半導體測試中心，旨在提升韓國中小型半導體設備商的全球競爭力。",
-      "keywords": [
-        "半導體",
-        "SK海力士",
-        "測試中心",
-        "韓國",
-        "設備商"
-      ],
-      "category": "Chip",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "提升半導體設備測試能力有助於整個產業的技術進步和供應鏈多樣化，未來可能有更多可靠的半導體設備或服務供應商選擇，間接支持我們在晶片設計與製造環節的需求。",
-      "action_suggestion": "關注韓國半導體產業鏈的發展，了解潛在的新技術和供應商，評估其對未來晶片製造和測試服務的影響。"
-    },
-    {
-      "title": "楊金龍：黃仁勳事件是短期亂流，台灣 AI 供應鏈角色毋庸置疑",
-      "url": "https://technews.tw/?p=1651576",
-      "source": "TechNews",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "針對輝達前執行長黃仁勳請辭引發的爭議，中央銀行總裁楊金龍表示這僅是短期亂流，台灣在AI供應鏈中的關鍵角色毋庸置疑。",
-      "keywords": [
-        "AI供應鏈",
-        "台灣",
-        "NVIDIA",
-        "半導體",
-        "市場信心"
-      ],
-      "category": "Chip",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "進一步強化了台灣在AI晶片供應鏈中不可或缺的地位，讓團隊對未來硬體元件的供應鏈穩定性有更清晰的預期，有助於穩定市場對AI產業的信心。",
-      "action_suggestion": "保持現有供應鏈合作關係，同時持續關注NVIDIA內部變化對產品路線圖的潛在影響，以備不時之需。"
-    },
-    {
-      "title": "AI 巨頭爭相招募反情報專家，年薪上看 50 萬美元",
-      "url": "https://technews.tw/?p=1651550",
-      "source": "TechNews",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "在AI競賽中，人工智慧公司對反情報與商業機密保護的需求快速攀升，巨頭企業爭相招募反情報專家以防禦內部外部滲透。",
-      "keywords": [
-        "AI",
-        "資安",
-        "商業機密",
-        "反情報",
-        "產業競爭"
-      ],
-      "category": "AI",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "AI技術的敏感性和競爭性使得商業機密保護成為重中之重，團隊應加強研發過程中的資訊安全措施，特別是在晶片設計和硬體開發領域。",
-      "action_suggestion": "審視並強化內部資安政策、IP保護措施，對研發數據和設計文件進行更嚴格的管理，並對團隊成員進行保密意識培訓。"
-    },
-    {
-      "title": "150 萬機器人大軍上線，亞馬遜揭密「人機協作」藍圖：不搶飯碗，只扛重擔",
-      "url": "https://technews.tw/?p=1651555",
-      "source": "TechNews",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "亞馬遜大規模部署150萬機器人，強調人機協作的自動化藍圖，以提高倉儲效率並減輕人類員工負擔。",
-      "keywords": [
-        "機器人",
-        "自動化",
-        "人機協作",
-        "亞馬遜",
-        "嵌入式系統"
-      ],
-      "category": "Edge",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "亞馬遜的實踐證明了大規模機器人部署的可行性與效益，人機協作是重要趨勢，為我們的機器人嵌入式和邊緣AI產品提供了明確的應用場景與發展方向。",
-      "action_suggestion": "深入研究機器人與人機協作技術，評估開發適合物流、倉儲等場景的嵌入式AI系統和硬體模組的可行性，並探索多模態感知與人機互動的解決方案。"
-    },
-    {
-      "title": "熙特爾結盟美韓能源大廠，拓展海外大型儲能市場",
-      "url": "https://technews.tw/?p=1651529",
-      "source": "TechNews",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "因應全球AI資料中心用電需求攀升，大型儲能及電力基礎建設市場成長，熙特爾新能源宣布與美韓能源大廠結盟拓展海外市場。",
-      "keywords": [
-        "儲能",
-        "資料中心",
-        "AI",
-        "能源基礎設施",
-        "電力"
-      ],
-      "category": "Other",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "AI數據中心對大型儲能的需求不斷增長，這將影響AI硬體部署的整體成本和環境影響，團隊需關注能源效率與儲能技術的整合，以符合未來基礎設施的要求。",
-      "action_suggestion": "關注大型儲能技術發展及其對AI數據中心設計和營運的影響，探索邊緣AI裝置的能源優化方案與可持續供電解決方案。"
-    },
-    {
-      "title": "Gartner 預測 2030 年 AI 淨增 170 萬個工作機會，逾 4 億人工作內容須改寫",
-      "url": "https://technews.tw/?p=1651542",
-      "source": "TechNews",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "研究機構Gartner預測，到2030年AI將淨增170萬個工作機會，但同時也將改寫逾4億人的工作內容。",
-      "keywords": [
-        "AI",
-        "工作機會",
-        "勞動市場",
-        "Gartner",
-        "趨勢預測"
-      ],
-      "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "雖與硬體技術無直接關聯，但顯示AI將持續改變各行各業，團隊應保持對AI技術發展的敏感度，以便抓住新應用機會，調整長期戰略方向。",
-      "action_suggestion": "持續專注於核心研發，同時保持對AI技術社會影響的宏觀關注，以利未來戰略規劃和人才培育。"
-    },
-    {
-      "title": "中國情報網猛攻西方矽谷，FBI、MI5 齊聲警告：晶片與 AI 已成國安破口",
-      "url": "https://technews.tw/?p=1651543",
-      "source": "TechNews",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "美國媒體報導，中國針對西方科技與人工智慧（AI）產業的情報行動正引發國際高度警戒，FBI和MI5警告晶片與AI已成國安破口。",
-      "keywords": [
-        "晶片",
-        "AI",
-        "國安",
-        "情報",
-        "技術竊取"
-      ],
-      "category": "Chip",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "晶片與AI技術已上升到國家安全層面，團隊在晶片設計、供應鏈選擇和國際合作方面需更謹慎，嚴防技術洩漏，並預期未來可能更嚴格的技術管制。",
-      "action_suggestion": "立即檢視並強化所有研發階段的資安協議和保護措施，特別是涉及晶片IP和AI核心技術的部分；同時關注國際技術貿易政策變化，評估對供應鏈的潛在影響。"
-    },
-    {
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "source": "The Verge",
-      "published_at": "2026-11-15T20:47:00+08:00",
-      "summary": "Apple宣布與OpenEvidence合作進行一項新研究，旨在更好地理解人們如何與會話式AI健康工具互動及其回應的有用性。",
-      "keywords": [
-        "Apple",
-        "AI",
-        "健康工具",
-        "終端應用",
-        "使用者體驗"
-      ],
-      "category": "AI",
-      "rd_relevance": "High",
-      "impact": "Medium",
-      "why_it_matters": "蘋果的投入突顯AI健康工具市場的巨大潛力，我們應關注AI在健康監測、穿戴設備等終端應用上的軟硬體整合與用戶體驗，這可能為邊緣AI硬體帶來新機會。",
-      "action_suggestion": "追蹤AI健康工具的技術趨勢和用戶需求，評估開發相關邊緣AI硬體或嵌入式解決方案的可能性，特別是低功耗、高精度感測器整合。"
-    },
-    {
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-      "source": "The Verge",
-      "published_at": "2026-11-15T16:05:00+08:00",
-      "summary": "United Launch Alliance (ULA)的Vulcan火箭首次任務失敗，導致40顆Amazon Leo衛星被摧毀，這是ULA 20年來首次任務失敗。",
-      "keywords": [
-        "火箭發射",
-        "衛星",
-        "Amazon Leo",
-        "ULA",
-        "航太"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一則航太事故新聞，與我們的硬體研發、晶片設計、供應鏈或AI終端應用無直接相關性。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "source": "The Verge",
-      "published_at": "2026-11-15T23:17:00+08:00",
-      "summary": "Nvidia共同創辦人兼前執行長黃仁勳的相關戲劇性事件持續發酵，最新傳聞指出他可能正尋求重返執行長職位。",
-      "keywords": [
-        "NVIDIA",
-        "Jensen Huang",
-        "領導層",
-        "AI晶片",
-        "市場動態"
-      ],
-      "category": "Chip",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "NVIDIA領導層的持續不確定性可能影響其AI晶片和GPU的未來發展策略，進而影響我們在AI硬體設計時對其技術路線和產品供應的選擇。",
-      "action_suggestion": "密切關注NVIDIA的內部動態，特別是其領導層和產品發展策略，評估潛在的晶片供應和技術支援風險，並預備替代方案。"
-    },
-    {
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "source": "The Verge",
-      "published_at": "2026-11-15T14:15:00+08:00",
-      "summary": "在Nvidia間諜醜聞後，美國國會尋求進一步收緊AI晶片的出口規則，兩黨皆支持加強相關限制措施。",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "美國政府發布新規定，進一步限制先進 AI 晶片出口至海外資料中心，產業人士指出上游供應鏈影響有限，因製造流向有既定監管機制。",
       "keywords": [
         "AI晶片",
         "出口管制",
         "供應鏈",
-        "美國國會",
-        "國安"
+        "地緣政治",
+        "資料中心"
       ],
       "category": "Chip",
       "rd_relevance": "High",
       "impact": "High",
-      "why_it_matters": "美國對AI晶片的出口管制將進一步收緊，對我們採購高階AI晶片、規劃產品路線圖帶來直接挑戰，需提前應對供應鏈斷鏈和技術獲取受限的風險。",
-      "action_suggestion": "立即評估當前及未來晶片採購的潛在風險，尋找替代供應商或考慮採用更多本地化/多元化供應鏈策略，並密切關注相關法規的具體細則及其影響。"
+      "why_it_matters": "地緣政治因素持續深刻影響先進 AI 晶片的全球供應與市場，這直接關係到我們在晶片設計與硬體研發上的可取得性、成本及技術路線選擇。",
+      "action_suggestion": "密切追蹤美國出口管制政策的後續發展與細節，評估對我們目前或未來 AI 晶片採購策略、供應鏈穩定性及產品出海規劃的潛在影響。研究替代性晶片供應商或考量在地化生產可能性。"
     },
     {
-      "title": "Apple’s first smart glasses are coming together",
-      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
-      "source": "The Verge",
-      "published_at": "2026-11-15T11:59:00+08:00",
-      "summary": "彭博社報導Apple首款智能眼鏡將於明年WWDC大會上公布，初期不具備擴增實境功能，但預計在年底前出貨。",
+      "title": "AI 抓漏速度遠超以往，Anthropic 宣布重大資安漏洞揭露期限縮短至 30 天",
+      "url": "https://technews.tw/?p=1652385",
+      "source": "TechNews",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "Anthropic 旗下的 Frontier Red Team 宣布自 2027 年起，重大資安漏洞揭露期限將縮短至 30 天，顯示 AI 在資安漏洞偵測方面的能力大幅提升。",
       "keywords": [
-        "Apple",
-        "智能眼鏡",
-        "穿戴設備",
-        "硬體",
-        "邊緣AI"
-      ],
-      "category": "Edge",
-      "rd_relevance": "High",
-      "impact": "High",
-      "why_it_matters": "蘋果進入智能眼鏡市場將加速該領域的發展，為邊緣AI和嵌入式系統提供新的終端應用場景，我們應研究其對硬體設計、低功耗、感測器和AI互動的影響。",
-      "action_suggestion": "追蹤蘋果智能眼鏡的技術細節和應用生態，評估邊緣AI晶片、低功耗硬體模組和感測器技術在下一代智能穿戴設備中的潛力，為開發相關解決方案做準備。"
-    },
-    {
-      "title": "The Sony Aibo was a robot revolution dressed like a dog",
-      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-      "source": "The Verge",
-      "published_at": "2026-11-15T08:57:00+08:00",
-      "summary": "回顧1990年代索尼Aibo機器狗的發展，它曾被視為機器人革命的先驅，展現了消費級機器人的潛力。",
-      "keywords": [
-        "機器人",
-        "Sony Aibo",
-        "消費級硬體",
-        "AI互動",
-        "嵌入式系統"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "了解消費級機器人產品的歷史發展，對機器人硬體與AI互動設計有借鑒意義，有助於我們思考未來機器人產品的用戶體驗和功能演進。",
-      "action_suggestion": "從歷史案例中學習消費級機器人的硬體和AI設計經驗，探索將其應用於現代嵌入式AI系統設計的潛力。"
-    },
-    {
-      "title": "An overview of Jensen Huang’s messy days",
-      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "source": "The Verge",
-      "published_at": "2026-11-14T19:09:00+08:00",
-      "summary": "這篇專欄概述了Nvidia共同創辦人黃仁勳辭職及其後續的混亂局面，包括與中國間諜醜聞的牽連。",
-      "keywords": [
-        "NVIDIA",
-        "Jensen Huang",
-        "AI晶片",
-        "領導層危機",
-        "供應鏈"
-      ],
-      "category": "Chip",
-      "rd_relevance": "Medium",
-      "impact": "Medium",
-      "why_it_matters": "NVIDIA作為AI晶片龍頭的內部動盪，可能導致其產品策略、技術發展和供應鏈穩定性發生變化，對我們的AI硬體設計選擇產生影響。",
-      "action_suggestion": "持續監控NVIDIA的領導層變化和產品路線圖，評估其對我們專案的潛在風險，準備應急方案以應對可能的供應中斷或技術轉向。"
-    },
-    {
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge",
-      "published_at": "2026-11-13T19:06:00+08:00",
-      "summary": "OpenAI前董事會成員Helen Toner在採訪中表示，我們仍不能完全信任AI公司的CEO，強調AI安全與政策的重要性。",
-      "keywords": [
-        "AI倫理",
-        "AI安全",
-        "OpenAI",
-        "領導力",
-        "政策"
+        "AI資安",
+        "漏洞偵測",
+        "嵌入式安全",
+        "軟體開發",
+        "Anthropic"
       ],
       "category": "AI",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這則新聞主要討論AI倫理和治理，與硬體和嵌入式系統的直接技術研發關聯度較低，但提醒團隊關注AI技術的社會影響。",
-      "action_suggestion": "無直接技術行動建議，但團隊成員應保持對AI倫理和治理議題的關注，以利未來技術發展與應用方向的長期思考。"
+      "rd_relevance": "Medium",
+      "impact": "Medium",
+      "why_it_matters": "AI 在加速資安漏洞發現上的能力，意味著我們開發的硬體與嵌入式系統，從設計到部署都必須具備更高的安全標準和更快的應變能力。",
+      "action_suggestion": "檢視現有的嵌入式系統安全開發生命週期 (SDL)，評估導入 AI 輔助的資安測試工具可行性。加強硬體層面的安全機制設計，並規劃更快速的韌體更新與漏洞修補流程。"
     },
     {
-      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-      "source": "The Verge",
-      "published_at": "2026-11-14T10:22:00+08:00",
-      "summary": "Tesla正邀請部分客戶購買「個人使用」的Cybercab，但訂單條款細則顯示其使用區域受到嚴格限制。",
+      "title": "防堵 AI 遭濫用於兒少性剝削，OpenAI 推出偵測工具並升級 ChatGPT 防護",
+      "url": "https://technews.tw/?p=1652372",
+      "source": "TechNews",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "OpenAI 宣布強化措施，以防堵人工智慧遭濫用於兒少性剝削，包含推出新的影像分類器和升級 ChatGPT 的防護能力。",
       "keywords": [
-        "Tesla",
-        "Cybercab",
-        "自動駕駛",
+        "AI應用",
+        "影像分類",
         "邊緣AI",
-        "智能交通"
+        "道德AI",
+        "內容審查"
       ],
-      "category": "Edge",
+      "category": "AI",
+      "rd_relevance": "Medium",
+      "impact": "Low",
+      "why_it_matters": "此新聞展示了 AI 在影像內容分析與審查方面的進步，這類技術有望應用於邊緣 AI 設備，實現更即時的智能監控與安全防護，但同時也需考量隱私與合規性。",
+      "action_suggestion": "持續關注 AI 影像識別與內容審查技術的發展，評估其在特定邊緣應用場景中的潛力，例如智慧安防或工業檢測，並研究如何平衡性能、隱私與運算資源的需求。"
+    },
+    {
+      "title": "神雲科技於 SC26 展出全棧基礎設施，擴展代理式 AI 應用",
+      "url": "https://technews.tw/?p=1652399",
+      "source": "TechNews",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "神雲科技在 SC26 展出全棧基礎設施，積極擴展「代理式 AI 應用」，提供從伺服器到儲存的高效能解決方案。",
+      "keywords": [
+        "AI基礎設施",
+        "代理式AI",
+        "高效能伺服器",
+        "AI加速器",
+        "硬體解決方案"
+      ],
+      "category": "AI",
       "rd_relevance": "High",
       "impact": "Medium",
-      "why_it_matters": "Tesla在自動駕駛領域的發展，展示了邊緣AI在智能交通中的挑戰與機遇，我們應關注自動駕駛硬體平台的設計、感測器技術和安全性考量，這可能啟發相關硬體解決方案的開發。",
-      "action_suggestion": "追蹤自動駕駛技術的硬體和軟體發展趨勢，評估邊緣AI晶片在自動駕駛系統中的應用潛力，考慮開發相關硬體模組和解決方案。"
+      "why_it_matters": "「代理式 AI 應用」是 AI 發展的新趨勢，需要強大的運算基礎設施支持。神雲科技的舉動顯示市場對高效能 AI 硬體解決方案的需求持續增長，也為我們在邊緣運算或終端 AI 產品的設計提供了參考。",
+      "action_suggestion": "研究代理式 AI 應用的技術需求與市場走向，評估其對我們未來硬體架構、晶片選擇及系統整合方案的影響。可與神雲科技這類廠商進行技術交流，了解最新的 AI 硬體設計趨勢。"
     },
     {
-      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-      "source": "The Verge",
-      "published_at": "2026-11-14T09:16:00+08:00",
-      "summary": "一款帶有雙類比搖桿的微型遊戲手把，展現了便攜式控制器在小型化和人機介面設計上的極限。",
+      "title": "How Metal Foam Could Make Cars Safer",
+      "url": "https://hackaday.com/?p=1425183",
+      "source": "Hackaday",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "金屬泡沫材料在汽車安全應用上展現潛力，能有效吸收衝擊能量，提升車輛的被動安全性。",
       "keywords": [
-        "遊戲手把",
-        "小型化",
+        "材料科學",
+        "金屬泡沫",
         "硬體設計",
-        "人機互動",
-        "便攜設備"
+        "衝擊吸收",
+        "散熱"
       ],
       "category": "Hardware",
       "rd_relevance": "Medium",
       "impact": "Low",
-      "why_it_matters": "提醒我們在嵌入式系統和邊緣裝置設計時，要兼顧小型化、人機互動體驗和功能集成，以提升未來產品的便攜性和用戶滿意度。",
-      "action_suggestion": "關注小型化、高整合度硬體設計和創新人機互動技術，將其應用於未來我們邊緣裝置和嵌入式系統的開發中。"
+      "why_it_matters": "金屬泡沫等新型材料可能為我們的硬體產品提供更輕、更堅固或更優異的散熱解決方案，尤其是在需要高強度與良好散熱效能的嵌入式系統外殼設計上。",
+      "action_suggestion": "關注金屬泡沫等先進材料在消費性電子或工業級硬體應用上的進展，評估其在產品結構設計、熱管理或防護等級提升上的潛在效益，可進行小規模材料特性研究。"
     },
     {
-      "title": "VapourDeck is the 486 Handheld You Didn’t Know You Needed",
-      "url": "https://hackaday.com/?p=1428139",
+      "title": "New Super Magnets Turbocharge the Large Hadron Collider",
+      "url": "https://hackaday.com/?p=1428227",
       "source": "Hackaday",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "這篇文章介紹了一款令人印象深刻的自製486掌上電腦VapourDeck，為DOS遊戲愛好者帶來了復古的便攜體驗。",
+      "published_at": "2023-11-17T00:00:00Z",
+      "summary": "大型強子對撞機 (LHC) 透過新型超導磁體升級，大幅提升其效能以進行更深入的物理研究。",
       "keywords": [
-        "自製硬體",
-        "掌上電腦",
-        "復古計算",
-        "硬體設計",
-        "DOS遊戲"
+        "超導技術",
+        "磁體",
+        "能源效率",
+        "散熱",
+        "高功率"
       ],
       "category": "Hardware",
       "rd_relevance": "Medium",
       "impact": "Low",
-      "why_it_matters": "凸顯了硬體設計的創造性和挑戰，以及如何將舊技術應用於新形態，對團隊的硬體工程師有啟發意義，激發創新思維和實踐精神。",
-      "action_suggestion": "鼓勵團隊成員關注開源硬體專案和自製設計，從中學習跨領域技術整合和小型化設計的思路。"
-    },
-    {
-      "title": "Hackaday Links: November 15, 2026",
-      "url": "https://hackaday.com/?p=1428100&preview=true&preview_id=1428100",
-      "source": "Hackaday",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "這篇文章是Hackaday的日常連結彙編，其中提到Hackaday Supercon活動的成功舉辦，並提供了相關資訊。",
-      "keywords": [
-        "Hackaday",
-        "Supercon",
-        "硬體社群",
-        "技術活動"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一則關於技術社群活動的資訊，與我們的硬體研發、晶片設計、供應鏈或AI終端應用無直接相關性。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "Loop Antennas for Transmitting",
-      "url": "https://hackaday.com/?p=1428093",
-      "source": "Hackaday",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "隨著越來越多的無線電愛好者無法架設大型室外天線，環形天線因其優勢而日益受到歡迎，儘管仍存在一些權衡。",
-      "keywords": [
-        "天線",
-        "無線通訊",
-        "射頻",
-        "硬體設計",
-        "嵌入式系統"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "了解不同類型天線的優勢與取捨，對於我們在設計無線嵌入式系統時選擇更合適的通訊解決方案至關重要，尤其在受限空間下。",
-      "action_suggestion": "相關硬體工程師可深入研究環形天線技術及其在特定產品或應用中的潛力，評估其小型化和性能優勢。"
-    },
-    {
-      "title": "An Orbital Sanders Crash Course and the Threat of HAVS",
-      "url": "https://hackaday.com/?p=1428059",
-      "source": "Hackaday",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "這篇文章介紹了軌道砂光機的使用，並警告了其對操作者可能造成的職業病「手部震動綜合症」（HAVS）。",
-      "keywords": [
-        "工具使用",
-        "職業健康",
-        "砂光機",
-        "安全"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一則關於工具使用和職業健康的新聞，與我們的硬體研發、晶片設計、供應鏈或AI終端應用無直接相關性。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "Printing Smooth Upper Surfaces with a Non-Planar Slicer",
-      "url": "https://hackaday.com/?p=1425391",
-      "source": "Hackaday",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "非平面切片技術為3D列印帶來了新的可能性，承諾可列印出更平滑的表面，並減少或消除支撐結構。",
-      "keywords": [
-        "3D列印",
-        "非平面切片",
-        "製造技術",
-        "原型製作",
-        "表面處理"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "3D列印技術的進步可以提供更精良的原型或客製化產品外殼，縮短硬體開發週期，對我們產品設計和快速迭代有間接幫助。",
-      "action_suggestion": "關注3D列印新技術，評估其在原型製作和小批量客製化生產中的應用潛力，尤其是在複雜結構和表面品質要求較高的零件上。"
-    },
-    {
-      "title": "An MP3 Player, Implemented As A Factorio Blueprint",
-      "url": "https://hackaday.com/?p=1425384",
-      "source": "Hackaday",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "在工廠模擬遊戲Factorio中，有玩家成功實現了一個功能齊全的MP3播放器，展示了遊戲內邏輯電路的極限應用。",
-      "keywords": [
-        "Factorio",
-        "MP3播放器",
-        "軟體實現",
-        "遊戲設計",
-        "邏輯電路"
-      ],
-      "category": "Other",
-      "rd_relevance": "Low",
-      "impact": "Low",
-      "why_it_matters": "這是一個創意性的軟體實現，主要屬於娛樂或程式設計範疇，與我們的硬體研發無直接技術關聯。",
-      "action_suggestion": "無。"
-    },
-    {
-      "title": "Reverse Engineer that USB Device in Style",
-      "url": "https://hackaday.com/?p=1427961",
-      "source": "Hackaday",
-      "published_at": "2026-11-15T00:00:00Z",
-      "summary": "這篇文章探討了如何對USB設備進行逆向工程，以理解其通訊協定和內部運作，這對於開源駭客和開發者非常有用。",
-      "keywords": [
-        "USB",
-        "逆向工程",
-        "硬體分析",
-        "驅動程式",
-        "開源"
-      ],
-      "category": "Hardware",
-      "rd_relevance": "Medium",
-      "impact": "Low",
-      "why_it_matters": "掌握逆向工程工具和技術，有助於我們在嵌入式系統開發中解決複雜的硬體接口問題、進行驅動開發或安全評估。",
-      "action_suggestion": "鼓勵相關硬體和韌體工程師學習和探索USB逆向工程工具與方法，提升故障排除和系統整合能力，並在必要時進行安全分析。"
+      "why_it_matters": "雖然此技術用於大型科學儀器，但超導磁體的發展可能預示著未來電力傳輸、高效能馬達或特殊感測器等硬體元件的革命性突破，對我們的長期研發有潛在影響。",
+      "action_suggestion": "將超導材料與技術列入長期技術觀察清單，特別關注其在室溫超導或商業化應用上的突破，這可能在未來改變高功率嵌入式系統的設計或電源管理策略。"
     }
   ]
 }
